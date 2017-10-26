@@ -1,0 +1,754 @@
+DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_NEP,STATUS
+1,Taplejung,ताप्लेजुङ,आठराई त्रिवेणी,Rural Municipality
+1,Taplejung,ताप्लेजुङ,फक्ताङलुङ,Rural Municipality
+1,Taplejung,ताप्लेजुङ,फुङलिङ,Urban Municipality
+1,Taplejung,ताप्लेजुङ,मिक्वाखोला,Rural Municipality
+1,Taplejung,ताप्लेजुङ,मेरिङदेन,Rural Municipality
+1,Taplejung,ताप्लेजुङ,मैवाखोला,Rural Municipality
+1,Taplejung,ताप्लेजुङ,याङवरक,Rural Municipality
+1,Taplejung,ताप्लेजुङ,सिदिङ्वा,Rural Municipality
+1,Taplejung,ताप्लेजुङ,सिरीजङ्घा,Rural Municipality
+2,Panchthar,पाँचथर,याङवरक,Rural Municipality
+2,Panchthar,पाँचथर,मिक्लाजुङ,Rural Municipality
+2,Panchthar,पाँचथर,फिदिम,Urban Municipality
+2,Panchthar,पाँचथर,हिलिहाङ,Rural Municipality
+2,Panchthar,पाँचथर,फालेलुङ,Rural Municipality
+2,Panchthar,पाँचथर,तुम्वेवा,Rural Municipality
+2,Panchthar,पाँचथर,कुम्मायक,Rural Municipality
+2,Panchthar,पाँचथर,फाल्गुनन्द,Rural Municipality
+3,Ilam,इलाम,सूर्योदय,Urban Municipality
+3,Ilam,इलाम,सन्दकपुर,Rural Municipality
+3,Ilam,इलाम,रोङ,Rural Municipality
+3,Ilam,इलाम,माईजोगमाई,Rural Municipality
+3,Ilam,इलाम,माङसेबुङ,Rural Municipality
+3,Ilam,इलाम,फाकफोकथुम,Rural Municipality
+3,Ilam,इलाम,देउमाई,Urban Municipality
+3,Ilam,इलाम,चुलाचुली,Rural Municipality
+3,Ilam,इलाम,इलाम,Urban Municipality
+3,Ilam,इलाम,माई,Urban Municipality
+4,Jhapa,झापा,विर्तामोड,Urban Municipality
+4,Jhapa,झापा,भद्रपुर,Urban Municipality
+4,Jhapa,झापा,झापा,Rural Municipality
+4,Jhapa,झापा,कन्काई,Urban Municipality
+4,Jhapa,झापा,हल्दीवारी,Rural Municipality
+4,Jhapa,झापा,शिवसताक्षि,Urban Municipality
+4,Jhapa,झापा,मेची नगर,Urban Municipality
+4,Jhapa,झापा,गौरीगंज,Rural Municipality
+4,Jhapa,झापा,बाह्रदशी,Rural Municipality
+4,Jhapa,झापा,दमक,Urban Municipality
+4,Jhapa,झापा,गौरादह,Urban Municipality
+4,Jhapa,झापा,कमल,Rural Municipality
+4,Jhapa,झापा,कचनकवल,Rural Municipality
+4,Jhapa,झापा,अर्जुनधारा,Urban Municipality
+4,Jhapa,झापा,बुद्धशान्ति,Rural Municipality
+5,Morang,मोरङ,उर्लावारी,Urban Municipality
+5,Morang,मोरङ,कानेपोखरी,Rural Municipality
+5,Morang,मोरङ,केरावारी,Rural Municipality
+5,Morang,मोरङ,जहदा,Rural Municipality
+5,Morang,मोरङ,धनपालथान,Rural Municipality
+5,Morang,मोरङ,पथरी शनिश्चरे,Urban Municipality
+5,Morang,मोरङ,बेलवारी,Urban Municipality
+5,Morang,मोरङ,मिक्लाजुङ,Rural Municipality
+5,Morang,मोरङ,रंगेली,Urban Municipality
+5,Morang,मोरङ,सुनवर्षी,Urban Municipality
+5,Morang,मोरङ,लेटाङ,Urban Municipality
+5,Morang,मोरङ,सुन्दरहरैंचा,Urban Municipality
+5,Morang,मोरङ,कटहरी,Rural Municipality
+5,Morang,मोरङ,ग्रामथान,Rural Municipality
+5,Morang,मोरङ,बुढीगंगा,Rural Municipality
+5,Morang,मोरङ,विराटनगर,Metropolitan City
+5,Morang,मोरङ,रतुवामाई,Urban Municipality
+6,Sunsari,सुनसरी,ईटहरी,Sub-metropolitan City
+6,Sunsari,सुनसरी,दुहवी,Urban Municipality
+6,Sunsari,सुनसरी,गढी,Rural Municipality
+6,Sunsari,सुनसरी,देवानगन्ज,Rural Municipality
+6,Sunsari,सुनसरी,कोशी,Rural Municipality
+6,Sunsari,सुनसरी,बराह,Urban Municipality
+6,Sunsari,सुनसरी,बर्जु,Rural Municipality
+6,Sunsari,सुनसरी,भोक्राहा,Rural Municipality
+6,Sunsari,सुनसरी,रामधुनी,Urban Municipality
+6,Sunsari,सुनसरी,हरिनगरा,Rural Municipality
+6,Sunsari,सुनसरी,ईनरुवा,Urban Municipality
+6,Sunsari,सुनसरी,धरान,Sub-metropolitan City
+7,Dhankuta,धनकुटा,खाल्सा छिन्ताङ सहीदभूमि,Rural Municipality
+7,Dhankuta,धनकुटा,चौविसे,Rural Municipality
+7,Dhankuta,धनकुटा,छथर जोरपाटी,Rural Municipality
+7,Dhankuta,धनकुटा,धनकुटा,Urban Municipality
+7,Dhankuta,धनकुटा,पाख्रिवास,Urban Municipality
+7,Dhankuta,धनकुटा,महालक्ष्मी,Urban Municipality
+7,Dhankuta,धनकुटा,सागुरीगढी,Rural Municipality
+8,Terhathum,तेर्हथुम,आठराई ,Rural Municipality
+8,Terhathum,तेर्हथुम,छथर,Rural Municipality
+8,Terhathum,तेर्हथुम,मेन्छयायेम,Rural Municipality
+8,Terhathum,तेर्हथुम,म्याङलुङ,Urban Municipality
+8,Terhathum,तेर्हथुम,लालिगुँरास,Urban Municipality
+8,Terhathum,तेर्हथुम,फेदाप ,Rural Municipality
+9,Sankhuwasabha,संखुवासभा,मादी,Urban Municipality
+9,Sankhuwasabha,संखुवासभा,मकालु,Rural Municipality
+9,Sankhuwasabha,संखुवासभा,भोटखोला,Rural Municipality
+9,Sankhuwasabha,संखुवासभा,पाँचखपन,Urban Municipality
+9,Sankhuwasabha,संखुवासभा,खाँदवारी,Urban Municipality
+9,Sankhuwasabha,संखुवासभा,सभापोखरी,Rural Municipality
+9,Sankhuwasabha,संखुवासभा,धर्मदेवी,Urban Municipality
+9,Sankhuwasabha,संखुवासभा,चैनपुर,Urban Municipality
+9,Sankhuwasabha,संखुवासभा,चिचिला,Rural Municipality
+9,Sankhuwasabha,संखुवासभा,सिलीचोङ,Rural Municipality
+10,Bhojpur,भोजपुर,आमचोक,Rural Municipality
+10,Bhojpur,भोजपुर,साल्पासिलिछो,Rural Municipality
+10,Bhojpur,भोजपुर,षडानन्द,Urban Municipality
+10,Bhojpur,भोजपुर,रामप्रसाद राई,Rural Municipality
+10,Bhojpur,भोजपुर,भोजपुर,Urban Municipality
+10,Bhojpur,भोजपुर,पौवादुङमा,Rural Municipality
+10,Bhojpur,भोजपुर,ट्याम्केमैयुम,Rural Municipality
+10,Bhojpur,भोजपुर,अरुण,Rural Municipality
+10,Bhojpur,भोजपुर,हतुवागढी,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,सोलु दुधकुण्ड,Urban Municipality
+11,Solukhumbu,सोलुखुम्बु,सोताङ,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,लिखु पिके,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,महाकुलुङ,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,नेचासल्यान,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,दुधकोशी,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,खुम्वु पासाङल्हमु,Rural Municipality
+11,Solukhumbu,सोलुखुम्बु,दुधकौशिका,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,चम्पादेवी ,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,सुनकोशी,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,सिद्दिचरण,Urban Municipality
+12,Okhaldhunga,ओखलढुंगा,लिखु ,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,मोलुङ,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,मानेभञ्ज्याङ,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,चिशंखुगढी,Rural Municipality
+12,Okhaldhunga,ओखलढुंगा,खिजिदेम्वा,Rural Municipality
+13,Khotang,खोटाङ,हलेसी तुवाचुङ,Urban Municipality
+13,Khotang,खोटाङ,रुपाकोट मजुवागढी,Urban Municipality
+13,Khotang,खोटाङ,बराहपोखरी,Rural Municipality
+13,Khotang,खोटाङ,जन्तेढुंगा,Rural Municipality
+13,Khotang,खोटाङ,खोटेहाङ,Rural Municipality
+13,Khotang,खोटाङ,केपिलासगढी,Rural Municipality
+13,Khotang,खोटाङ,ऐसेलुखर्क,Rural Municipality
+13,Khotang,खोटाङ,लामीडाँडा,Rural Municipality
+13,Khotang,खोटाङ,दिप्रुङ,Rural Municipality
+13,Khotang,खोटाङ,साकेला,Rural Municipality
+14,Udayapur,उदयपुर,ताप्ली,Rural Municipality
+14,Udayapur,उदयपुर,सुनकोशी,Rural Municipality
+14,Udayapur,उदयपुर,वेलका ,Urban Municipality
+14,Udayapur,उदयपुर,रौतामाई,Rural Municipality
+14,Udayapur,उदयपुर,उदयपुरगढी,Rural Municipality
+14,Udayapur,उदयपुर,चौदण्डीगढी,Urban Municipality
+14,Udayapur,उदयपुर,कटारी ,Urban Municipality
+14,Udayapur,उदयपुर,त्रियुगा,Urban Municipality
+15,Saptari,सप्तरी,रुपनी,Rural Municipality
+15,Saptari,सप्तरी,वलान-विहुल,Rural Municipality
+15,Saptari,सप्तरी,विष्णुपुर,Rural Municipality
+15,Saptari,सप्तरी,सुरुङ्गा,Urban Municipality
+15,Saptari,सप्तरी,सप्तकोशी ,Urban Municipality
+15,Saptari,सप्तरी,हनुमाननगर कङ्कालिनी,Urban Municipality
+15,Saptari,सप्तरी,राजविराज,Urban Municipality
+15,Saptari,सप्तरी,शम्भुनाथ ,Urban Municipality
+15,Saptari,सप्तरी,महादेवा,Rural Municipality
+15,Saptari,सप्तरी,डाक्नेश्वरी,Urban Municipality
+15,Saptari,सप्तरी,बेल्ही चपेना,Rural Municipality
+15,Saptari,सप्तरी,तिलाठी कोईलाडी,Rural Municipality
+15,Saptari,सप्तरी,तिरहुत,Rural Municipality
+15,Saptari,सप्तरी,छिन्नमस्ता,Rural Municipality
+15,Saptari,सप्तरी,खडक,Urban Municipality
+15,Saptari,सप्तरी,कञ्चनरुप,Urban Municipality
+15,Saptari,सप्तरी,अग्नीसाइर कृष्णासवरन,Rural Municipality
+15,Saptari,सप्तरी,बोदे बरसाइन,Urban Municipality
+16,Siraha,सिराहा,भगवानपुर,Rural Municipality
+16,Siraha,सिराहा,सुखीपुर,Urban Municipality
+16,Siraha,सिराहा,सिराहा,Urban Municipality
+16,Siraha,सिराहा,सखुवानान्कारकट्टी,Rural Municipality
+16,Siraha,सिराहा,विष्णुपुर,Rural Municipality
+16,Siraha,सिराहा,लक्ष्मीपुर पतारी,Rural Municipality
+16,Siraha,सिराहा,मिर्चैया,Urban Municipality
+16,Siraha,सिराहा,बरियारपट्टी,Rural Municipality
+16,Siraha,सिराहा,लहान,Urban Municipality
+16,Siraha,सिराहा,नरहा,Rural Municipality
+16,Siraha,सिराहा,धनगढीमाई,Urban Municipality
+16,Siraha,सिराहा,गोलबजार,Urban Municipality
+16,Siraha,सिराहा,कल्याणपुर,Urban Municipality
+16,Siraha,सिराहा,कर्जन्हा,Urban Municipality
+16,Siraha,सिराहा,औरही,Rural Municipality
+16,Siraha,सिराहा,अर्नमा,Rural Municipality
+16,Siraha,सिराहा,नवराजपुर,Rural Municipality
+17,Dhanusa,धनुषा,लक्ष्मीनिया,Rural Municipality
+17,Dhanusa,धनुषा,विदेह,Urban Municipality
+17,Dhanusa,धनुषा,शहीदनगर,Urban Municipality
+17,Dhanusa,धनुषा,सबैला,Urban Municipality
+17,Dhanusa,धनुषा,हंसपुर,Urban Municipality
+17,Dhanusa,धनुषा,मुखियापट्टी मुसहरमिया,Rural Municipality
+17,Dhanusa,धनुषा,औरही ,Rural Municipality
+17,Dhanusa,धनुषा,जनकनन्दिनी,Rural Municipality
+17,Dhanusa,धनुषा,क्षिरेश्वरनाथ,Urban Municipality
+17,Dhanusa,धनुषा,गणेशमान चारनाथ,Urban Municipality
+17,Dhanusa,धनुषा,जनकपुर,Sub-metropolitan City
+17,Dhanusa,धनुषा,धनुषाधाम,Urban Municipality
+17,Dhanusa,धनुषा,धनौजी,Rural Municipality
+17,Dhanusa,धनुषा,नगराइन,Urban Municipality
+17,Dhanusa,धनुषा,कमला,Urban Municipality
+17,Dhanusa,धनुषा,मिथिला बिहारी,Urban Municipality
+17,Dhanusa,धनुषा,मिथिला,Urban Municipality
+17,Dhanusa,धनुषा,बटेश्वर,Rural Municipality
+18,Mahottari,महोत्तरी,भँगाहा,Urban Municipality
+18,Mahottari,महोत्तरी,सोनमा,Rural Municipality
+18,Mahottari,महोत्तरी,मटिहानी,Urban Municipality
+18,Mahottari,महोत्तरी,लोहरपट्टी,Urban Municipality
+18,Mahottari,महोत्तरी,रामगोपालपुर,Urban Municipality
+18,Mahottari,महोत्तरी,महोत्तरी,Rural Municipality
+18,Mahottari,महोत्तरी,मनरा शिसवा,Urban Municipality
+18,Mahottari,महोत्तरी,साम्सी,Rural Municipality
+18,Mahottari,महोत्तरी,औरही,Urban Municipality
+18,Mahottari,महोत्तरी,गौशाला,Urban Municipality
+18,Mahottari,महोत्तरी,जलेश्वर,Urban Municipality
+18,Mahottari,महोत्तरी,पिपरा,Rural Municipality
+18,Mahottari,महोत्तरी,बर्दिबास,Urban Municipality
+18,Mahottari,महोत्तरी,बलवा,Urban Municipality
+18,Mahottari,महोत्तरी,एकडारा,Rural Municipality
+19,Sarlahi,सर्लाही,बरहथवा,Urban Municipality
+19,Sarlahi,सर्लाही,पर्सा,Rural Municipality
+19,Sarlahi,सर्लाही,धनकौल,Rural Municipality
+19,Sarlahi,सर्लाही,गोडैटा ,Urban Municipality
+19,Sarlahi,सर्लाही,चक्रघट्टा ,Rural Municipality
+19,Sarlahi,सर्लाही,कौडेना,Rural Municipality
+19,Sarlahi,सर्लाही,कविलासी,Urban Municipality
+19,Sarlahi,सर्लाही,ईश्वरपुर,Urban Municipality
+19,Sarlahi,सर्लाही,चन्द्रनगर,Rural Municipality
+19,Sarlahi,सर्लाही,बलरा,Urban Municipality
+19,Sarlahi,सर्लाही,बागमती,Urban Municipality
+19,Sarlahi,सर्लाही,बसबरिया,Rural Municipality
+19,Sarlahi,सर्लाही,हरिवन,Urban Municipality
+19,Sarlahi,सर्लाही,हरिपुर्वा,Urban Municipality
+19,Sarlahi,सर्लाही,हरिपुर,Urban Municipality
+19,Sarlahi,सर्लाही,विष्णु,Rural Municipality
+19,Sarlahi,सर्लाही,लालबन्दी,Urban Municipality
+19,Sarlahi,सर्लाही,रामनगर,Rural Municipality
+19,Sarlahi,सर्लाही,मलंगवा,Urban Municipality
+19,Sarlahi,सर्लाही,ब्रह्मपुरी ,Rural Municipality
+20,Sindhuli,सिन्धुली,हरिहरपुरगढी,Rural Municipality
+20,Sindhuli,सिन्धुली,सुनकोशी,Rural Municipality
+20,Sindhuli,सिन्धुली,गोलन्जोर,Rural Municipality
+20,Sindhuli,सिन्धुली,फिक्कल,Rural Municipality
+20,Sindhuli,सिन्धुली,कमलामाई,Urban Municipality
+20,Sindhuli,सिन्धुली,घ्याङलेख,Rural Municipality
+20,Sindhuli,सिन्धुली,तिनपाटन,Rural Municipality
+20,Sindhuli,सिन्धुली,दुधौली,Urban Municipality
+20,Sindhuli,सिन्धुली,मरिण,Rural Municipality
+21,Ramechhap,रामेछाप,दोरम्बा,Rural Municipality
+21,Ramechhap,रामेछाप,लिखु,Rural Municipality
+21,Ramechhap,रामेछाप,खाँडादेवी,Rural Municipality
+21,Ramechhap,रामेछाप,मन्थली,Urban Municipality
+21,Ramechhap,रामेछाप,उमाकुण्ड,Rural Municipality
+21,Ramechhap,रामेछाप,सुनापती,Rural Municipality
+21,Ramechhap,रामेछाप,रामेछाप,Urban Municipality
+21,Ramechhap,रामेछाप,गोकुलगङ्गा,Rural Municipality
+22,Dolakha,दोलखा,शैलुङ ,Rural Municipality
+22,Dolakha,दोलखा,वैतेश्वर ,Rural Municipality
+22,Dolakha,दोलखा,विगु,Rural Municipality
+22,Dolakha,दोलखा,भिमेश्वर ,Urban Municipality
+22,Dolakha,दोलखा,तामाकोशी ,Rural Municipality
+22,Dolakha,दोलखा,जिरी ,Urban Municipality
+22,Dolakha,दोलखा,गौरिशंकर ,Rural Municipality
+22,Dolakha,दोलखा,मेलुङ ,Rural Municipality
+22,Dolakha,दोलखा,कालिन्चोक ,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,त्रिपुरासुन्दरी,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,लिसंखु पाखर,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,चौतारा साँगाचोकगढी,Urban Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,जुगल,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,बलेफी,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,पाँचपोखरी थाङपाल ,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,मेलम्ची,Urban Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,र्इन्द्रावती,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,वाह्रविसे,Urban Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,सुनकोशी,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,हेलम्बु ,Rural Municipality
+23,Sindhupalchok,सिन्धुपाल्चोक,भोटेकोशी,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,खानीखोला,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,चौंरीदेउराली,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,धुलिखेल,Urban Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,नमोबुद्ध,Urban Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,पनौती,Urban Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,भुम्लु,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,बेथानचोक,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,मण्डनदेउपुर,Urban Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,रोशी,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,महाभारत,Rural Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,पाँचखाल,Urban Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,बनेपा,Urban Municipality
+24,Kavrepalanchok,काभ्रेपलाञ्चोक,तेमाल,Rural Municipality
+25,Lalitpur,ललितपुर,महालक्ष्मी,Urban Municipality
+25,Lalitpur,ललितपुर,महाङ्काल,Rural Municipality
+25,Lalitpur,ललितपुर,बाग्मती,Rural Municipality
+25,Lalitpur,ललितपुर,गोदावरी,Urban Municipality
+25,Lalitpur,ललितपुर,कोन्ज्योसोम,Rural Municipality
+25,Lalitpur,ललितपुर,ललितपुर,Metropolitan City
+26,Bhaktapur,भक्तपुर,मध्यपुर थिमी,Urban Municipality
+26,Bhaktapur,भक्तपुर,भक्तपुर,Urban Municipality
+26,Bhaktapur,भक्तपुर,चाँगुनारायण,Urban Municipality
+26,Bhaktapur,भक्तपुर,सूर्यविनायक,Urban Municipality
+27,Kathmandu,काठमाडौं,किर्तिपुर,Urban Municipality
+27,Kathmandu,काठमाडौं,काठमाण्डौ,Metropolitan City
+27,Kathmandu,काठमाडौं,कागेश्वरी मनोहरा,Urban Municipality
+27,Kathmandu,काठमाडौं,नागार्जुन,Urban Municipality
+27,Kathmandu,काठमाडौं,दक्षिणकाली,Urban Municipality
+27,Kathmandu,काठमाडौं,तारकेश्वर,Urban Municipality
+27,Kathmandu,काठमाडौं,चन्द्रागिरी,Urban Municipality
+27,Kathmandu,काठमाडौं,बुढानिलकण्ठ,Urban Municipality
+27,Kathmandu,काठमाडौं,टोखा,Urban Municipality
+27,Kathmandu,काठमाडौं,गोकर्णेश्वर,Urban Municipality
+27,Kathmandu,काठमाडौं,शङ्खरापुर,Urban Municipality
+28,Nuwakot,नुवाकोट,किस्पाङ,Rural Municipality
+28,Nuwakot,नुवाकोट,ककनी,Rural Municipality
+28,Nuwakot,नुवाकोट,शिवपुरी,Rural Municipality
+28,Nuwakot,नुवाकोट,पञ्चकन्या,Rural Municipality
+28,Nuwakot,नुवाकोट,तादी,Rural Municipality
+28,Nuwakot,नुवाकोट,तारकेश्वर,Rural Municipality
+28,Nuwakot,नुवाकोट,बेलकोटगढी,Urban Municipality
+28,Nuwakot,नुवाकोट,सुर्यगढी,Rural Municipality
+28,Nuwakot,नुवाकोट,विदुर,Urban Municipality
+28,Nuwakot,नुवाकोट,लिखु,Rural Municipality
+28,Nuwakot,नुवाकोट,मेघाङ,Rural Municipality
+28,Nuwakot,नुवाकोट,दुप्चेश्वर,Rural Municipality
+29,Rasuwa,रसुवा,कालिका,Rural Municipality
+29,Rasuwa,रसुवा,गोसाईकुण्ड,Rural Municipality
+29,Rasuwa,रसुवा,नौकुण्ड,Rural Municipality
+29,Rasuwa,रसुवा,पार्वतीकुण्ड,Rural Municipality
+29,Rasuwa,रसुवा,उत्तरगया,Rural Municipality
+30,Dhading,धादिङ्ग,गङ्गाजमुना,Rural Municipality
+30,Dhading,धादिङ्ग,बेनीघाट रोराङ्ग,Rural Municipality
+30,Dhading,धादिङ्ग,खनियाबास,Rural Municipality
+30,Dhading,धादिङ्ग,गजुरी,Rural Municipality
+30,Dhading,धादिङ्ग,ज्वालामूखी,Rural Municipality
+30,Dhading,धादिङ्ग,त्रिपुरासुन्दरी,Rural Municipality
+30,Dhading,धादिङ्ग,थाक्रे,Rural Municipality
+30,Dhading,धादिङ्ग,धुनीबेंशी,Urban Municipality
+30,Dhading,धादिङ्ग,निलकण्ठ,Urban Municipality
+30,Dhading,धादिङ्ग,नेत्रावती,Rural Municipality
+30,Dhading,धादिङ्ग,रुवी भ्याली,Rural Municipality
+30,Dhading,धादिङ्ग,सिद्धलेक,Rural Municipality
+30,Dhading,धादिङ्ग,गल्छी,Rural Municipality
+31,Makwanpur,मकवानपुर,राक्सिराङ्ग,Rural Municipality
+31,Makwanpur,मकवानपुर,मनहरी,Rural Municipality
+31,Makwanpur,मकवानपुर,मकवानपुरगढी,Rural Municipality
+31,Makwanpur,मकवानपुर,बाग्मती,Rural Municipality
+31,Makwanpur,मकवानपुर,बकैया,Rural Municipality
+31,Makwanpur,मकवानपुर,थाहा,Urban Municipality
+31,Makwanpur,मकवानपुर,ईन्द्र सरोवर,Rural Municipality
+31,Makwanpur,मकवानपुर,हेटौडा,Sub-metropolitan City
+31,Makwanpur,मकवानपुर,भीमफेदी,Rural Municipality
+31,Makwanpur,मकवानपुर,कैलाश,Rural Municipality
+32,Rautahat,रौतहट,यमुनामाई ,Rural Municipality
+32,Rautahat,रौतहट,मौलापुर,Urban Municipality
+32,Rautahat,रौतहट,राजदेवी,Urban Municipality
+32,Rautahat,रौतहट,माधव नारायण,Urban Municipality
+32,Rautahat,रौतहट,बौधीमाई,Urban Municipality
+32,Rautahat,रौतहट,फतुवा बिजयपुर,Urban Municipality
+32,Rautahat,रौतहट,परोहा,Urban Municipality
+32,Rautahat,रौतहट,देवाही गोनाही  ,Urban Municipality
+32,Rautahat,रौतहट,दुर्गा भगवती,Rural Municipality
+32,Rautahat,रौतहट,ईशनाथ,Urban Municipality
+32,Rautahat,रौतहट,गौर,Urban Municipality
+32,Rautahat,रौतहट,गुजरा,Urban Municipality
+32,Rautahat,रौतहट,गरुडा,Urban Municipality
+32,Rautahat,रौतहट,गढीमाई,Urban Municipality
+32,Rautahat,रौतहट,कटहरिया,Urban Municipality
+32,Rautahat,रौतहट,वृन्दावन,Urban Municipality
+32,Rautahat,रौतहट,राजपुर,Urban Municipality
+32,Rautahat,रौतहट,चन्द्रपुर,Urban Municipality
+33,Bara,बारा,फेटा,Rural Municipality
+33,Bara,बारा,सुवर्ण,Rural Municipality
+33,Bara,बारा,सिम्रौनगढ,Urban Municipality
+33,Bara,बारा,विश्रामपुर,Rural Municipality
+33,Bara,बारा,महागढीमाई,Urban Municipality
+33,Bara,बारा,बारागढी,Rural Municipality
+33,Bara,बारा,परवानीपुर,Rural Municipality
+33,Bara,बारा,प्रसौनी,Rural Municipality
+33,Bara,बारा,निजगढ,Urban Municipality
+33,Bara,बारा,पचरौता,Urban Municipality
+33,Bara,बारा,देवताल,Rural Municipality
+33,Bara,बारा,जीतपुरसिमरा,Sub-metropolitan City
+33,Bara,बारा,कोल्हवी,Urban Municipality
+33,Bara,बारा,कलैया,Sub-metropolitan City
+33,Bara,बारा,करैयामाई,Rural Municipality
+33,Bara,बारा,आदर्श कोटवाल,Rural Municipality
+34,Parsa,पर्सा,सखुवा प्रसौनी,Rural Municipality
+34,Parsa,पर्सा,बिरगंज,Metropolitan City
+34,Parsa,पर्सा,बिन्दबासिनी,Rural Municipality
+34,Parsa,पर्सा,बहुदरमाई,Urban Municipality
+34,Parsa,पर्सा,पोखरिया,Urban Municipality
+34,Parsa,पर्सा,पर्सागढी,Urban Municipality
+34,Parsa,पर्सा,पटेर्वा सुगौली,Rural Municipality
+34,Parsa,पर्सा,ठोरी,Rural Municipality
+34,Parsa,पर्सा,धोबीनी,Rural Municipality
+34,Parsa,पर्सा,जिराभवानी,Rural Municipality
+34,Parsa,पर्सा,जगरनाथपुर,Rural Municipality
+34,Parsa,पर्सा,छिपहरमाई,Rural Municipality
+34,Parsa,पर्सा,कालिकामाई,Rural Municipality
+34,Parsa,पर्सा,पकाहा मैनपुर,Rural Municipality
+35,Chitwan,चितवन,भरतपुर,Metropolitan City
+35,Chitwan,चितवन,माडी,Urban Municipality
+35,Chitwan,चितवन,खैरहनी,Urban Municipality
+35,Chitwan,चितवन,रत्ननगर,Urban Municipality
+35,Chitwan,चितवन,राप्ती,Urban Municipality
+35,Chitwan,चितवन,इच्छाकामना,Rural Municipality
+35,Chitwan,चितवन,कालिका,Urban Municipality
+36,Gorkha,गोरखा,सुलीकोट,Rural Municipality
+36,Gorkha,गोरखा,शहिद लखन,Rural Municipality
+36,Gorkha,गोरखा,पालुङटार,Urban Municipality
+36,Gorkha,गोरखा,धार्चे,Rural Municipality
+36,Gorkha,गोरखा,चुम नुव्री,Rural Municipality
+36,Gorkha,गोरखा,सिरानचोक,Rural Municipality
+36,Gorkha,गोरखा,आरूघाट,Rural Municipality
+36,Gorkha,गोरखा,अजिरकोट,Rural Municipality
+36,Gorkha,गोरखा,भिमसेन,Rural Municipality
+36,Gorkha,गोरखा,गोरखा,Urban Municipality
+36,Gorkha,गोरखा,गण्डकी,Rural Municipality
+37,Lamjung,लमजुङ,मध्यनेपाल,Urban Municipality
+37,Lamjung,लमजुङ,सुन्दरबजार,Urban Municipality
+37,Lamjung,लमजुङ,क्व्होलासोथार,Rural Municipality
+37,Lamjung,लमजुङ,मर्स्याङदी,Rural Municipality
+37,Lamjung,लमजुङ,दूधपोखरी,Rural Municipality
+37,Lamjung,लमजुङ,दोर्दी,Rural Municipality
+37,Lamjung,लमजुङ,बेसीशहर,Urban Municipality
+37,Lamjung,लमजुङ,रार्इनास,Urban Municipality
+38,Tanahun,तनहुँ,घिरिङ,Rural Municipality
+38,Tanahun,तनहुँ,म्याग्दे,Rural Municipality
+38,Tanahun,तनहुँ,आँबुखैरेनी,Rural Municipality
+38,Tanahun,तनहुँ,बन्दिपुर,Rural Municipality
+38,Tanahun,तनहुँ,देवघाट,Rural Municipality
+38,Tanahun,तनहुँ,भानु,Urban Municipality
+38,Tanahun,तनहुँ,भिमाद,Urban Municipality
+38,Tanahun,तनहुँ,ऋषिङ्ग,Rural Municipality
+38,Tanahun,तनहुँ,व्यास,Urban Municipality
+38,Tanahun,तनहुँ,शुक्लागण्डकी,Urban Municipality
+39,Syangja,स्याङ्जा,कालीगण्डकी,Rural Municipality
+39,Syangja,स्याङ्जा,हरीनास,Rural Municipality
+39,Syangja,स्याङ्जा,विरुवा,Rural Municipality
+39,Syangja,स्याङ्जा,वालिङ,Urban Municipality
+39,Syangja,स्याङ्जा,भिरकोट,Urban Municipality
+39,Syangja,स्याङ्जा,फेदीखोला,Rural Municipality
+39,Syangja,स्याङ्जा,पुतलीबजार,Urban Municipality
+39,Syangja,स्याङ्जा,चापाकोट,Urban Municipality
+39,Syangja,स्याङ्जा,गल्याङ,Urban Municipality
+39,Syangja,स्याङ्जा,अर्जुन चौपारी,Rural Municipality
+39,Syangja,स्याङ्जा,आँधीखोला,Rural Municipality
+40,Kaski,कास्की,रूपा,Rural Municipality
+40,Kaski,कास्की,माछापुछ्रे,Rural Municipality
+40,Kaski,कास्की,अन्नपुर्ण,Rural Municipality
+40,Kaski,कास्की,पोखरा लेखनाथ,Metropolitan City
+40,Kaski,कास्की,मादी,Rural Municipality
+41,Manang,मनाङ,चामे,Rural Municipality
+41,Manang,मनाङ,नारफू,Rural Municipality
+41,Manang,मनाङ,नाशोङ,Rural Municipality
+41,Manang,मनाङ,नेस्याङ,Rural Municipality
+42,Mustang,मुस्ताङ,बाह्गाउँ मुक्तिक्षेत्र,Rural Municipality
+42,Mustang,मुस्ताङ,लोमन्थाङ,Rural Municipality
+42,Mustang,मुस्ताङ,दालोमे,Rural Municipality
+42,Mustang,मुस्ताङ,थासाङ,Rural Municipality
+42,Mustang,मुस्ताङ,घरपझोङ,Rural Municipality
+43,Myagdi,म्याग्दी,धवलागिरी,Rural Municipality
+43,Myagdi,म्याग्दी,मालिका,Rural Municipality
+43,Myagdi,म्याग्दी,रघुगंगा,Rural Municipality
+43,Myagdi,म्याग्दी,अन्नपूर्ण,Rural Municipality
+43,Myagdi,म्याग्दी,बेनी ,Urban Municipality
+43,Myagdi,म्याग्दी,मंगला,Rural Municipality
+44,Parbat,पर्वत,कुश्मा,Urban Municipality
+44,Parbat,पर्वत,पैयूं,Rural Municipality
+44,Parbat,पर्वत,फलेवास,Urban Municipality
+44,Parbat,पर्वत,जलजला,Rural Municipality
+44,Parbat,पर्वत,महाशिला,Rural Municipality
+44,Parbat,पर्वत,विहादी,Rural Municipality
+44,Parbat,पर्वत,मोदी,Rural Municipality
+45,Baglung,बागलुङ,वरेङ,Rural Municipality
+45,Baglung,बागलुङ,वडिगाड,Rural Municipality
+45,Baglung,बागलुङ,बागलुङ,Urban Municipality
+45,Baglung,बागलुङ,ताराखोला,Rural Municipality
+45,Baglung,बागलुङ,तमानखोला,Rural Municipality
+45,Baglung,बागलुङ,ढोरपाटन,Urban Municipality
+45,Baglung,बागलुङ,जैमुनी,Urban Municipality
+45,Baglung,बागलुङ,गल्कोट,Urban Municipality
+45,Baglung,बागलुङ,काठेखोला,Rural Municipality
+45,Baglung,बागलुङ,निसीखोला,Rural Municipality
+46,Gulmi,गुल्मी,गुल्मीदरवार,Rural Municipality
+46,Gulmi,गुल्मी,कालीगण्डकी,Rural Municipality
+46,Gulmi,गुल्मी,ईस्मा,Rural Municipality
+46,Gulmi,गुल्मी,धुर्कोट,Rural Municipality
+46,Gulmi,गुल्मी,सत्यवती,Rural Municipality
+46,Gulmi,गुल्मी,रेसुङ्गा,Urban Municipality
+46,Gulmi,गुल्मी,चन्द्रकोट,Rural Municipality
+46,Gulmi,गुल्मी,मुसिकोट,Urban Municipality
+46,Gulmi,गुल्मी,मालिका,Rural Municipality
+46,Gulmi,गुल्मी,मदाने,Rural Municipality
+46,Gulmi,गुल्मी,छत्रकोट,Rural Municipality
+46,Gulmi,गुल्मी,रुरु,Rural Municipality
+47,Palpa,पाल्पा,निस्दी,Rural Municipality
+47,Palpa,पाल्पा,रैनादेवी छहरा,Rural Municipality
+47,Palpa,पाल्पा,तिनाउ,Rural Municipality
+47,Palpa,पाल्पा,पूर्वखोला,Rural Municipality
+47,Palpa,पाल्पा,बगनासकाली,Rural Municipality
+47,Palpa,पाल्पा,माथागढी,Rural Municipality
+47,Palpa,पाल्पा,रम्भा,Rural Municipality
+47,Palpa,पाल्पा,रामपुर,Urban Municipality
+47,Palpa,पाल्पा,रिब्दिकोट,Rural Municipality
+47,Palpa,पाल्पा,तानसेन,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),बुलिङटार,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),मध्यविन्दु,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),विनयी त्रिवेणी,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),हुप्सेकोट,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),कावासोती,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),गैडाकोट,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),देवचुली,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),बुङदीकाली,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),बर्दघाट,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),रामग्राम,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),सुनवल,Urban Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),सुस्ता,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),पाल्हीनन्दन,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),प्रतापपुर,Rural Municipality
+48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),सरावल,Rural Municipality
+49,Rupandehi,रुपन्देही,देवदह,Urban Municipality
+49,Rupandehi,रुपन्देही,तिलोत्तमा,Urban Municipality
+49,Rupandehi,रुपन्देही,गैडहवा,Rural Municipality
+49,Rupandehi,रुपन्देही,कंचन,Rural Municipality
+49,Rupandehi,रुपन्देही,ओमसतिया,Rural Municipality
+49,Rupandehi,रुपन्देही,मर्चवारी,Rural Municipality
+49,Rupandehi,रुपन्देही,कोटहीमाई,Rural Municipality
+49,Rupandehi,रुपन्देही,मायादेवी,Rural Municipality
+49,Rupandehi,रुपन्देही,बुटवल,Sub-metropolitan City
+49,Rupandehi,रुपन्देही,शुद्धोधन,Rural Municipality
+49,Rupandehi,रुपन्देही,सम्मरीमाई,Rural Municipality
+49,Rupandehi,रुपन्देही,सिद्धार्थनगर,Urban Municipality
+49,Rupandehi,रुपन्देही,सियारी,Rural Municipality
+49,Rupandehi,रुपन्देही,रोहिणी,Rural Municipality
+49,Rupandehi,रुपन्देही,लुम्बिनी सांस्कृतिक,Urban Municipality
+49,Rupandehi,रुपन्देही,सैनामैना,Urban Municipality
+50,Kapilvastu,कपिलवस्तु,कपिलवस्तु,Urban Municipality
+50,Kapilvastu,कपिलवस्तु,कृष्णनगर,Urban Municipality
+50,Kapilvastu,कपिलवस्तु,बाणगंगा,Urban Municipality
+50,Kapilvastu,कपिलवस्तु,बुद्धभूमी,Urban Municipality
+50,Kapilvastu,कपिलवस्तु,यसोधरा,Rural Municipality
+50,Kapilvastu,कपिलवस्तु,विजयनगर,Rural Municipality
+50,Kapilvastu,कपिलवस्तु,मायादेवी,Rural Municipality
+50,Kapilvastu,कपिलवस्तु,शुद्धोधन,Rural Municipality
+50,Kapilvastu,कपिलवस्तु,महाराजगंज,Urban Municipality
+50,Kapilvastu,कपिलवस्तु,शिवराज,Urban Municipality
+51,Arghakhanchi,अर्घाखाँची,पाणिनी,Rural Municipality
+51,Arghakhanchi,अर्घाखाँची,भूमिकास्थान,Urban Municipality
+51,Arghakhanchi,अर्घाखाँची,मालारानी,Rural Municipality
+51,Arghakhanchi,अर्घाखाँची,सन्धिखर्क,Urban Municipality
+51,Arghakhanchi,अर्घाखाँची,सितगंगा,Urban Municipality
+51,Arghakhanchi,अर्घाखाँची,छत्रदेव,Rural Municipality
+52,Pyuthan,प्यूठान,झिमरुक,Rural Municipality
+52,Pyuthan,प्यूठान,प्यूठान,Urban Municipality
+52,Pyuthan,प्यूठान,मल्लरानी,Rural Municipality
+52,Pyuthan,प्यूठान,स्वर्गद्वारी,Urban Municipality
+52,Pyuthan,प्यूठान,सरुमारानी,Rural Municipality
+52,Pyuthan,प्यूठान,नौवहिनी,Rural Municipality
+52,Pyuthan,प्यूठान,गौमुखी,Rural Municipality
+52,Pyuthan,प्यूठान,माण्डवी,Rural Municipality
+52,Pyuthan,प्यूठान,ऐरावती,Rural Municipality
+53,Rolpa,रोल्पा,थवाङ,Rural Municipality
+53,Rolpa,रोल्पा,रोल्पा,Urban Municipality
+53,Rolpa,रोल्पा,त्रिवेणी,Rural Municipality
+53,Rolpa,रोल्पा,सुनछहरी,Rural Municipality
+53,Rolpa,रोल्पा,सुकिदह,Rural Municipality
+53,Rolpa,रोल्पा,लुङग्री,Rural Municipality
+53,Rolpa,रोल्पा,रुन्टीगढी,Rural Municipality
+53,Rolpa,रोल्पा,माडी,Rural Municipality
+53,Rolpa,रोल्पा,दुईखोली,Rural Municipality
+53,Rolpa,रोल्पा,सुवर्णावती,Rural Municipality
+54,Rukum,रुकुम पूर्व,पुथा उत्तरगंगा,Rural Municipality
+54,Rukum,रुकुम पूर्व,सिस्ने,Rural Municipality
+54,Rukum,रुकुम पूर्व,भूमे,Rural Municipality
+54,Rukum,रुकुम पश्चिम,आठबिसकोट,Urban Municipality
+54,Rukum,रुकुम पश्चिम,त्रिवेणी,Rural Municipality
+54,Rukum,रुकुम पश्चिम,बाँफिकोट,Rural Municipality
+54,Rukum,रुकुम पश्चिम,मुसिकोट,Urban Municipality
+54,Rukum,रुकुम पश्चिम,सानीभेरी,Rural Municipality
+54,Rukum,रुकुम पश्चिम,चौरजहारी,Urban Municipality
+55,Salyan,सल्यान,बागचौर,Urban Municipality
+55,Salyan,सल्यान,छत्रेश्वरी,Rural Municipality
+55,Salyan,सल्यान,शारदा,Urban Municipality
+55,Salyan,सल्यान,बनगाड कुपिण्डे,Urban Municipality
+55,Salyan,सल्यान,दार्मा,Rural Municipality
+55,Salyan,सल्यान,ढोरचौर,Rural Municipality
+55,Salyan,सल्यान,कुमाखमालिका,Rural Municipality
+55,Salyan,सल्यान,कालीमाटी,Rural Municipality
+55,Salyan,सल्यान,कपुरकोट,Rural Municipality
+55,Salyan,सल्यान,त्रिवेणी,Rural Municipality
+56,Dang,दाङ,शान्तिनगर,Rural Municipality
+56,Dang,दाङ,लमही,Urban Municipality
+56,Dang,दाङ,राप्ती,Rural Municipality
+56,Dang,दाङ,राजपुर,Rural Municipality
+56,Dang,दाङ,बबई,Rural Municipality
+56,Dang,दाङ,दंगीशरण,Rural Municipality
+56,Dang,दाङ,तुल्सिपुर,Sub-metropolitan City
+56,Dang,दाङ,घोराही,Sub-metropolitan City
+56,Dang,दाङ,गढवा,Rural Municipality
+56,Dang,दाङ,बंगलाचुली,Rural Municipality
+57,Banke,बाँके,जानकी,Rural Municipality
+57,Banke,बाँके,राप्ती सोनारी,Rural Municipality
+57,Banke,बाँके,नेपालगंज,Sub-metropolitan City
+57,Banke,बाँके,कोहलपुर,Urban Municipality
+57,Banke,बाँके,खजुरा,Rural Municipality
+57,Banke,बाँके,बैजनाथ,Rural Municipality
+57,Banke,बाँके,डुडुवा,Rural Municipality
+57,Banke,बाँके,नरैनापुर,Rural Municipality
+58,Bardiya,बर्दिया,गेरुवा,Rural Municipality
+58,Bardiya,बर्दिया,ठाकुरबाबा,Urban Municipality
+58,Bardiya,बर्दिया,बारबर्दिया,Urban Municipality
+58,Bardiya,बर्दिया,बासगढी,Urban Municipality
+58,Bardiya,बर्दिया,बढैयाताल,Rural Municipality
+58,Bardiya,बर्दिया,गुलरिया,Urban Municipality
+58,Bardiya,बर्दिया,राजापुर,Urban Municipality
+58,Bardiya,बर्दिया,मधुवन,Urban Municipality
+59,Surkhet,सुर्खेत,बराहताल,Rural Municipality
+59,Surkhet,सुर्खेत,चौकुने,Rural Municipality
+59,Surkhet,सुर्खेत,बीरेन्द्रनगर,Urban Municipality
+59,Surkhet,सुर्खेत,भेरीगंगा,Urban Municipality
+59,Surkhet,सुर्खेत,सिम्ता,Rural Municipality
+59,Surkhet,सुर्खेत,पञ्चपुरी,Urban Municipality
+59,Surkhet,सुर्खेत,लेकबेशी,Urban Municipality
+59,Surkhet,सुर्खेत,चिङ्गाड,Rural Municipality
+59,Surkhet,सुर्खेत,गुर्भाकोट,Urban Municipality
+60,Dailekh,दैलेख,दुल्लु,Urban Municipality
+60,Dailekh,दैलेख,गुराँस,Rural Municipality
+60,Dailekh,दैलेख,महावु,Rural Municipality
+60,Dailekh,दैलेख,भगवतीमाई,Rural Municipality
+60,Dailekh,दैलेख,नौमुले,Rural Municipality
+60,Dailekh,दैलेख,नारायण,Urban Municipality
+60,Dailekh,दैलेख,डुंगेश्वर,Rural Municipality
+60,Dailekh,दैलेख,ठाँटीकाँध,Rural Municipality
+60,Dailekh,दैलेख,चामुण्डा विन्द्रासैनी,Urban Municipality
+60,Dailekh,दैलेख,आठबीस,Urban Municipality
+60,Dailekh,दैलेख,भैरवी,Rural Municipality
+61,Jajarkot,जाजरकोट,त्रिवेणी नलगाड,Urban Municipality
+61,Jajarkot,जाजरकोट,शिवालय,Rural Municipality
+61,Jajarkot,जाजरकोट,भेरी,Urban Municipality
+61,Jajarkot,जाजरकोट,बारेकोट,Rural Municipality
+61,Jajarkot,जाजरकोट,जुनीचाँदे,Rural Municipality
+61,Jajarkot,जाजरकोट,छेडागाड,Urban Municipality
+61,Jajarkot,जाजरकोट,कुसे,Rural Municipality
+62,Dolpa,डोल्पा,काईके,Rural Municipality
+62,Dolpa,डोल्पा,छार्का ताङसोङ,Rural Municipality
+62,Dolpa,डोल्पा,जगदुल्ला,Rural Municipality
+62,Dolpa,डोल्पा,ठूली भेरी,Urban Municipality
+62,Dolpa,डोल्पा,डोल्पो बुद्ध,Rural Municipality
+62,Dolpa,डोल्पा,शे फोक्सुन्डो,Rural Municipality
+62,Dolpa,डोल्पा,त्रिपुरासुन्दरी,Urban Municipality
+62,Dolpa,डोल्पा,मुड्केचुला,Rural Municipality
+63,Jumla,जुम्ला,तातोपानी,Rural Municipality
+63,Jumla,जुम्ला,चन्दननाथ,Urban Municipality
+63,Jumla,जुम्ला,गुठिचौर,Rural Municipality
+63,Jumla,जुम्ला,कनकासुन्दरी,Rural Municipality
+63,Jumla,जुम्ला,तिला,Rural Municipality
+63,Jumla,जुम्ला,हिमा,Rural Municipality
+63,Jumla,जुम्ला,सिंजा,Rural Municipality
+63,Jumla,जुम्ला,पातारासी,Rural Municipality
+64,Kalikot,कालिकोट,रास्कोट,Urban Municipality
+64,Kalikot,कालिकोट,सान्नी त्रिवेणी,Rural Municipality
+64,Kalikot,कालिकोट,पलाता,Rural Municipality
+64,Kalikot,कालिकोट,महावै,Rural Municipality
+64,Kalikot,कालिकोट,तिलागुफा,Urban Municipality
+64,Kalikot,कालिकोट,खाँडाचक्र,Urban Municipality
+64,Kalikot,कालिकोट,कालिका,Rural Municipality
+64,Kalikot,कालिकोट,नरहरिनाथ,Rural Municipality
+64,Kalikot,कालिकोट,पचालझरना,Rural Municipality
+65,Mugu,मुगु,सोरु,Rural Municipality
+65,Mugu,मुगु,मुगुम कार्मारोंग,Rural Municipality
+65,Mugu,मुगु,छायाँनाथ रारा,Urban Municipality
+65,Mugu,मुगु,खत्याड,Rural Municipality
+66,Humla,हुम्ला,सिमकोट,Rural Municipality
+66,Humla,हुम्ला,खार्पुनाथ,Rural Municipality
+66,Humla,हुम्ला,चंखेली,Rural Municipality
+66,Humla,हुम्ला,ताँजाकोट,Rural Municipality
+66,Humla,हुम्ला,नाम्खा,Rural Municipality
+66,Humla,हुम्ला,सर्केगाड,Rural Municipality
+66,Humla,हुम्ला,अदानचुली,Rural Municipality
+67,Bajura,बाजुरा,हिमाली,Rural Municipality
+67,Bajura,बाजुरा,गौमुल,Rural Municipality
+67,Bajura,बाजुरा,स्वामीकार्तिक,Rural Municipality
+67,Bajura,बाजुरा,बुढीनन्दा,Urban Municipality
+67,Bajura,बाजुरा,बडीमालिका,Urban Municipality
+67,Bajura,बाजुरा,पाण्डवगुफा,Rural Municipality
+67,Bajura,बाजुरा,त्रिवेणी,Urban Municipality
+67,Bajura,बाजुरा,छेडेदह,Rural Municipality
+67,Bajura,बाजुरा,बुढीगंगा,Urban Municipality
+68,Bajhang,बझाङ्ग,बुंगल,Urban Municipality
+68,Bajhang,बझाङ्ग,जयपृथ्वी,Urban Municipality
+68,Bajhang,बझाङ्ग,काँडा,Rural Municipality
+68,Bajhang,बझाङ्ग,सूर्मा,Rural Municipality
+68,Bajhang,बझाङ्ग,केदारस्युँ,Rural Municipality
+68,Bajhang,बझाङ्ग,वित्थडचिर,Rural Municipality
+68,Bajhang,बझाङ्ग,मष्टा,Rural Municipality
+68,Bajhang,बझाङ्ग,दुर्गाथली,Rural Municipality
+68,Bajhang,बझाङ्ग,थलारा,Rural Municipality
+68,Bajhang,बझाङ्ग,तलकोट,Rural Municipality
+68,Bajhang,बझाङ्ग,छबिसपाथिभेरा,Rural Municipality
+68,Bajhang,बझाङ्ग,खप्तडछान्ना,Rural Municipality
+69,Achham,अछाम,तुर्माखाँद,Rural Municipality
+69,Achham,अछाम,पञ्चदेवल विनायक,Urban Municipality
+69,Achham,अछाम,साफेबगर,Urban Municipality
+69,Achham,अछाम,रामारोशन,Rural Municipality
+69,Achham,अछाम,मेल्लेख,Rural Municipality
+69,Achham,अछाम,मंगलसेन,Urban Municipality
+69,Achham,अछाम,ढकारी,Rural Municipality
+69,Achham,अछाम,चौरपाटी,Rural Municipality
+69,Achham,अछाम,कमलबजार,Urban Municipality
+69,Achham,अछाम,बान्नीगढी जयगढ,Rural Municipality
+70,Doti,डोटी,पूर्वीचौकी,Rural Municipality
+70,Doti,डोटी,आदर्श,Rural Municipality
+70,Doti,डोटी,सायल,Rural Municipality
+70,Doti,डोटी,शिखर,Urban Municipality
+70,Doti,डोटी,दिपायल सिलगढी,Urban Municipality
+70,Doti,डोटी,बडीकेदार,Rural Municipality
+70,Doti,डोटी,जोरायल,Rural Municipality
+70,Doti,डोटी,के.आई.सिं.,Rural Municipality
+70,Doti,डोटी,बोगटान,Rural Municipality
+71,Kailali,कैलाली,टिकापुर,Urban Municipality
+71,Kailali,कैलाली,लम्की चुहा,Urban Municipality
+71,Kailali,कैलाली,भजनी,Urban Municipality
+71,Kailali,कैलाली,बर्दगोरीया,Rural Municipality
+71,Kailali,कैलाली,धनगढी,Sub-metropolitan City
+71,Kailali,कैलाली,जानकी,Rural Municipality
+71,Kailali,कैलाली,गोदावरी,Urban Municipality
+71,Kailali,कैलाली,जोशीपुर,Rural Municipality
+71,Kailali,कैलाली,कैलारी,Rural Municipality
+71,Kailali,कैलाली,चुरे,Rural Municipality
+71,Kailali,कैलाली,घोडाघोडी,Urban Municipality
+71,Kailali,कैलाली,गौरीगंगा,Urban Municipality
+71,Kailali,कैलाली,मोहन्याल,Rural Municipality
+72,Kanchanpur,कञ्चनपुर,वेदकोट,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,भीमदत्त,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,माहाकाली,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,बेलौरी,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,पुनर्वास,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,कृष्णपुर,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,बेलडाडी,Rural Municipality
+72,Kanchanpur,कञ्चनपुर,सुक्लाफाँटा,Urban Municipality
+72,Kanchanpur,कञ्चनपुर,लालझाँडी,Rural Municipality
+73,Dadeldhura,डडेलधुरा,अमरगढी,Urban Municipality
+73,Dadeldhura,डडेलधुरा,भागेश्वर,Rural Municipality
+73,Dadeldhura,डडेलधुरा,परशुराम,Urban Municipality
+73,Dadeldhura,डडेलधुरा,गन्यापधुरा,Rural Municipality
+73,Dadeldhura,डडेलधुरा,आलिताल,Rural Municipality
+73,Dadeldhura,डडेलधुरा,नवदुर्गा,Rural Municipality
+73,Dadeldhura,डडेलधुरा,अजयमेरु,Rural Municipality
+74,Baitadi,बैतडी,सिगास,Rural Municipality
+74,Baitadi,बैतडी,सुर्नया,Rural Municipality
+74,Baitadi,बैतडी,पुर्चौडी,Urban Municipality
+74,Baitadi,बैतडी,पाटन,Urban Municipality
+74,Baitadi,बैतडी,पन्चेश्वर,Rural Municipality
+74,Baitadi,बैतडी,दोगडाकेदार,Rural Municipality
+74,Baitadi,बैतडी,डीलासैनी,Rural Municipality
+74,Baitadi,बैतडी,मेलौली,Urban Municipality
+74,Baitadi,बैतडी,दशरथचन्द,Urban Municipality
+74,Baitadi,बैतडी,शिवनाथ,Rural Municipality
+75,Darchula,दार्चुला,अपिहिमाल,Rural Municipality
+75,Darchula,दार्चुला,नौगाड,Rural Municipality
+75,Darchula,दार्चुला,दुहुँ,Rural Municipality
+75,Darchula,दार्चुला,शैल्यशिखर,Urban Municipality
+75,Darchula,दार्चुला,महाकाली,Urban Municipality
+75,Darchula,दार्चुला,मार्मा,Rural Municipality
+75,Darchula,दार्चुला,मालिकार्जुन,Rural Municipality
+75,Darchula,दार्चुला,ब्यास,Rural Municipality
+75,Darchula,दार्चुला,लेकम,Rural Municipality
