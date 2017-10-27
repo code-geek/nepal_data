@@ -33,26 +33,26 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 1,4,Jhapa,झापा,Haldibari,हल्दीवारी,Rural Municipality,गाउँपालिका
 1,4,Jhapa,झापा,Shivasataxi,शिवसताक्षि,Urban Municipality,नगरपालिका
 1,4,Jhapa,झापा,Mechinagar,मेची नगर,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Gauriganga,गौरीगंज,Rural Municipality,गाउँपालिका
+1,4,Jhapa,झापा,Gauriganj,गौरीगंज,Rural Municipality,गाउँपालिका
 1,4,Jhapa,झापा,Barhadashi,बाह्रदशी,Rural Municipality,गाउँपालिका
 1,4,Jhapa,झापा,Damak,दमक,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Gauradhaha,गौरादह,Urban Municipality,नगरपालिका
+1,4,Jhapa,झापा,Gauradaha,गौरादह,Urban Municipality,नगरपालिका
 1,4,Jhapa,झापा,Kamal,कमल,Rural Municipality,गाउँपालिका
 1,4,Jhapa,झापा,Kachankawal,कचनकवल,Rural Municipality,गाउँपालिका
 1,4,Jhapa,झापा,Arjundhara,अर्जुनधारा,Urban Municipality,नगरपालिका
 1,4,Jhapa,झापा,Buddhashanti,बुद्धशान्ति,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Uralabari,उर्लावारी,Urban Municipality,नगरपालिका
+1,5,Morang,मोरङ,Urlabari,उर्लावारी,Urban Municipality,नगरपालिका
 1,5,Morang,मोरङ,Kanepokhari,कानेपोखरी,Rural Municipality,गाउँपालिका
 1,5,Morang,मोरङ,Kerabari,केरावारी,Rural Municipality,गाउँपालिका
 1,5,Morang,मोरङ,Jahada,जहदा,Rural Municipality,गाउँपालिका
 1,5,Morang,मोरङ,Dhanpalthan,धनपालथान,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Patahri Shanishchare,पथरी शनिश्चरे,Urban Municipality,नगरपालिका
+1,5,Morang,मोरङ,Pathari Shanishchare,पथरी शनिश्चरे,Urban Municipality,नगरपालिका
 1,5,Morang,मोरङ,Belbari,बेलवारी,Urban Municipality,नगरपालिका
 1,5,Morang,मोरङ,Miklajung,मिक्लाजुङ,Rural Municipality,गाउँपालिका
 1,5,Morang,मोरङ,Rangeli,रंगेली,Urban Municipality,नगरपालिका
 1,5,Morang,मोरङ,Sunwarshi,सुनवर्षी,Urban Municipality,नगरपालिका
 1,5,Morang,मोरङ,Letang,लेटाङ,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Sundarharaicha,सुन्दरहरैंचा,Urban Municipality,नगरपालिका
+1,5,Morang,मोरङ,Sundarharaincha,सुन्दरहरैंचा,Urban Municipality,नगरपालिका
 1,5,Morang,मोरङ,Katahari,कटहरी,Rural Municipality,गाउँपालिका
 1,5,Morang,मोरङ,Gramthan,ग्रामथान,Rural Municipality,गाउँपालिका
 1,5,Morang,मोरङ,Budhiganga,बुढीगंगा,Rural Municipality,गाउँपालिका
@@ -68,7 +68,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 1,6,Sunsari,सुनसरी,Bhokraha,भोक्राहा,Rural Municipality,गाउँपालिका
 1,6,Sunsari,सुनसरी,Ramdhuni,रामधुनी,Urban Municipality,नगरपालिका
 1,6,Sunsari,सुनसरी,Harinagara,हरिनगरा,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Inarwa,ईनरुवा,Urban Municipality,नगरपालिका
+1,6,Sunsari,सुनसरी,Inaruwa,ईनरुवा,Urban Municipality,नगरपालिका
 1,6,Sunsari,सुनसरी,Dharan,धरान,Sub-metropolitan City,उपमहानगरपालिका
 1,7,Dhankuta,धनकुटा,Khalsa Chhintang Shahidbhumi,खाल्सा छिन्ताङ सहीदभूमि,Rural Municipality,गाउँपालिका
 1,7,Dhankuta,धनकुटा,Chaubise,चौविसे,Rural Municipality,गाउँपालिका
@@ -108,7 +108,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 1,11,Solukhumbu,सोलुखुम्बु,Mahakulung,महाकुलुङ,Rural Municipality,गाउँपालिका
 1,11,Solukhumbu,सोलुखुम्बु,Nechasalyan,नेचासल्यान,Rural Municipality,गाउँपालिका
 1,11,Solukhumbu,सोलुखुम्बु,Dudhkoshi,दुधकोशी,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Khumbu Pasanglahmu,खुम्वु पासाङल्हमु,Rural Municipality,गाउँपालिका
+1,11,Solukhumbu,सोलुखुम्बु,Khumbu Pasanglhamu,खुम्वु पासाङल्हमु,Rural Municipality,गाउँपालिका
 1,11,Solukhumbu,सोलुखुम्बु,Dudhkaushika,दुधकौशिका,Rural Municipality,गाउँपालिका
 1,12,Okhaldhunga,ओखलढुंगा,Champadevi,चम्पादेवी ,Rural Municipality,गाउँपालिका
 1,12,Okhaldhunga,ओखलढुंगा,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका
@@ -119,7 +119,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 1,12,Okhaldhunga,ओखलढुंगा,Chisankhugadhi,चिशंखुगढी,Rural Municipality,गाउँपालिका
 1,12,Okhaldhunga,ओखलढुंगा,Khijidemba,खिजिदेम्वा,Rural Municipality,गाउँपालिका
 1,13,Khotang,खोटाङ,Halesi Tuwachung,हलेसी तुवाचुङ,Urban Municipality,नगरपालिका
-1,13,Khotang,खोटाङ,Rupakot Majhuwagadhi,रुपाकोट मजुवागढी,Urban Municipality,नगरपालिका
+1,13,Khotang,खोटाङ,Rupakot Majhuwagadhi,रुपाकोट मझुवागढी,Urban Municipality,नगरपालिका
 1,13,Khotang,खोटाङ,Barahapokhari,बराहपोखरी,Rural Municipality,गाउँपालिका
 1,13,Khotang,खोटाङ,Jantedhunga,जन्तेढुंगा,Rural Municipality,गाउँपालिका
 1,13,Khotang,खोटाङ,Khotehang,खोटेहाङ,Rural Municipality,गाउँपालिका
@@ -141,7 +141,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 2,15,Saptari,सप्तरी,Bishnupur,विष्णुपुर,Rural Municipality,गाउँपालिका
 2,15,Saptari,सप्तरी,Surunga,सुरुङ्गा,Urban Municipality,नगरपालिका
 2,15,Saptari,सप्तरी,Saptakoshi,सप्तकोशी ,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Hanumannagar Kankalani,हनुमाननगर कङ्कालिनी,Urban Municipality,नगरपालिका
+2,15,Saptari,सप्तरी,Hanumannagar Kankalini,हनुमाननगर कङ्कालिनी,Urban Municipality,नगरपालिका
 2,15,Saptari,सप्तरी,Rajbiraj,राजविराज,Urban Municipality,नगरपालिका
 2,15,Saptari,सप्तरी,Shambhunath,शम्भुनाथ ,Urban Municipality,नगरपालिका
 2,15,Saptari,सप्तरी,Mahadeva,महादेवा,Rural Municipality,गाउँपालिका
@@ -176,7 +176,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 2,17,Dhanusa,धनुषा,Sahidnagar,शहीदनगर,Urban Municipality,नगरपालिका
 2,17,Dhanusa,धनुषा,Sabaila,सबैला,Urban Municipality,नगरपालिका
 2,17,Dhanusa,धनुषा,Hansapur,हंसपुर,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Mukhiyapatti Musaharniya,मुखियापट्टी मुसहरमिया,Rural Municipality,गाउँपालिका
+2,17,Dhanusa,धनुषा,Mukhiyapatti Musaharmiya,मुखियापट्टी मुसहरमिया,Rural Municipality,गाउँपालिका
 2,17,Dhanusa,धनुषा,Aurahi,औरही ,Rural Municipality,गाउँपालिका
 2,17,Dhanusa,धनुषा,Janaknandini,जनकनन्दिनी,Rural Municipality,गाउँपालिका
 2,17,Dhanusa,धनुषा,Chhireshwornath,क्षिरेश्वरनाथ,Urban Municipality,नगरपालिका
@@ -195,7 +195,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 2,18,Mahottari,महोत्तरी,Loharpatti,लोहरपट्टी,Urban Municipality,नगरपालिका
 2,18,Mahottari,महोत्तरी,Ramgopalpur,रामगोपालपुर,Urban Municipality,नगरपालिका
 2,18,Mahottari,महोत्तरी,Mahottari,महोत्तरी,Rural Municipality,गाउँपालिका
-2,18,Mahottari,महोत्तरी,Manra Sisawa,मनरा शिसवा,Urban Municipality,नगरपालिका
+2,18,Mahottari,महोत्तरी,Manara Sisawa,मनरा शिसवा,Urban Municipality,नगरपालिका
 2,18,Mahottari,महोत्तरी,Samsi,साम्सी,Rural Municipality,गाउँपालिका
 2,18,Mahottari,महोत्तरी,Aurahi,औरही,Urban Municipality,नगरपालिका
 2,18,Mahottari,महोत्तरी,Gaushala,गौशाला,Urban Municipality,नगरपालिका
@@ -203,7 +203,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 2,18,Mahottari,महोत्तरी,Pipra,पिपरा,Rural Municipality,गाउँपालिका
 2,18,Mahottari,महोत्तरी,Bardibas,बर्दिबास,Urban Municipality,नगरपालिका
 2,18,Mahottari,महोत्तरी,Balwa,बलवा,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Ekdanra,एकडारा,Rural Municipality,गाउँपालिका
+2,18,Mahottari,महोत्तरी,Ekdara,एकडारा,Rural Municipality,गाउँपालिका
 2,19,Sarlahi,सर्लाही,Barahathawa,बरहथवा,Urban Municipality,नगरपालिका
 2,19,Sarlahi,सर्लाही,Parsa,पर्सा,Rural Municipality,गाउँपालिका
 2,19,Sarlahi,सर्लाही,Dhankaul,धनकौल,Rural Municipality,गाउँपालिका
@@ -222,20 +222,20 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 2,19,Sarlahi,सर्लाही,Bishnu,विष्णु,Rural Municipality,गाउँपालिका
 2,19,Sarlahi,सर्लाही,Lalbandi,लालबन्दी,Urban Municipality,नगरपालिका
 2,19,Sarlahi,सर्लाही,Ramnagar,रामनगर,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Mangala,मलंगवा,Urban Municipality,नगरपालिका
+2,19,Sarlahi,सर्लाही,Malangwa,मलंगवा,Urban Municipality,नगरपालिका
 2,19,Sarlahi,सर्लाही,Brahmapuri,ब्रह्मपुरी ,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Hariharpurgadhi,हरिहरपुरगढी,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Golanjor,गोलन्जोर,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Phikkal,फिक्कल,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Kamalamai,कमलामाई,Urban Municipality,नगरपालिका
-3,20,Sindhuli,सिन्धुली,Ghanglekh,घ्याङलेख,Rural Municipality,गाउँपालिका
+3,20,Sindhuli,सिन्धुली,Ghyanglekh,घ्याङलेख,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Tinpatan,तिनपाटन,Rural Municipality,गाउँपालिका
 3,20,Sindhuli,सिन्धुली,Dudhouli,दुधौली,Urban Municipality,नगरपालिका
 3,20,Sindhuli,सिन्धुली,Marin,मरिण,Rural Municipality,गाउँपालिका
 3,21,Ramechhap,रामेछाप,Doramba,दोरम्बा,Rural Municipality,गाउँपालिका
 3,21,Ramechhap,रामेछाप,Likhu,लिखु,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Khadadevi,खाँडादेवी,Rural Municipality,गाउँपालिका
+3,21,Ramechhap,रामेछाप,Khandadevi,खाँडादेवी,Rural Municipality,गाउँपालिका
 3,21,Ramechhap,रामेछाप,Manthali,मन्थली,Urban Municipality,नगरपालिका
 3,21,Ramechhap,रामेछाप,Umakunda,उमाकुण्ड,Rural Municipality,गाउँपालिका
 3,21,Ramechhap,रामेछाप,Sunapati,सुनापती,Rural Municipality,गाउँपालिका
@@ -325,7 +325,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 3,30,Dhading,धादिङ्ग,Netrawati,नेत्रावती,Rural Municipality,गाउँपालिका
 3,30,Dhading,धादिङ्ग,Rubi Valley,रुवी भ्याली,Rural Municipality,गाउँपालिका
 3,30,Dhading,धादिङ्ग,Siddhalek,सिद्धलेक,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Galchi,गल्छी,Rural Municipality,गाउँपालिका
+3,30,Dhading,धादिङ्ग,Galchhi,गल्छी,Rural Municipality,गाउँपालिका
 3,31,Makwanpur,मकवानपुर,Raksirang,राक्सिराङ्ग,Rural Municipality,गाउँपालिका
 3,31,Makwanpur,मकवानपुर,Manahari,मनहरी,Rural Municipality,गाउँपालिका
 3,31,Makwanpur,मकवानपुर,Makawanpurgadhi,मकवानपुरगढी,Rural Municipality,गाउँपालिका
@@ -375,7 +375,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 2,34,Parsa,पर्सा,Bindabasini,बिन्दबासिनी,Rural Municipality,गाउँपालिका
 2,34,Parsa,पर्सा,Bahudaramai,बहुदरमाई,Urban Municipality,नगरपालिका
 2,34,Parsa,पर्सा,Pokhariya,पोखरिया,Urban Municipality,नगरपालिका
-2,34,Parsa,पर्सा,Parsagadi,पर्सागढी,Urban Municipality,नगरपालिका
+2,34,Parsa,पर्सा,Parsagadhi,पर्सागढी,Urban Municipality,नगरपालिका
 2,34,Parsa,पर्सा,Paterwasugauli,पटेर्वा सुगौली,Rural Municipality,गाउँपालिका
 2,34,Parsa,पर्सा,Thori,ठोरी,Rural Municipality,गाउँपालिका
 2,34,Parsa,पर्सा,Dhobini,धोबीनी,Rural Municipality,गाउँपालिका
@@ -389,7 +389,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 3,35,Chitwan,चितवन,Khairahani,खैरहनी,Urban Municipality,नगरपालिका
 3,35,Chitwan,चितवन,Ratnangar,रत्ननगर,Urban Municipality,नगरपालिका
 3,35,Chitwan,चितवन,Rapti,राप्ती,Urban Municipality,नगरपालिका
-3,35,Chitwan,चितवन,Ichchhyakamana,इच्छाकामना,Rural Municipality,गाउँपालिका
+3,35,Chitwan,चितवन,Ichchhakamana,इच्छाकामना,Rural Municipality,गाउँपालिका
 3,35,Chitwan,चितवन,Kalika,कालिका,Urban Municipality,नगरपालिका
 4,36,Gorkha,गोरखा,Sulikot,सुलीकोट,Rural Municipality,गाउँपालिका
 4,36,Gorkha,गोरखा,Sahid Lakhan,शहिद लखन,Rural Municipality,गाउँपालिका
@@ -408,7 +408,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 4,37,Lamjung,लमजुङ,Marsyangdi,मर्स्याङदी,Rural Municipality,गाउँपालिका
 4,37,Lamjung,लमजुङ,Dudhpokhari,दूधपोखरी,Rural Municipality,गाउँपालिका
 4,37,Lamjung,लमजुङ,Dordi,दोर्दी,Rural Municipality,गाउँपालिका
-4,37,Lamjung,लमजुङ,Besishahar,बेसीशहर,Urban Municipality,नगरपालिका
+4,37,Lamjung,लमजुङ,Besisahar,बेसीशहर,Urban Municipality,नगरपालिका
 4,37,Lamjung,लमजुङ,Rainas,रार्इनास,Urban Municipality,नगरपालिका
 4,38,Tanahun,तनहुँ,Ghiring,घिरिङ,Rural Municipality,गाउँपालिका
 4,38,Tanahun,तनहुँ,Myagde,म्याग्दे,Rural Municipality,गाउँपालिका
@@ -478,7 +478,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 5,46,Gulmi,गुल्मी,Musikot,मुसिकोट,Urban Municipality,नगरपालिका
 5,46,Gulmi,गुल्मी,Malika,मालिका,Rural Municipality,गाउँपालिका
 5,46,Gulmi,गुल्मी,Madane,मदाने,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Chatrakot,छत्रकोट,Rural Municipality,गाउँपालिका
+5,46,Gulmi,गुल्मी,Chhatrakot,छत्रकोट,Rural Municipality,गाउँपालिका
 5,46,Gulmi,गुल्मी,Ruru,रुरु,Rural Municipality,गाउँपालिका
 5,47,Palpa,पाल्पा,Nisdi,निस्दी,Rural Municipality,गाउँपालिका
 5,47,Palpa,पाल्पा,Rainadevi Chhahara,रैनादेवी छहरा,Rural Municipality,गाउँपालिका
@@ -540,7 +540,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 5,52,Pyuthan,प्यूठान,Jhimruk,झिमरुक,Rural Municipality,गाउँपालिका
 5,52,Pyuthan,प्यूठान,Pyuthan,प्यूठान,Urban Municipality,नगरपालिका
 5,52,Pyuthan,प्यूठान,Mallarani,मल्लरानी,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Sworgadwary,स्वर्गद्वारी,Urban Municipality,नगरपालिका
+5,52,Pyuthan,प्यूठान,Swargadwari,स्वर्गद्वारी,Urban Municipality,नगरपालिका
 5,52,Pyuthan,प्यूठान,Sarumarani,सरुमारानी,Rural Municipality,गाउँपालिका
 5,52,Pyuthan,प्यूठान,Naubahini,नौवहिनी,Rural Municipality,गाउँपालिका
 5,52,Pyuthan,प्यूठान,Gaumukhi,गौमुखी,Rural Municipality,गाउँपालिका
@@ -584,10 +584,10 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 5,56,Dang,दाङ,Tulsipur,तुल्सिपुर,Sub-metropolitan City,उपमहानगरपालिका
 5,56,Dang,दाङ,Ghorahi,घोराही,Sub-metropolitan City,उपमहानगरपालिका
 5,56,Dang,दाङ,Gadhawa,गढवा,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Banglachuli,बंगलाचुली,Rural Municipality,गाउँपालिका
+5,56,Dang,दाङ,Bangalachuli,बंगलाचुली,Rural Municipality,गाउँपालिका
 5,57,Banke,बाँके,Janaki,जानकी,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Rapti sonari,राप्ती सोनारी,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Nepalganj,नेपालगंज,Sub-metropolitan City,उपमहानगरपालिका
+5,57,Banke,बाँके,Rapti Sonari,राप्ती सोनारी,Rural Municipality,गाउँपालिका
+5,57,Banke,बाँके,Nepalgunj,नेपालगंज,Sub-metropolitan City,उपमहानगरपालिका
 5,57,Banke,बाँके,Kohalpur,कोहलपुर,Urban Municipality,नगरपालिका
 5,57,Banke,बाँके,Khajura,खजुरा,Rural Municipality,गाउँपालिका
 5,57,Banke,बाँके,Baijanath,बैजनाथ,Rural Municipality,गाउँपालिका
@@ -596,19 +596,19 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 5,58,Bardiya,बर्दिया,Geruwa,गेरुवा,Rural Municipality,गाउँपालिका
 5,58,Bardiya,बर्दिया,Thakurbaba,ठाकुरबाबा,Urban Municipality,नगरपालिका
 5,58,Bardiya,बर्दिया,Barbardiya,बारबर्दिया,Urban Municipality,नगरपालिका
-5,58,Bardiya,बर्दिया,Bansgadhi,बासगढी,Urban Municipality,नगरपालिका
+5,58,Bardiya,बर्दिया,Bansgadhi,बाँसगढी,Urban Municipality,नगरपालिका
 5,58,Bardiya,बर्दिया,Badhaiyatal,बढैयाताल,Rural Municipality,गाउँपालिका
 5,58,Bardiya,बर्दिया,Gulariya,गुलरिया,Urban Municipality,नगरपालिका
 5,58,Bardiya,बर्दिया,Rajapur,राजापुर,Urban Municipality,नगरपालिका
 5,58,Bardiya,बर्दिया,Madhuwan,मधुवन,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Barahtal,बराहताल,Rural Municipality,गाउँपालिका
+6,59,Surkhet,सुर्खेत,Barahatal,बराहताल,Rural Municipality,गाउँपालिका
 6,59,Surkhet,सुर्खेत,Chaukune,चौकुने,Rural Municipality,गाउँपालिका
 6,59,Surkhet,सुर्खेत,Birendranagar,बीरेन्द्रनगर,Urban Municipality,नगरपालिका
 6,59,Surkhet,सुर्खेत,Bheriganga,भेरीगंगा,Urban Municipality,नगरपालिका
 6,59,Surkhet,सुर्खेत,Simta,सिम्ता,Rural Municipality,गाउँपालिका
 6,59,Surkhet,सुर्खेत,Panchpuri,पञ्चपुरी,Urban Municipality,नगरपालिका
 6,59,Surkhet,सुर्खेत,Lekbesi,लेकबेशी,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Chingad,चिङ्गाड,Rural Municipality,गाउँपालिका
+6,59,Surkhet,सुर्खेत,Chinggad,चिङ्गाड,Rural Municipality,गाउँपालिका
 6,59,Surkhet,सुर्खेत,Gurbhakot,गुर्भाकोट,Urban Municipality,नगरपालिका
 6,60,Dailekh,दैलेख,Dullu,दुल्लु,Urban Municipality,नगरपालिका
 6,60,Dailekh,दैलेख,Gurans,गुराँस,Rural Municipality,गाउँपालिका
@@ -685,7 +685,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 7,68,Bajhang,बझाङ्ग,Talkot,तलकोट,Rural Municipality,गाउँपालिका
 7,68,Bajhang,बझाङ्ग,Chabispathivera,छबिसपाथिभेरा,Rural Municipality,गाउँपालिका
 7,68,Bajhang,बझाङ्ग,Khaptadchhanna,खप्तडछान्ना,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Turmakhad,तुर्माखाँद,Rural Municipality,गाउँपालिका
+7,69,Achham,अछाम,Turmakhand,तुर्माखाँद,Rural Municipality,गाउँपालिका
 7,69,Achham,अछाम,Panchadewal Binayak,पञ्चदेवल विनायक,Urban Municipality,नगरपालिका
 7,69,Achham,अछाम,Sanphebagar,साफेबगर,Urban Municipality,नगरपालिका
 7,69,Achham,अछाम,Ramaroshan,रामारोशन,Rural Municipality,गाउँपालिका
@@ -745,7 +745,7 @@ PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_
 7,74,Baitadi,बैतडी,Shivanath,शिवनाथ,Rural Municipality,गाउँपालिका
 7,75,Darchula,दार्चुला,Apihimal,अपिहिमाल,Rural Municipality,गाउँपालिका
 7,75,Darchula,दार्चुला,Naugad,नौगाड,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Dunhu,दुहुँ,Rural Municipality,गाउँपालिका
+7,75,Darchula,दार्चुला,Duhun,दुहुँ,Rural Municipality,गाउँपालिका
 7,75,Darchula,दार्चुला,Shailyashikhar,शैल्यशिखर,Urban Municipality,नगरपालिका
 7,75,Darchula,दार्चुला,Mahakali,महाकाली,Urban Municipality,नगरपालिका
 7,75,Darchula,दार्चुला,Marma,मार्मा,Rural Municipality,गाउँपालिका
