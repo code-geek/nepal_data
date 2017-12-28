@@ -1,754 +1,776 @@
-PROVINCE,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI,LOCAL_BODY_NAME_ENGLISH,LOCAL_BODY_NAME_NEPALI,STATUS_ENGLISH,STATUS_NEPALI
-1,1,Taplejung,ताप्लेजुङ,Aathrai Tribeni,आठराई त्रिवेणी,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Phaktanglung,फक्ताङलुङ,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Phungling,फुङलिङ,Urban Municipality,नगरपालिका
-1,1,Taplejung,ताप्लेजुङ,Mikwakhola,मिक्वाखोला,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Meringden,मेरिङदेन,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Maiwakhola,मैवाखोला,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Yangwarak,याङवरक,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Sidingba,सिदिङ्वा,Rural Municipality,गाउँपालिका
-1,1,Taplejung,ताप्लेजुङ,Sirijangha,सिरीजङ्घा,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Yangwarak,याङवरक,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Miklajung,मिक्लाजुङ,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Phidim,फिदिम,Urban Municipality,नगरपालिका
-1,2,Panchthar,पाँचथर,Hilihang,हिलिहाङ,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Falelung,फालेलुङ,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Tumbewa,तुम्वेवा,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Kummayak,कुम्मायक,Rural Municipality,गाउँपालिका
-1,2,Panchthar,पाँचथर,Falgunanda,फाल्गुनन्द,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Suryodaya,सूर्योदय,Urban Municipality,नगरपालिका
-1,3,Ilam,इलाम,Sandakpur,सन्दकपुर,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Rong,रोङ,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Maijogmai,माईजोगमाई,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Mangsebung,माङसेबुङ,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Fakphokthum,फाकफोकथुम,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Deumai,देउमाई,Urban Municipality,नगरपालिका
-1,3,Ilam,इलाम,Chulachuli,चुलाचुली,Rural Municipality,गाउँपालिका
-1,3,Ilam,इलाम,Ilam,इलाम,Urban Municipality,नगरपालिका
-1,3,Ilam,इलाम,Mai,माई,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Birtamod,विर्तामोड,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Bhadrapur,भद्रपुर,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Jhapa,झापा,Rural Municipality,गाउँपालिका
-1,4,Jhapa,झापा,Kankai,कन्काई,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Haldibari,हल्दीवारी,Rural Municipality,गाउँपालिका
-1,4,Jhapa,झापा,Shivasataxi,शिवसताक्षि,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Mechinagar,मेची नगर,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Gauriganj,गौरीगंज,Rural Municipality,गाउँपालिका
-1,4,Jhapa,झापा,Barhadashi,बाह्रदशी,Rural Municipality,गाउँपालिका
-1,4,Jhapa,झापा,Damak,दमक,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Gauradaha,गौरादह,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Kamal,कमल,Rural Municipality,गाउँपालिका
-1,4,Jhapa,झापा,Kachankawal,कचनकवल,Rural Municipality,गाउँपालिका
-1,4,Jhapa,झापा,Arjundhara,अर्जुनधारा,Urban Municipality,नगरपालिका
-1,4,Jhapa,झापा,Buddhashanti,बुद्धशान्ति,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Urlabari,उर्लावारी,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Kanepokhari,कानेपोखरी,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Kerabari,केरावारी,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Jahada,जहदा,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Dhanpalthan,धनपालथान,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Pathari Shanishchare,पथरी शनिश्चरे,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Belbari,बेलवारी,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Miklajung,मिक्लाजुङ,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Rangeli,रंगेली,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Sunwarshi,सुनवर्षी,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Letang,लेटाङ,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Sundarharaicha,सुन्दरहरैंचा,Urban Municipality,नगरपालिका
-1,5,Morang,मोरङ,Katahari,कटहरी,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Gramthan,ग्रामथान,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Budhiganga,बुढीगंगा,Rural Municipality,गाउँपालिका
-1,5,Morang,मोरङ,Biratnagar,विराटनगर,Metropolitan City,महानगरपालिका
-1,5,Morang,मोरङ,Ratuwamai,रतुवामाई,Urban Municipality,नगरपालिका
-1,6,Sunsari,सुनसरी,Itahari,ईटहरी,Sub-metropolitan City,उपमहानगरपालिका
-1,6,Sunsari,सुनसरी,Duhabi,दुहवी,Urban Municipality,नगरपालिका
-1,6,Sunsari,सुनसरी,Gadhi,गढी,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Dewanganj,देवानगन्ज,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Koshi,कोशी,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Barah,बराह,Urban Municipality,नगरपालिका
-1,6,Sunsari,सुनसरी,Barju,बर्जु,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Bhokraha,भोक्राहा,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Ramdhuni,रामधुनी,Urban Municipality,नगरपालिका
-1,6,Sunsari,सुनसरी,Harinagara,हरिनगरा,Rural Municipality,गाउँपालिका
-1,6,Sunsari,सुनसरी,Inaruwa,ईनरुवा,Urban Municipality,नगरपालिका
-1,6,Sunsari,सुनसरी,Dharan,धरान,Sub-metropolitan City,उपमहानगरपालिका
-1,7,Dhankuta,धनकुटा,Khalsa Chhintang Shahidbhumi,खाल्सा छिन्ताङ सहीदभूमि,Rural Municipality,गाउँपालिका
-1,7,Dhankuta,धनकुटा,Chaubise,चौविसे,Rural Municipality,गाउँपालिका
-1,7,Dhankuta,धनकुटा,Chhathar Jorpati,छथर जोरपाटी,Rural Municipality,गाउँपालिका
-1,7,Dhankuta,धनकुटा,Dhankuta,धनकुटा,Urban Municipality,नगरपालिका
-1,7,Dhankuta,धनकुटा,Pakhribas,पाख्रिवास,Urban Municipality,नगरपालिका
-1,7,Dhankuta,धनकुटा,Mahalaxmi,महालक्ष्मी,Urban Municipality,नगरपालिका
-1,7,Dhankuta,धनकुटा,Sangurigadhi,सागुरीगढी,Rural Municipality,गाउँपालिका
-1,8,Terhathum,तेर्हथुम,Aathrai,आठराई ,Rural Municipality,गाउँपालिका
-1,8,Terhathum,तेर्हथुम,Chhathar,छथर,Rural Municipality,गाउँपालिका
-1,8,Terhathum,तेर्हथुम,Menchayam,मेन्छयायेम,Rural Municipality,गाउँपालिका
-1,8,Terhathum,तेर्हथुम,Myanglung,म्याङलुङ,Urban Municipality,नगरपालिका
-1,8,Terhathum,तेर्हथुम,Laligurans,लालिगुँरास,Urban Municipality,नगरपालिका
-1,8,Terhathum,तेर्हथुम,Phedap,फेदाप ,Rural Municipality,गाउँपालिका
-1,9,Sankhuwasabha,संखुवासभा,Madi,मादी,Urban Municipality,नगरपालिका
-1,9,Sankhuwasabha,संखुवासभा,Makalu,मकालु,Rural Municipality,गाउँपालिका
-1,9,Sankhuwasabha,संखुवासभा,Bhotkhola,भोटखोला,Rural Municipality,गाउँपालिका
-1,9,Sankhuwasabha,संखुवासभा,Panchakhapan,पाँचखपन,Urban Municipality,नगरपालिका
-1,9,Sankhuwasabha,संखुवासभा,Khandbari,खाँदवारी,Urban Municipality,नगरपालिका
-1,9,Sankhuwasabha,संखुवासभा,Sabhapokhari,सभापोखरी,Rural Municipality,गाउँपालिका
-1,9,Sankhuwasabha,संखुवासभा,Dharmadevi,धर्मदेवी,Urban Municipality,नगरपालिका
-1,9,Sankhuwasabha,संखुवासभा,Chainpur,चैनपुर,Urban Municipality,नगरपालिका
-1,9,Sankhuwasabha,संखुवासभा,Chichila,चिचिला,Rural Municipality,गाउँपालिका
-1,9,Sankhuwasabha,संखुवासभा,Silichong,सिलीचोङ,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Aamchowk,आमचोक,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Salpasilichho,साल्पासिलिछो,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Shadananda,षडानन्द,Urban Municipality,नगरपालिका
-1,10,Bhojpur,भोजपुर,Ramprasad Rai,रामप्रसाद राई,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Bhojpur,भोजपुर,Urban Municipality,नगरपालिका
-1,10,Bhojpur,भोजपुर,Pauwadungma,पौवादुङमा,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Tyamkemaiyung,ट्याम्केमैयुम,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Arun,अरुण,Rural Municipality,गाउँपालिका
-1,10,Bhojpur,भोजपुर,Hatuwagadhi,हतुवागढी,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Solududhakunda,सोलु दुधकुण्ड,Urban Municipality,नगरपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Sotang,सोताङ,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Likhupike,लिखु पिके,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Mahakulung,महाकुलुङ,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Nechasalyan,नेचासल्यान,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Dudhkoshi,दुधकोशी,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Khumbupasanglahmu,खुम्वु पासाङल्हमु,Rural Municipality,गाउँपालिका
-1,11,Solukhumbu,सोलुखुम्बु,Dudhkaushika,दुधकौशिका,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Champadevi,चम्पादेवी ,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Siddhicharan,सिद्दिचरण,Urban Municipality,नगरपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Likhu,लिखु ,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Molung,मोलुङ,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Manebhanjyang,मानेभञ्ज्याङ,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Chisankhugadhi,चिशंखुगढी,Rural Municipality,गाउँपालिका
-1,12,Okhaldhunga,ओखलढुंगा,Khijidemba,खिजिदेम्वा,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Halesi Tuwachung,हलेसी तुवाचुङ,Urban Municipality,नगरपालिका
-1,13,Khotang,खोटाङ,Rupakot Majhuwagadhi,रुपाकोट मझुवागढी,Urban Municipality,नगरपालिका
-1,13,Khotang,खोटाङ,Barahapokhari,बराहपोखरी,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Jantedhunga,जन्तेढुंगा,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Khotehang,खोटेहाङ,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Kepilasagadhi,केपिलासगढी,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Ainselukhark,ऐसेलुखर्क,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Lamidanda,लामीडाँडा,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Diprung,दिप्रुङ,Rural Municipality,गाउँपालिका
-1,13,Khotang,खोटाङ,Sakela,साकेला,Rural Municipality,गाउँपालिका
-1,14,Udayapur,उदयपुर,Tapli,ताप्ली,Rural Municipality,गाउँपालिका
-1,14,Udayapur,उदयपुर,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका
-1,14,Udayapur,उदयपुर,Belaka,वेलका ,Urban Municipality,नगरपालिका
-1,14,Udayapur,उदयपुर,Rautamai,रौतामाई,Rural Municipality,गाउँपालिका
-1,14,Udayapur,उदयपुर,Udayapurgadhi,उदयपुरगढी,Rural Municipality,गाउँपालिका
-1,14,Udayapur,उदयपुर,Chaudandigadhi,चौदण्डीगढी,Urban Municipality,नगरपालिका
-1,14,Udayapur,उदयपुर,Katari,कटारी ,Urban Municipality,नगरपालिका
-1,14,Udayapur,उदयपुर,Triyuga,त्रियुगा,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Rupani,रुपनी,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Walan Bihul,वलान-विहुल,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Bishnupur,विष्णुपुर,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Surunga,सुरुङ्गा,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Saptakoshi,सप्तकोशी ,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Hanumannagar Kankalini,हनुमाननगर कङ्कालिनी,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Rajbiraj,राजविराज,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Shambhunath,शम्भुनाथ ,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Mahadeva,महादेवा,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Dakneshwori,डाक्नेश्वरी,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Belhi Chapena,बेल्ही चपेना,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Tilathi Koiladi,तिलाठी कोईलाडी,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Tirahut,तिरहुत,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Chhinnamasta,छिन्नमस्ता,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Khadak,खडक,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Kanchanrup,कञ्चनरुप,Urban Municipality,नगरपालिका
-2,15,Saptari,सप्तरी,Agnisair Krishnasavaran,अग्नीसाइर कृष्णासवरन,Rural Municipality,गाउँपालिका
-2,15,Saptari,सप्तरी,Bode Barsain,बोदे बरसाइन,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Bhagawanpur,भगवानपुर,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Sukhipur,सुखीपुर,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Siraha,सिराहा,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Sakhuwanankarkatti,सखुवानान्कारकट्टी,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Bishnupur,विष्णुपुर,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Laxmipur Patari,लक्ष्मीपुर पतारी,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Mirchaiya,मिर्चैया,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Bariyarpatti,बरियारपट्टी,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Lahan,लहान,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Naraha,नरहा,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Dhangadhimai,धनगढीमाई,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Golbazar,गोलबजार,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Kalyanpur,कल्याणपुर,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Karjanhya,कर्जन्हा,Urban Municipality,नगरपालिका
-2,16,Siraha,सिराहा,Aaurahi,औरही,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Arnama,अर्नमा,Rural Municipality,गाउँपालिका
-2,16,Siraha,सिराहा,Nawarajpur,नवराजपुर,Rural Municipality,गाउँपालिका
-2,17,Dhanusa,धनुषा,Lakshminiya,लक्ष्मीनिया,Rural Municipality,गाउँपालिका
-2,17,Dhanusa,धनुषा,Bideha,विदेह,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Sahidnagar,शहीदनगर,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Sabaila,सबैला,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Hansapur Kathapulla,हंसपुर,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Mukhiyapatti Musaharmiya,मुखियापट्टी मुसहरमिया,Rural Municipality,गाउँपालिका
-2,17,Dhanusa,धनुषा,Aaurahi,औरही ,Rural Municipality,गाउँपालिका
-2,17,Dhanusa,धनुषा,Janaknandini,जनकनन्दिनी,Rural Municipality,गाउँपालिका
-2,17,Dhanusa,धनुषा,Chhireshwornath,क्षिरेश्वरनाथ,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Ganeshman Charnath,गणेशमान चारनाथ,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Janakpur,जनकपुर,Sub-metropolitan City,उपमहानगरपालिका
-2,17,Dhanusa,धनुषा,Dhanusadham,धनुषाधाम,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Dhanauji,धनौजी,Rural Municipality,गाउँपालिका
-2,17,Dhanusa,धनुषा,Nagarain,नगराइन,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Kamala Siddhidatri,कमला,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Mithila Bihari,मिथिला बिहारी,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Mithila,मिथिला,Urban Municipality,नगरपालिका
-2,17,Dhanusa,धनुषा,Bateshwor,बटेश्वर,Rural Municipality,गाउँपालिका
-2,18,Mahottari,महोत्तरी,Bhangaha,भँगाहा,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Sonama,सोनमा,Rural Municipality,गाउँपालिका
-2,18,Mahottari,महोत्तरी,Matihani,मटिहानी,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Loharpatti,लोहरपट्टी,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Ramgopalpur,रामगोपालपुर,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Mahottari,महोत्तरी,Rural Municipality,गाउँपालिका
-2,18,Mahottari,महोत्तरी,Manara Siswa,मनरा शिसवा,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Samsi,साम्सी,Rural Municipality,गाउँपालिका
-2,18,Mahottari,महोत्तरी,Aaurahi,औरही,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Gaushala,गौशाला,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Jaleswor,जलेश्वर,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Pipra,पिपरा,Rural Municipality,गाउँपालिका
-2,18,Mahottari,महोत्तरी,Bardibas,बर्दिबास,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Balwa,बलवा,Urban Municipality,नगरपालिका
-2,18,Mahottari,महोत्तरी,Ekdanra,एकडारा,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Barahathawa,बरहथवा,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Parsa,पर्सा,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Dhankaul,धनकौल,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Gaudeta,गोडैटा ,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Chakraghatta,चक्रघट्टा ,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Kaudena,कौडेना,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Kabilasi,कविलासी,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Ishworpur,ईश्वरपुर,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Chandranagar,चन्द्रनगर,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Balara,बलरा,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Bagmati,बागमती,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Basbariya,बसबरिया,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Hariwan,हरिवन,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Haripurwa,हरिपुर्वा,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Haripur,हरिपुर,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Bishnu,विष्णु,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Lalbandi,लालबन्दी,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Ramnagar,रामनगर,Rural Municipality,गाउँपालिका
-2,19,Sarlahi,सर्लाही,Malangawa,मलंगवा,Urban Municipality,नगरपालिका
-2,19,Sarlahi,सर्लाही,Bramhapuri,ब्रह्मपुरी ,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Hariharpurgadhi,हरिहरपुरगढी,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Golanjor,गोलन्जोर,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Phikkal,फिक्कल,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Kamalamai,कमलामाई,Urban Municipality,नगरपालिका
-3,20,Sindhuli,सिन्धुली,Ghanglekh,घ्याङलेख,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Tinpatan,तिनपाटन,Rural Municipality,गाउँपालिका
-3,20,Sindhuli,सिन्धुली,Dudhouli,दुधौली,Urban Municipality,नगरपालिका
-3,20,Sindhuli,सिन्धुली,Marin,मरिण,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Doramba,दोरम्बा,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Likhu,लिखु,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Khadadevi,खाँडादेवी,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Manthali,मन्थली,Urban Municipality,नगरपालिका
-3,21,Ramechhap,रामेछाप,Umakunda,उमाकुण्ड,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Sunapati,सुनापती,Rural Municipality,गाउँपालिका
-3,21,Ramechhap,रामेछाप,Ramechhap,रामेछाप,Urban Municipality,नगरपालिका
-3,21,Ramechhap,रामेछाप,Gokulganga,गोकुलगङ्गा,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Sailung,शैलुङ ,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Baiteshwor,वैतेश्वर ,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Bigu,विगु,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Bhimeshwor,भिमेश्वर ,Urban Municipality,नगरपालिका
-3,22,Dolakha,दोलखा,Tamakoshi,तामाकोशी ,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Jiri,जिरी ,Urban Municipality,नगरपालिका
-3,22,Dolakha,दोलखा,Gaurishankar,गौरिशंकर ,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Melung,मेलुङ ,Rural Municipality,गाउँपालिका
-3,22,Dolakha,दोलखा,Kalinchok,कालिन्चोक ,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Tripura Sundari,त्रिपुरासुन्दरी,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Lisangkhu Pakhar,लिसंखु पाखर,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Chautara Sangachokgadhi,चौतारा साँगाचोकगढी,Urban Municipality,नगरपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Jugal,जुगल,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Balefi,बलेफी,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Panchpokhari Thangpal,पाँचपोखरी थाङपाल ,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Melamchi,मेलम्ची,Urban Municipality,नगरपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Indrawati,र्इन्द्रावती,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Barhabise,वाह्रविसे,Urban Municipality,नगरपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Helambu,हेलम्बु ,Rural Municipality,गाउँपालिका
-3,23,Sindhupalchok,सिन्धुपाल्चोक,Bhotekoshi,भोटेकोशी,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Khanikhola,खानीखोला,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Chaurideurali,चौंरीदेउराली,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Dhulikhel,धुलिखेल,Urban Municipality,नगरपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Namobuddha,नमोबुद्ध,Urban Municipality,नगरपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Panauti,पनौती,Urban Municipality,नगरपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Bhumlu,भुम्लु,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Bethanchowk,बेथानचोक,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Mandandeupur,मण्डनदेउपुर,Urban Municipality,नगरपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Roshi,रोशी,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Mahabharat,महाभारत,Rural Municipality,गाउँपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Panchkhal,पाँचखाल,Urban Municipality,नगरपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Banepa,बनेपा,Urban Municipality,नगरपालिका
-3,24,Kavrepalanchok,काभ्रेपलाञ्चोक,Temal,तेमाल,Rural Municipality,गाउँपालिका
-3,25,Lalitpur,ललितपुर,Mahalaxmi,महालक्ष्मी,Urban Municipality,नगरपालिका
-3,25,Lalitpur,ललितपुर,Mahankal,महाङ्काल,Rural Municipality,गाउँपालिका
-3,25,Lalitpur,ललितपुर,Bagmati,बाग्मती,Rural Municipality,गाउँपालिका
-3,25,Lalitpur,ललितपुर,Godawari,गोदावरी,Urban Municipality,नगरपालिका
-3,25,Lalitpur,ललितपुर,Konjyosom,कोन्ज्योसोम,Rural Municipality,गाउँपालिका
-3,25,Lalitpur,ललितपुर,Lalitpur,ललितपुर,Metropolitan City,महानगरपालिका
-3,26,Bhaktapur,भक्तपुर,Madhyapur Thimi,मध्यपुर थिमी,Urban Municipality,नगरपालिका
-3,26,Bhaktapur,भक्तपुर,Bhaktapur,भक्तपुर,Urban Municipality,नगरपालिका
-3,26,Bhaktapur,भक्तपुर,Changunarayan,चाँगुनारायण,Urban Municipality,नगरपालिका
-3,26,Bhaktapur,भक्तपुर,Suryabinayak,सूर्यविनायक,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Kirtipur,किर्तिपुर,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Kathmandu,काठमाण्डौ,Metropolitan City,महानगरपालिका
-3,27,Kathmandu,काठमाडौं,Kageshwori Manohara,कागेश्वरी मनोहरा,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Nagarjun,नागार्जुन,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Dakshinkali,दक्षिणकाली,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Tarakeshwar,तारकेश्वर,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Chandragiri,चन्द्रागिरी,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Budhanilakantha,बुढानिलकण्ठ,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Tokha,टोखा,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Gokarneshwor,गोकर्णेश्वर,Urban Municipality,नगरपालिका
-3,27,Kathmandu,काठमाडौं,Shankharapur,शङ्खरापुर,Urban Municipality,नगरपालिका
-3,28,Nuwakot,नुवाकोट,Kispang,किस्पाङ,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Kakani,ककनी,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Shivapuri,शिवपुरी,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Panchakanya,पञ्चकन्या,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Tadi,तादी,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Tarakeshwar,तारकेश्वर,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Belkotgadhi,बेलकोटगढी,Urban Municipality,नगरपालिका
-3,28,Nuwakot,नुवाकोट,Suryagadhi,सुर्यगढी,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Bidur,विदुर,Urban Municipality,नगरपालिका
-3,28,Nuwakot,नुवाकोट,Likhu,लिखु,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Meghang,मेघाङ,Rural Municipality,गाउँपालिका
-3,28,Nuwakot,नुवाकोट,Dupcheshwar,दुप्चेश्वर,Rural Municipality,गाउँपालिका
-3,29,Rasuwa,रसुवा,Kalika,कालिका,Rural Municipality,गाउँपालिका
-3,29,Rasuwa,रसुवा,Gosaikunda,गोसाईकुण्ड,Rural Municipality,गाउँपालिका
-3,29,Rasuwa,रसुवा,Naukunda,नौकुण्ड,Rural Municipality,गाउँपालिका
-3,29,Rasuwa,रसुवा,Parbati Kunda,पार्वतीकुण्ड,Rural Municipality,गाउँपालिका
-3,29,Rasuwa,रसुवा,Uttargaya,उत्तरगया,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Gangajamuna,गङ्गाजमुना,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Benighat Rorang,बेनीघाट रोराङ्ग,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Khaniyabash,खनियाबास,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Gajuri,गजुरी,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Jwalamukhi,ज्वालामूखी,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Tripura Sundari,त्रिपुरासुन्दरी,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Thakre,थाक्रे,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Dhunibesi,धुनीबेंशी,Urban Municipality,नगरपालिका
-3,30,Dhading,धादिङ्ग,Nilakantha,निलकण्ठ,Urban Municipality,नगरपालिका
-3,30,Dhading,धादिङ्ग,Netrawati,नेत्रावती,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Rubi Valley,रुवी भ्याली,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Siddhalek,सिद्धलेक,Rural Municipality,गाउँपालिका
-3,30,Dhading,धादिङ्ग,Galchhi,गल्छी,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Raksirang,राक्सिराङ्ग,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Manahari,मनहरी,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Makawanpurgadhi,मकवानपुरगढी,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Bagmati,बाग्मती,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Bakaiya,बकैया,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Thaha,थाहा,Urban Municipality,नगरपालिका
-3,31,Makwanpur,मकवानपुर,Indrasarowar,ईन्द्र सरोवर,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Hetauda,हेटौडा,Sub-metropolitan City,उपमहानगरपालिका
-3,31,Makwanpur,मकवानपुर,Bhimphedi,भीमफेदी,Rural Municipality,गाउँपालिका
-3,31,Makwanpur,मकवानपुर,Kailash,कैलाश,Rural Municipality,गाउँपालिका
-2,32,Rautahat,रौतहट,Yamunamai,यमुनामाई ,Rural Municipality,गाउँपालिका
-2,32,Rautahat,रौतहट,Maulapur,मौलापुर,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Rajdevi,राजदेवी,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Madhav Narayan,माधव नारायण,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Baudhimai,बौधीमाई,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Phatuwa Bijayapur,फतुवा बिजयपुर,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Paroha,परोहा,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Dewahi Gonahi,देवाही गोनाही  ,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Durga Bhagwati,दुर्गा भगवती,Rural Municipality,गाउँपालिका
-2,32,Rautahat,रौतहट,Ishanath,ईशनाथ,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Gaur,गौर,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Gujara,गुजरा,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Garuda,गरुडा,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Gadhimai,गढीमाई,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Katahariya,कटहरिया,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Brindaban,वृन्दावन,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Rajpur,राजपुर,Urban Municipality,नगरपालिका
-2,32,Rautahat,रौतहट,Chandrapur,चन्द्रपुर,Urban Municipality,नगरपालिका
-2,33,Bara,बारा,Pheta,फेटा,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Suwarna,सुवर्ण,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Simraungadh,सिम्रौनगढ,Urban Municipality,नगरपालिका
-2,33,Bara,बारा,Bishrampur,विश्रामपुर,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Mahagadhimai,महागढीमाई,Urban Municipality,नगरपालिका
-2,33,Bara,बारा,Baragadhi,बारागढी,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Parwanipur,परवानीपुर,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Prasauni,प्रसौनी,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Nijgadh,निजगढ,Urban Municipality,नगरपालिका
-2,33,Bara,बारा,Pacharauta,पचरौता,Urban Municipality,नगरपालिका
-2,33,Bara,बारा,Devtal,देवताल,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Jitpur Simara,जीतपुरसिमरा,Sub-metropolitan City,उपमहानगरपालिका
-2,33,Bara,बारा,Kolhabi,कोल्हवी,Urban Municipality,नगरपालिका
-2,33,Bara,बारा,Kalaiya,कलैया,Sub-metropolitan City,उपमहानगरपालिका
-2,33,Bara,बारा,Karaiyamai,करैयामाई,Rural Municipality,गाउँपालिका
-2,33,Bara,बारा,Adarshkotwal,आदर्श कोटवाल,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Sakhuwa Prasauni,सखुवा प्रसौनी,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Birgunj,बिरगंज,Metropolitan City,महानगरपालिका
-2,34,Parsa,पर्सा,Bindabasini,बिन्दबासिनी,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Bahudaramai,बहुदरमाई,Urban Municipality,नगरपालिका
-2,34,Parsa,पर्सा,Pokhariya,पोखरिया,Urban Municipality,नगरपालिका
-2,34,Parsa,पर्सा,Parsagadhi,पर्सागढी,Urban Municipality,नगरपालिका
-2,34,Parsa,पर्सा,Paterwasugauli,पटेर्वा सुगौली,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Thori,ठोरी,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Dhobini,धोबीनी,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Jira Bhawani,जिराभवानी,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Jagarnathpur,जगरनाथपुर,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Chhipaharmai,छिपहरमाई,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Kalikamai,कालिकामाई,Rural Municipality,गाउँपालिका
-2,34,Parsa,पर्सा,Pakahamainpur,पकाहा मैनपुर,Rural Municipality,गाउँपालिका
-3,35,Chitwan,चितवन,Bharatpur,भरतपुर,Metropolitan City,महानगरपालिका
-3,35,Chitwan,चितवन,Madi,माडी,Urban Municipality,नगरपालिका
-3,35,Chitwan,चितवन,Khairahani,खैरहनी,Urban Municipality,नगरपालिका
-3,35,Chitwan,चितवन,Ratnanagar,रत्ननगर,Urban Municipality,नगरपालिका
-3,35,Chitwan,चितवन,Rapti,राप्ती,Urban Municipality,नगरपालिका
-3,35,Chitwan,चितवन,Ichchhyakamana,इच्छाकामना,Rural Municipality,गाउँपालिका
-3,35,Chitwan,चितवन,Kalika,कालिका,Urban Municipality,नगरपालिका
-4,36,Gorkha,गोरखा,Sulikot,सुलीकोट,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Sahid Lakhan,शहिद लखन,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Palungtar,पालुङटार,Urban Municipality,नगरपालिका
-4,36,Gorkha,गोरखा,Dharche,धार्चे,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Chum Nubri,चुम नुव्री,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Siranchok,सिरानचोक,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Aarughat,आरूघाट,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Ajirkot,अजिरकोट,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Bhimsen,भिमसेन,Rural Municipality,गाउँपालिका
-4,36,Gorkha,गोरखा,Gorkha,गोरखा,Urban Municipality,नगरपालिका
-4,36,Gorkha,गोरखा,Gandaki,गण्डकी,Rural Municipality,गाउँपालिका
-4,37,Lamjung,लमजुङ,Madhyanepal,मध्यनेपाल,Urban Municipality,नगरपालिका
-4,37,Lamjung,लमजुङ,Sundarbazar,सुन्दरबजार,Urban Municipality,नगरपालिका
-4,37,Lamjung,लमजुङ,Kwholasothar,क्व्होलासोथार,Rural Municipality,गाउँपालिका
-4,37,Lamjung,लमजुङ,Marsyangdi,मर्स्याङदी,Rural Municipality,गाउँपालिका
-4,37,Lamjung,लमजुङ,Dudhpokhari,दूधपोखरी,Rural Municipality,गाउँपालिका
-4,37,Lamjung,लमजुङ,Dordi,दोर्दी,Rural Municipality,गाउँपालिका
-4,37,Lamjung,लमजुङ,Besisahar,बेसीशहर,Urban Municipality,नगरपालिका
-4,37,Lamjung,लमजुङ,Rainas,रार्इनास,Urban Municipality,नगरपालिका
-4,38,Tanahun,तनहुँ,Ghiring,घिरिङ,Rural Municipality,गाउँपालिका
-4,38,Tanahun,तनहुँ,Myagde,म्याग्दे,Rural Municipality,गाउँपालिका
-4,38,Tanahun,तनहुँ,Anbukhaireni,आँबुखैरेनी,Rural Municipality,गाउँपालिका
-4,38,Tanahun,तनहुँ,Bandipur,बन्दिपुर,Rural Municipality,गाउँपालिका
-4,38,Tanahun,तनहुँ,Devghat,देवघाट,Rural Municipality,गाउँपालिका
-4,38,Tanahun,तनहुँ,Bhanu,भानु,Urban Municipality,नगरपालिका
-4,38,Tanahun,तनहुँ,Bhimad,भिमाद,Urban Municipality,नगरपालिका
-4,38,Tanahun,तनहुँ,Rhishing,ऋषिङ्ग,Rural Municipality,गाउँपालिका
-4,38,Tanahun,तनहुँ,Byas,व्यास,Urban Municipality,नगरपालिका
-4,38,Tanahun,तनहुँ,Shuklagandaki,शुक्लागण्डकी,Urban Municipality,नगरपालिका
-4,39,Syangja,स्याङ्जा,Kaligandaki,कालीगण्डकी,Rural Municipality,गाउँपालिका
-4,39,Syangja,स्याङ्जा,Harinas,हरीनास,Rural Municipality,गाउँपालिका
-4,39,Syangja,स्याङ्जा,Biruwa,विरुवा,Rural Municipality,गाउँपालिका
-4,39,Syangja,स्याङ्जा,Waling,वालिङ,Urban Municipality,नगरपालिका
-4,39,Syangja,स्याङ्जा,Bhirkot,भिरकोट,Urban Municipality,नगरपालिका
-4,39,Syangja,स्याङ्जा,Phedikhola,फेदीखोला,Rural Municipality,गाउँपालिका
-4,39,Syangja,स्याङ्जा,Putalibazar,पुतलीबजार,Urban Municipality,नगरपालिका
-4,39,Syangja,स्याङ्जा,Chapakot,चापाकोट,Urban Municipality,नगरपालिका
-4,39,Syangja,स्याङ्जा,Galyang,गल्याङ,Urban Municipality,नगरपालिका
-4,39,Syangja,स्याङ्जा,Arjunchaupari,अर्जुन चौपारी,Rural Municipality,गाउँपालिका
-4,39,Syangja,स्याङ्जा,Aandhikhola,आँधीखोला,Rural Municipality,गाउँपालिका
-4,40,Kaski,कास्की,Rupa,रूपा,Rural Municipality,गाउँपालिका
-4,40,Kaski,कास्की,Machhapuchchhre,माछापुछ्रे,Rural Municipality,गाउँपालिका
-4,40,Kaski,कास्की,Annapurna,अन्नपुर्ण,Rural Municipality,गाउँपालिका
-4,40,Kaski,कास्की,Pokhara Lekhnath,पोखरा लेखनाथ,Metropolitan City,महानगरपालिका
-4,40,Kaski,कास्की,Madi,मादी,Rural Municipality,गाउँपालिका
-4,41,Manang,मनाङ,Chame,चामे,Rural Municipality,गाउँपालिका
-4,41,Manang,मनाङ,Narphu,नारफू,Rural Municipality,गाउँपालिका
-4,41,Manang,मनाङ,Nashong,नाशोङ,Rural Municipality,गाउँपालिका
-4,41,Manang,मनाङ,Neshyang,नेस्याङ,Rural Municipality,गाउँपालिका
-4,42,Mustang,मुस्ताङ,Barhagaun Muktikshetra,बाह्गाउँ मुक्तिक्षेत्र,Rural Municipality,गाउँपालिका
-4,42,Mustang,मुस्ताङ,Lomanthang,लोमन्थाङ,Rural Municipality,गाउँपालिका
-4,42,Mustang,मुस्ताङ,Dalome,दालोमे,Rural Municipality,गाउँपालिका
-4,42,Mustang,मुस्ताङ,Thasang,थासाङ,Rural Municipality,गाउँपालिका
-4,42,Mustang,मुस्ताङ,Gharapjhong,घरपझोङ,Rural Municipality,गाउँपालिका
-4,43,Myagdi,म्याग्दी,Dhaulagiri,धवलागिरी,Rural Municipality,गाउँपालिका
-4,43,Myagdi,म्याग्दी,Malika,मालिका,Rural Municipality,गाउँपालिका
-4,43,Myagdi,म्याग्दी,Raghuganga,रघुगंगा,Rural Municipality,गाउँपालिका
-4,43,Myagdi,म्याग्दी,Annapurna,अन्नपूर्ण,Rural Municipality,गाउँपालिका
-4,43,Myagdi,म्याग्दी,Beni,बेनी ,Urban Municipality,नगरपालिका
-4,43,Myagdi,म्याग्दी,Mangala,मंगला,Rural Municipality,गाउँपालिका
-4,44,Parbat,पर्वत,Kushma,कुश्मा,Urban Municipality,नगरपालिका
-4,44,Parbat,पर्वत,Painyu,पैयूं,Rural Municipality,गाउँपालिका
-4,44,Parbat,पर्वत,Phalebas,फलेवास,Urban Municipality,नगरपालिका
-4,44,Parbat,पर्वत,Jaljala,जलजला,Rural Municipality,गाउँपालिका
-4,44,Parbat,पर्वत,Mahashila,महाशिला,Rural Municipality,गाउँपालिका
-4,44,Parbat,पर्वत,Bihadi,विहादी,Rural Municipality,गाउँपालिका
-4,44,Parbat,पर्वत,Modi,मोदी,Rural Municipality,गाउँपालिका
-5,45,Baglung,बागलुङ,Bareng,वरेङ,Rural Municipality,गाउँपालिका
-5,45,Baglung,बागलुङ,Badigad,वडिगाड,Rural Municipality,गाउँपालिका
-5,45,Baglung,बागलुङ,Baglung,बागलुङ,Urban Municipality,नगरपालिका
-5,45,Baglung,बागलुङ,Tara Khola,ताराखोला,Rural Municipality,गाउँपालिका
-5,45,Baglung,बागलुङ,Taman Khola,तमानखोला,Rural Municipality,गाउँपालिका
-5,45,Baglung,बागलुङ,Dhorpatan,ढोरपाटन,Urban Municipality,नगरपालिका
-5,45,Baglung,बागलुङ,Jaimuni,जैमुनी,Urban Municipality,नगरपालिका
-5,45,Baglung,बागलुङ,Galkot,गल्कोट,Urban Municipality,नगरपालिका
-5,45,Baglung,बागलुङ,Kanthekhola,काठेखोला,Rural Municipality,गाउँपालिका
-5,45,Baglung,बागलुङ,Nisikhola,निसीखोला,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Gulmidarbar,गुल्मीदरवार,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Kaligandaki,कालीगण्डकी,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Isma,ईस्मा,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Dhurkot,धुर्कोट,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Satyawati,सत्यवती,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Resunga,रेसुङ्गा,Urban Municipality,नगरपालिका
-5,46,Gulmi,गुल्मी,Chandrakot,चन्द्रकोट,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Musikot,मुसिकोट,Urban Municipality,नगरपालिका
-5,46,Gulmi,गुल्मी,Malika,मालिका,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Madane,मदाने,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Chhatrakot,छत्रकोट,Rural Municipality,गाउँपालिका
-5,46,Gulmi,गुल्मी,Ruru,रुरु,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Nisdi,निस्दी,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Rainadevi Chhahara,रैनादेवी छहरा,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Tinau,तिनाउ,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Purbakhola,पूर्वखोला,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Bagnaskali,बगनासकाली,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Mathagadhi,माथागढी,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Rambha,रम्भा,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Rampur,रामपुर,Urban Municipality,नगरपालिका
-5,47,Palpa,पाल्पा,Ribdikot,रिब्दिकोट,Rural Municipality,गाउँपालिका
-5,47,Palpa,पाल्पा,Tansen,तानसेन,Urban Municipality,नगरपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Bulingtar,बुलिङटार,Rural Municipality,गाउँपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Madhyabindu,मध्यविन्दु,Urban Municipality,नगरपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Binayee Triveni,विनयी त्रिवेणी,Rural Municipality,गाउँपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Hupsekot,हुप्सेकोट,Rural Municipality,गाउँपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Kawasoti,कावासोती,Urban Municipality,नगरपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Gaidakot,गैडाकोट,Urban Municipality,नगरपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Devchuli,देवचुली,Urban Municipality,नगरपालिका
-4,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पूर्व),Bungdikali,बुङदीकाली,Rural Municipality,गाउँपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Bardaghat,बर्दघाट,Urban Municipality,नगरपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Ramgram,रामग्राम,Urban Municipality,नगरपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Sunwal,सुनवल,Urban Municipality,नगरपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Susta,सुस्ता,Rural Municipality,गाउँपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Palhi Nandan,पाल्हीनन्दन,Rural Municipality,गाउँपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Pratappur,प्रतापपुर,Rural Municipality,गाउँपालिका
-5,48,Nawalparasi,नवलपरासी (बर्दघाट सुस्ता पश्चिम),Sarawal,सरावल,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Devdaha,देवदह,Urban Municipality,नगरपालिका
-5,49,Rupandehi,रुपन्देही,Tilottama,तिलोत्तमा,Urban Municipality,नगरपालिका
-5,49,Rupandehi,रुपन्देही,Gaidahawa,गैडहवा,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Kanchan,कंचन,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Omsatiya,ओमसतिया,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Marchawari,मर्चवारी,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Kotahimai,कोटहीमाई,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Mayadevi,मायादेवी,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Butwal,बुटवल,Sub-metropolitan City,उपमहानगरपालिका
-5,49,Rupandehi,रुपन्देही,Sudhdhodhan,शुद्धोधन,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Sammarimai,सम्मरीमाई,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Siddharthanagar,सिद्धार्थनगर,Urban Municipality,नगरपालिका
-5,49,Rupandehi,रुपन्देही,Siyari,सियारी,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Rohini,रोहिणी,Rural Municipality,गाउँपालिका
-5,49,Rupandehi,रुपन्देही,Lumbini Sanskritik,लुम्बिनी सांस्कृतिक,Urban Municipality,नगरपालिका
-5,49,Rupandehi,रुपन्देही,Sainamaina,सैनामैना,Urban Municipality,नगरपालिका
-5,50,Kapilvastu,कपिलवस्तु,Kapilbastu,कपिलवस्तु,Urban Municipality,नगरपालिका
-5,50,Kapilvastu,कपिलवस्तु,Krishnanagar,कृष्णनगर,Urban Municipality,नगरपालिका
-5,50,Kapilvastu,कपिलवस्तु,Banganga,बाणगंगा,Urban Municipality,नगरपालिका
-5,50,Kapilvastu,कपिलवस्तु,Buddhabhumi,बुद्धभूमी,Urban Municipality,नगरपालिका
-5,50,Kapilvastu,कपिलवस्तु,Yashodhara,यसोधरा,Rural Municipality,गाउँपालिका
-5,50,Kapilvastu,कपिलवस्तु,Bijayanagar,विजयनगर,Rural Municipality,गाउँपालिका
-5,50,Kapilvastu,कपिलवस्तु,Mayadevi,मायादेवी,Rural Municipality,गाउँपालिका
-5,50,Kapilvastu,कपिलवस्तु,Sudhdhodhan,शुद्धोधन,Rural Municipality,गाउँपालिका
-5,50,Kapilvastu,कपिलवस्तु,Maharajgunj,महाराजगंज,Urban Municipality,नगरपालिका
-5,50,Kapilvastu,कपिलवस्तु,Shivaraj,शिवराज,Urban Municipality,नगरपालिका
-5,51,Arghakhanchi,अर्घाखाँची,Panini,पाणिनी,Rural Municipality,गाउँपालिका
-5,51,Arghakhanchi,अर्घाखाँची,Bhumekasthan,भूमिकास्थान,Urban Municipality,नगरपालिका
-5,51,Arghakhanchi,अर्घाखाँची,Malarani,मालारानी,Rural Municipality,गाउँपालिका
-5,51,Arghakhanchi,अर्घाखाँची,Sandhikharka,सन्धिखर्क,Urban Municipality,नगरपालिका
-5,51,Arghakhanchi,अर्घाखाँची,Sitganga,सितगंगा,Urban Municipality,नगरपालिका
-5,51,Arghakhanchi,अर्घाखाँची,Chhatradev,छत्रदेव,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Jhimruk,झिमरुक,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Pyuthan,प्यूठान,Urban Municipality,नगरपालिका
-5,52,Pyuthan,प्यूठान,Mallarani,मल्लरानी,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Sworgadwary,स्वर्गद्वारी,Urban Municipality,नगरपालिका
-5,52,Pyuthan,प्यूठान,Sarumarani,सरुमारानी,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Naubahini,नौवहिनी,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Gaumukhi,गौमुखी,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Mandavi,माण्डवी,Rural Municipality,गाउँपालिका
-5,52,Pyuthan,प्यूठान,Aerawati,ऐरावती,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Thawang,थवाङ,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Rolpa,रोल्पा,Urban Municipality,नगरपालिका
-5,53,Rolpa,रोल्पा,Tribeni,त्रिवेणी,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Sunchhahari,सुनछहरी,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Sukidaha,सुकिदह,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Lungri,लुङग्री,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Runtigadi,रुन्टीगढी,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Madi,माडी,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Duikholi,दुईखोली,Rural Municipality,गाउँपालिका
-5,53,Rolpa,रोल्पा,Suwarnabati,सुवर्णावती,Rural Municipality,गाउँपालिका
-5,54,Rukum,रुकुम पूर्व,Putha Uttarganga,पुथा उत्तरगंगा,Rural Municipality,गाउँपालिका
-5,54,Rukum,रुकुम पूर्व,Sisne,सिस्ने,Rural Municipality,गाउँपालिका
-5,54,Rukum,रुकुम पूर्व,Bhume,भूमे,Rural Municipality,गाउँपालिका
-6,54,Rukum,रुकुम पश्चिम,Aathbiskot,आठबिसकोट,Urban Municipality,नगरपालिका
-6,54,Rukum,रुकुम पश्चिम,Tribeni,त्रिवेणी,Rural Municipality,गाउँपालिका
-6,54,Rukum,रुकुम पश्चिम,Banfikot,बाँफिकोट,Rural Municipality,गाउँपालिका
-6,54,Rukum,रुकुम पश्चिम,Musikot,मुसिकोट,Urban Municipality,नगरपालिका
-6,54,Rukum,रुकुम पश्चिम,Sani Bheri,सानीभेरी,Rural Municipality,गाउँपालिका
-6,54,Rukum,रुकुम पश्चिम,Chaurjahari,चौरजहारी,Urban Municipality,नगरपालिका
-5,55,Salyan,सल्यान,Bagchaur,बागचौर,Urban Municipality,नगरपालिका
-5,55,Salyan,सल्यान,Chhatreshwori,छत्रेश्वरी,Rural Municipality,गाउँपालिका
-5,55,Salyan,सल्यान,Sharada,शारदा,Urban Municipality,नगरपालिका
-5,55,Salyan,सल्यान,Bangad Kupinde,बनगाड कुपिण्डे,Urban Municipality,नगरपालिका
-5,55,Salyan,सल्यान,Darma,दार्मा,Rural Municipality,गाउँपालिका
-5,55,Salyan,सल्यान,Dhorchaur,ढोरचौर,Rural Municipality,गाउँपालिका
-5,55,Salyan,सल्यान,Kumakhmalika,कुमाखमालिका,Rural Municipality,गाउँपालिका
-5,55,Salyan,सल्यान,Kalimati,कालीमाटी,Rural Municipality,गाउँपालिका
-5,55,Salyan,सल्यान,Kapurkot,कपुरकोट,Rural Municipality,गाउँपालिका
-5,55,Salyan,सल्यान,Tribeni,त्रिवेणी,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Shantinagar,शान्तिनगर,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Lamahi,लमही,Urban Municipality,नगरपालिका
-5,56,Dang,दाङ,Rapti,राप्ती,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Rajpur,राजपुर,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Babai,बबई,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Dangisharan,दंगीशरण,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Tulsipur,तुल्सिपुर,Sub-metropolitan City,उपमहानगरपालिका
-5,56,Dang,दाङ,Ghorahi,घोराही,Sub-metropolitan City,उपमहानगरपालिका
-5,56,Dang,दाङ,Gadhawa,गढवा,Rural Municipality,गाउँपालिका
-5,56,Dang,दाङ,Banglachuli,बंगलाचुली,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Janaki,जानकी,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Rapti Sonari,राप्ती सोनारी,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Nepalgunj,नेपालगंज,Sub-metropolitan City,उपमहानगरपालिका
-5,57,Banke,बाँके,Kohalpur,कोहलपुर,Urban Municipality,नगरपालिका
-5,57,Banke,बाँके,Khajura,खजुरा,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Baijanath,बैजनाथ,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Duduwa,डुडुवा,Rural Municipality,गाउँपालिका
-5,57,Banke,बाँके,Narainapur,नरैनापुर,Rural Municipality,गाउँपालिका
-5,58,Bardiya,बर्दिया,Geruwa,गेरुवा,Rural Municipality,गाउँपालिका
-5,58,Bardiya,बर्दिया,Thakurbaba,ठाकुरबाबा,Urban Municipality,नगरपालिका
-5,58,Bardiya,बर्दिया,Barbardiya,बारबर्दिया,Urban Municipality,नगरपालिका
-5,58,Bardiya,बर्दिया,Bansgadhi,बाँसगढी,Urban Municipality,नगरपालिका
-5,58,Bardiya,बर्दिया,Badhaiyatal,बढैयाताल,Rural Municipality,गाउँपालिका
-5,58,Bardiya,बर्दिया,Gulariya,गुलरिया,Urban Municipality,नगरपालिका
-5,58,Bardiya,बर्दिया,Rajapur,राजापुर,Urban Municipality,नगरपालिका
-5,58,Bardiya,बर्दिया,Madhuwan,मधुवन,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Barahatal,बराहताल,Rural Municipality,गाउँपालिका
-6,59,Surkhet,सुर्खेत,Chaukune,चौकुने,Rural Municipality,गाउँपालिका
-6,59,Surkhet,सुर्खेत,Birendranagar,बीरेन्द्रनगर,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Bheriganga,भेरीगंगा,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Simta,सिम्ता,Rural Municipality,गाउँपालिका
-6,59,Surkhet,सुर्खेत,Panchpuri,पञ्चपुरी,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Lekbeshi,लेकबेशी,Urban Municipality,नगरपालिका
-6,59,Surkhet,सुर्खेत,Chingad,चिङ्गाड,Rural Municipality,गाउँपालिका
-6,59,Surkhet,सुर्खेत,Gurbhakot,गुर्भाकोट,Urban Municipality,नगरपालिका
-6,60,Dailekh,दैलेख,Dullu,दुल्लु,Urban Municipality,नगरपालिका
-6,60,Dailekh,दैलेख,Gurans,गुराँस,Rural Municipality,गाउँपालिका
-6,60,Dailekh,दैलेख,Mahabu,महावु,Rural Municipality,गाउँपालिका
-6,60,Dailekh,दैलेख,Bhagawatimai,भगवतीमाई,Rural Municipality,गाउँपालिका
-6,60,Dailekh,दैलेख,Naumule,नौमुले,Rural Municipality,गाउँपालिका
-6,60,Dailekh,दैलेख,Narayan,नारायण,Urban Municipality,नगरपालिका
-6,60,Dailekh,दैलेख,Dungeshwor,डुंगेश्वर,Rural Municipality,गाउँपालिका
-6,60,Dailekh,दैलेख,Thantikandh,ठाँटीकाँध,Rural Municipality,गाउँपालिका
-6,60,Dailekh,दैलेख,Chamunda Bindrasaini,चामुण्डा विन्द्रासैनी,Urban Municipality,नगरपालिका
-6,60,Dailekh,दैलेख,Aathabis,आठबीस,Urban Municipality,नगरपालिका
-6,60,Dailekh,दैलेख,Bhairabi,भैरवी,Rural Municipality,गाउँपालिका
-6,61,Jajarkot,जाजरकोट,Tribeni Nalagad,त्रिवेणी नलगाड,Urban Municipality,नगरपालिका
-6,61,Jajarkot,जाजरकोट,Shiwalaya,शिवालय,Rural Municipality,गाउँपालिका
-6,61,Jajarkot,जाजरकोट,Bheri,भेरी,Urban Municipality,नगरपालिका
-6,61,Jajarkot,जाजरकोट,Barekot,बारेकोट,Rural Municipality,गाउँपालिका
-6,61,Jajarkot,जाजरकोट,Junichande,जुनीचाँदे,Rural Municipality,गाउँपालिका
-6,61,Jajarkot,जाजरकोट,Chhedagad,छेडागाड,Urban Municipality,नगरपालिका
-6,61,Jajarkot,जाजरकोट,Kuse,कुसे,Rural Municipality,गाउँपालिका
-6,62,Dolpa,डोल्पा,Kaike,काईके,Rural Municipality,गाउँपालिका
-6,62,Dolpa,डोल्पा,Chharka Tangsong,छार्का ताङसोङ,Rural Municipality,गाउँपालिका
-6,62,Dolpa,डोल्पा,Jagadulla,जगदुल्ला,Rural Municipality,गाउँपालिका
-6,62,Dolpa,डोल्पा,Thuli Bheri,ठूली भेरी,Urban Municipality,नगरपालिका
-6,62,Dolpa,डोल्पा,Dolpo Buddha,डोल्पो बुद्ध,Rural Municipality,गाउँपालिका
-6,62,Dolpa,डोल्पा,Shey Phoksundo,शे फोक्सुन्डो,Rural Municipality,गाउँपालिका
-6,62,Dolpa,डोल्पा,Tripura Sundari,त्रिपुरासुन्दरी,Urban Municipality,नगरपालिका
-6,62,Dolpa,डोल्पा,Mudkechula,मुड्केचुला,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Tatopani,तातोपानी,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Chandannath,चन्दननाथ,Urban Municipality,नगरपालिका
-6,63,Jumla,जुम्ला,Guthichaur,गुठिचौर,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Kanakasundari,कनकासुन्दरी,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Tila,तिला,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Hima,हिमा,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Sinja,सिंजा,Rural Municipality,गाउँपालिका
-6,63,Jumla,जुम्ला,Patrasi,पातारासी,Rural Municipality,गाउँपालिका
-6,64,Kalikot,कालिकोट,Raskot,रास्कोट,Urban Municipality,नगरपालिका
-6,64,Kalikot,कालिकोट,Sanni Tribeni,सान्नी त्रिवेणी,Rural Municipality,गाउँपालिका
-6,64,Kalikot,कालिकोट,Palata,पलाता,Rural Municipality,गाउँपालिका
-6,64,Kalikot,कालिकोट,Mahawai,महावै,Rural Municipality,गाउँपालिका
-6,64,Kalikot,कालिकोट,Tilagufa,तिलागुफा,Urban Municipality,नगरपालिका
-6,64,Kalikot,कालिकोट,Khandachakra,खाँडाचक्र,Urban Municipality,नगरपालिका
-6,64,Kalikot,कालिकोट,Kalika,कालिका,Rural Municipality,गाउँपालिका
-6,64,Kalikot,कालिकोट,Naraharinath,नरहरिनाथ,Rural Municipality,गाउँपालिका
-6,64,Kalikot,कालिकोट,Pachaljharana,पचालझरना,Rural Municipality,गाउँपालिका
-6,65,Mugu,मुगु,Soru,सोरु,Rural Municipality,गाउँपालिका
-6,65,Mugu,मुगु,Mugum Karmarong,मुगुम कार्मारोंग,Rural Municipality,गाउँपालिका
-6,65,Mugu,मुगु,Chhayanath Rara,छायाँनाथ रारा,Urban Municipality,नगरपालिका
-6,65,Mugu,मुगु,Khatyad,खत्याड,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Simkot,सिमकोट,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Kharpunath,खार्पुनाथ,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Chankheli,चंखेली,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Tanjakot,ताँजाकोट,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Namkha,नाम्खा,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Sarkegad,सर्केगाड,Rural Municipality,गाउँपालिका
-6,66,Humla,हुम्ला,Adanchuli,अदानचुली,Rural Municipality,गाउँपालिका
-7,67,Bajura,बाजुरा,Himali,हिमाली,Rural Municipality,गाउँपालिका
-7,67,Bajura,बाजुरा,Gaumul,गौमुल,Rural Municipality,गाउँपालिका
-7,67,Bajura,बाजुरा,Swami Kartik,स्वामीकार्तिक,Rural Municipality,गाउँपालिका
-7,67,Bajura,बाजुरा,Budhinanda,बुढीनन्दा,Urban Municipality,नगरपालिका
-7,67,Bajura,बाजुरा,Badimalika,बडीमालिका,Urban Municipality,नगरपालिका
-7,67,Bajura,बाजुरा,Pandav Gupha,पाण्डवगुफा,Rural Municipality,गाउँपालिका
-7,67,Bajura,बाजुरा,Tribeni,त्रिवेणी,Urban Municipality,नगरपालिका
-7,67,Bajura,बाजुरा,Chhededaha,छेडेदह,Rural Municipality,गाउँपालिका
-7,67,Bajura,बाजुरा,Budhiganga,बुढीगंगा,Urban Municipality,नगरपालिका
-7,68,Bajhang,बझाङ्ग,Bungal,बुंगल,Urban Municipality,नगरपालिका
-7,68,Bajhang,बझाङ्ग,Jayaprithivi,जयपृथ्वी,Urban Municipality,नगरपालिका
-7,68,Bajhang,बझाङ्ग,Kanda,काँडा,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Surma,सूर्मा,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Kedarseu,केदारस्युँ,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Bithadchir,वित्थडचिर,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Masta,मष्टा,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Durgathali,दुर्गाथली,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Thalara,थलारा,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Talkot,तलकोट,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Chabispathivera,छबिसपाथिभेरा,Rural Municipality,गाउँपालिका
-7,68,Bajhang,बझाङ्ग,Khaptadchhanna,खप्तडछान्ना,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Turmakhad,तुर्माखाँद,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Panchadewal Binayak,पञ्चदेवल विनायक,Urban Municipality,नगरपालिका
-7,69,Achham,अछाम,Sanphebagar,साफेबगर,Urban Municipality,नगरपालिका
-7,69,Achham,अछाम,Ramaroshan,रामारोशन,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Mellekh,मेल्लेख,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Mangalsen,मंगलसेन,Urban Municipality,नगरपालिका
-7,69,Achham,अछाम,Dhakari,ढकारी,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Chaurpati,चौरपाटी,Rural Municipality,गाउँपालिका
-7,69,Achham,अछाम,Kamalbazar,कमलबजार,Urban Municipality,नगरपालिका
-7,69,Achham,अछाम,Bannigadhi Jayagadh,बान्नीगढी जयगढ,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,Purbichauki,पूर्वीचौकी,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,Adharsha,आदर्श,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,Sayal,सायल,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,Shikhar,शिखर,Urban Municipality,नगरपालिका
-7,70,Doti,डोटी,Dipayal Silgadhi,दिपायल सिलगढी,Urban Municipality,नगरपालिका
-7,70,Doti,डोटी,Badikedar,बडीकेदार,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,Jorayal,जोरायल,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,K I Singh,के.आई.सिं.,Rural Municipality,गाउँपालिका
-7,70,Doti,डोटी,Bogtan,बोगटान,Rural Municipality,गाउँपालिका
-7,71,Kailali,कैलाली,Tikapur,टिकापुर,Urban Municipality,नगरपालिका
-7,71,Kailali,कैलाली,Lamkichuha,लम्की चुहा,Urban Municipality,नगरपालिका
-7,71,Kailali,कैलाली,Bhajani,भजनी,Urban Municipality,नगरपालिका
-7,71,Kailali,कैलाली,Bardagoriya,बर्दगोरीया,Rural Municipality,गाउँपालिका
-7,71,Kailali,कैलाली,Dhangadhi,धनगढी,Sub-metropolitan City,उपमहानगरपालिका
-7,71,Kailali,कैलाली,Janaki,जानकी,Rural Municipality,गाउँपालिका
-7,71,Kailali,कैलाली,Godawari,गोदावरी,Urban Municipality,नगरपालिका
-7,71,Kailali,कैलाली,Joshipur,जोशीपुर,Rural Municipality,गाउँपालिका
-7,71,Kailali,कैलाली,Kailari,कैलारी,Rural Municipality,गाउँपालिका
-7,71,Kailali,कैलाली,Chure,चुरे,Rural Municipality,गाउँपालिका
-7,71,Kailali,कैलाली,Ghodaghodi,घोडाघोडी,Urban Municipality,नगरपालिका
-7,71,Kailali,कैलाली,Gauriganga,गौरीगंगा,Urban Municipality,नगरपालिका
-7,71,Kailali,कैलाली,Mohanyal,मोहन्याल,Rural Municipality,गाउँपालिका
-7,72,Kanchanpur,कञ्चनपुर,Bedkot,वेदकोट,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Bhimdatta,भीमदत्त,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Mahakali,माहाकाली,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Belauri,बेलौरी,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Punarbas,पुनर्वास,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Krishnapur,कृष्णपुर,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Beldandi,बेलडाडी,Rural Municipality,गाउँपालिका
-7,72,Kanchanpur,कञ्चनपुर,Shuklaphanta,सुक्लाफाँटा,Urban Municipality,नगरपालिका
-7,72,Kanchanpur,कञ्चनपुर,Laljhadi,लालझाँडी,Rural Municipality,गाउँपालिका
-7,73,Dadeldhura,डडेलधुरा,Amargadhi,अमरगढी,Urban Municipality,नगरपालिका
-7,73,Dadeldhura,डडेलधुरा,Bhageshwar,भागेश्वर,Rural Municipality,गाउँपालिका
-7,73,Dadeldhura,डडेलधुरा,Parashuram,परशुराम,Urban Municipality,नगरपालिका
-7,73,Dadeldhura,डडेलधुरा,Ganayapdhura,गन्यापधुरा,Rural Municipality,गाउँपालिका
-7,73,Dadeldhura,डडेलधुरा,Alital,आलिताल,Rural Municipality,गाउँपालिका
-7,73,Dadeldhura,डडेलधुरा,Nawadurga,नवदुर्गा,Rural Municipality,गाउँपालिका
-7,73,Dadeldhura,डडेलधुरा,Ajaymeru,अजयमेरु,Rural Municipality,गाउँपालिका
-7,74,Baitadi,बैतडी,Sigas,सिगास,Rural Municipality,गाउँपालिका
-7,74,Baitadi,बैतडी,Surnaya,सुर्नया,Rural Municipality,गाउँपालिका
-7,74,Baitadi,बैतडी,Purchaudi,पुर्चौडी,Urban Municipality,नगरपालिका
-7,74,Baitadi,बैतडी,Patan,पाटन,Urban Municipality,नगरपालिका
-7,74,Baitadi,बैतडी,Pancheshwar,पन्चेश्वर,Rural Municipality,गाउँपालिका
-7,74,Baitadi,बैतडी,Dogadakedar,दोगडाकेदार,Rural Municipality,गाउँपालिका
-7,74,Baitadi,बैतडी,Dilasaini,डीलासैनी,Rural Municipality,गाउँपालिका
-7,74,Baitadi,बैतडी,Melauli,मेलौली,Urban Municipality,नगरपालिका
-7,74,Baitadi,बैतडी,Dasharathchanda,दशरथचन्द,Urban Municipality,नगरपालिका
-7,74,Baitadi,बैतडी,Shivanath,शिवनाथ,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Apihimal,अपिहिमाल,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Naugad,नौगाड,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Duhun,दुहुँ,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Shailyashikhar,शैल्यशिखर,Urban Municipality,नगरपालिका
-7,75,Darchula,दार्चुला,Mahakali,महाकाली,Urban Municipality,नगरपालिका
-7,75,Darchula,दार्चुला,Marma,मार्मा,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Malikarjun,मालिकार्जुन,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Byas,ब्यास,Rural Municipality,गाउँपालिका
-7,75,Darchula,दार्चुला,Lekam,लेकम,Rural Municipality,गाउँपालिका
+HLCIT_CODE,PROVINCE,LOCAL_BODY_NAME_ENGLISH,LOCAL_BODY_NAME_NEPALI,STATUS_ENGLISH,STATUS_NEPALI,DISTRICT_CODE,DNAME_ENGLISH,DNAME_NEPALI
+524 1 01 3 001,1,Phungling,फुङलिङ,Urban Municipality,नगरपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 001,1,Phaktanglung,फक्ताङलुङ,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 002,1,Mikwakhola,मिक्वाखोला,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 003,1,Sirijangha,सिरीजङ्घा,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 004,1,Meringden,मेरिङदेन,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 005,1,Maiwakhola,मैवाखोला,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 006,1,Aathrai Tribeni,आठराई त्रिवेणी,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 007,1,Yangwarak,याङवरक,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 01 4 008,1,Sidingba,सिदिङ्वा,Rural Municipality,गाउँपालिका,1,Taplejung,ताप्लेजुङ
+524 1 02 3 001,1,Phidim,फिदिम,Urban Municipality,नगरपालिका,2,Panchthar,पाँचथर
+524 1 02 4 001,1,Hilihang,हिलिहाङ,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 02 4 002,1,Yangwarak,याङवरक,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 02 4 003,1,Falelung,फालेलुङ,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 02 4 004,1,Kummayak,कुम्मायक,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 02 4 005,1,Falgunanda,फाल्गुनन्द,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 02 4 006,1,Tumbewa,तुम्वेवा,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 02 4 007,1,Miklajung,मिक्लाजुङ,Rural Municipality,गाउँपालिका,2,Panchthar,पाँचथर
+524 1 03 3 001,1,Deumai,देउमाई,Urban Municipality,नगरपालिका,3,Ilam,इलाम
+524 1 03 3 002,1,Ilam,इलाम,Urban Municipality,नगरपालिका,3,Ilam,इलाम
+524 1 03 3 003,1,Suryodaya,सूर्योदय,Urban Municipality,नगरपालिका,3,Ilam,इलाम
+524 1 03 3 004,1,Mai,माई,Urban Municipality,नगरपालिका,3,Ilam,इलाम
+524 1 03 4 001,1,Fakphokthum,फाकफोकथुम,Rural Municipality,गाउँपालिका,3,Ilam,इलाम
+524 1 03 4 002,1,Sandakpur,सन्दकपुर,Rural Municipality,गाउँपालिका,3,Ilam,इलाम
+524 1 03 4 003,1,Maijogmai,माईजोगमाई,Rural Municipality,गाउँपालिका,3,Ilam,इलाम
+524 1 03 4 004,1,Chulachuli,चुलाचुली,Rural Municipality,गाउँपालिका,3,Ilam,इलाम
+524 1 03 4 005,1,Mangsebung,माङसेबुङ,Rural Municipality,गाउँपालिका,3,Ilam,इलाम
+524 1 03 4 006,1,Rong,रोङ,Rural Municipality,गाउँपालिका,3,Ilam,इलाम
+524 1 04 3 001,1,Damak,दमक,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 002,1,Shivasataxi,शिवसताक्षि,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 003,1,Kankai,कन्काई,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 004,1,Arjundhara,अर्जुनधारा,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 005,1,Mechinagar,मेची नगर,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 006,1,Gauradaha,गौरादह,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 007,1,Birtamod,विर्तामोड,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 3 008,1,Bhadrapur,भद्रपुर,Urban Municipality,नगरपालिका,4,Jhapa,झापा
+524 1 04 4 001,1,Kamal,कमल,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 04 4 002,1,Buddhashanti,बुद्धशान्ति,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 04 4 003,1,Gauriganj,गौरीगंज,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 04 4 004,1,Jhapa,झापा,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 04 4 005,1,Barhadashi,बाह्रदशी,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 04 4 006,1,Haldibari,हल्दीवारी,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 04 4 007,1,Kachankawal,कचनकवल,Rural Municipality,गाउँपालिका,4,Jhapa,झापा
+524 1 05 1 001,1,Biratnagar,विराटनगर,Metropolitan City,महानगरपालिका,5,Morang,मोरङ
+524 1 05 3 001,1,Letang,लेटाङ,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 002,1,Sundarharaicha,सुन्दरहरैंचा,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 003,1,Belbari,बेलवारी,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 004,1,Pathari Shanishchare,पथरी शनिश्चरे,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 005,1,Urlabari,उर्लावारी,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 006,1,Rangeli,रंगेली,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 007,1,Sunwarshi,सुनवर्षी,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 3 008,1,Ratuwamai,रतुवामाई,Urban Municipality,नगरपालिका,5,Morang,मोरङ
+524 1 05 4 001,1,Kerabari,केरावारी,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 002,1,Miklajung,मिक्लाजुङ,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 003,1,Kanepokhari,कानेपोखरी,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 004,1,Budhiganga,बुढीगंगा,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 005,1,Gramthan,ग्रामथान,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 006,1,Katahari,कटहरी,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 007,1,Jahada,जहदा,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 05 4 008,1,Dhanpalthan,धनपालथान,Rural Municipality,गाउँपालिका,5,Morang,मोरङ
+524 1 06 2 001,1,Dharan,धरान,Sub-metropolitan City,उपमहानगरपालिका,6,Sunsari,सुनसरी
+524 1 06 2 002,1,Itahari,ईटहरी,Sub-metropolitan City,उपमहानगरपालिका,6,Sunsari,सुनसरी
+524 1 06 3 001,1,Barah,बराह,Urban Municipality,नगरपालिका,6,Sunsari,सुनसरी
+524 1 06 3 002,1,Ramdhuni,रामधुनी,Urban Municipality,नगरपालिका,6,Sunsari,सुनसरी
+524 1 06 3 003,1,Inaruwa,ईनरुवा,Urban Municipality,नगरपालिका,6,Sunsari,सुनसरी
+524 1 06 3 004,1,Duhabi,दुहवी,Urban Municipality,नगरपालिका,6,Sunsari,सुनसरी
+524 1 06 4 001,1,Koshi,कोशी,Rural Municipality,गाउँपालिका,6,Sunsari,सुनसरी
+524 1 06 4 002,1,Bhokraha,भोक्राहा,Rural Municipality,गाउँपालिका,6,Sunsari,सुनसरी
+524 1 06 4 003,1,Gadhi,गढी,Rural Municipality,गाउँपालिका,6,Sunsari,सुनसरी
+524 1 06 4 004,1,Harinagara,हरिनगरा,Rural Municipality,गाउँपालिका,6,Sunsari,सुनसरी
+524 1 06 4 005,1,Dewanganj,देवानगन्ज,Rural Municipality,गाउँपालिका,6,Sunsari,सुनसरी
+524 1 06 4 006,1,Barju,बर्जु,Rural Municipality,गाउँपालिका,6,Sunsari,सुनसरी
+524 1 06 5 995,1,Koshi Tappu Wildlife Reserve,कोशी टप्पु वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,6,Sunsari,सुनसरी
+524 1 07 3 001,1,Mahalaxmi,महालक्ष्मी,Urban Municipality,नगरपालिका,7,Dhankuta,धनकुटा
+524 1 07 3 002,1,Pakhribas,पाख्रिवास,Urban Municipality,नगरपालिका,7,Dhankuta,धनकुटा
+524 1 07 3 003,1,Dhankuta,धनकुटा,Urban Municipality,नगरपालिका,7,Dhankuta,धनकुटा
+524 1 07 4 001,1,Khalsa Chhintang Shahidbhumi,खाल्सा छिन्ताङ सहीदभूमि,Rural Municipality,गाउँपालिका,7,Dhankuta,धनकुटा
+524 1 07 4 002,1,Chhathar Jorpati,छथर जोरपाटी,Rural Municipality,गाउँपालिका,7,Dhankuta,धनकुटा
+524 1 07 4 003,1,Sangurigadhi,सागुरीगढी,Rural Municipality,गाउँपालिका,7,Dhankuta,धनकुटा
+524 1 07 4 004,1,Chaubise,चौविसे,Rural Municipality,गाउँपालिका,7,Dhankuta,धनकुटा
+524 1 08 3 001,1,Laligurans,लालिगुँरास,Urban Municipality,नगरपालिका,8,Terhathum,तेर्हथुम
+524 1 08 3 002,1,Myanglung,म्याङलुङ,Urban Municipality,नगरपालिका,8,Terhathum,तेर्हथुम
+524 1 08 4 001,1,Menchayam,मेन्छयायेम,Rural Municipality,गाउँपालिका,8,Terhathum,तेर्हथुम
+524 1 08 4 002,1,Phedap,फेदाप ,Rural Municipality,गाउँपालिका,8,Terhathum,तेर्हथुम
+524 1 08 4 003,1,Aathrai,आठराई ,Rural Municipality,गाउँपालिका,8,Terhathum,तेर्हथुम
+524 1 08 4 004,1,Chhathar,छथर,Rural Municipality,गाउँपालिका,8,Terhathum,तेर्हथुम
+524 1 09 3 001,1,Khandbari,खाँदवारी,Urban Municipality,नगरपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 3 002,1,Panchakhapan,पाँचखपन,Urban Municipality,नगरपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 3 003,1,Chainpur,चैनपुर,Urban Municipality,नगरपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 3 004,1,Dharmadevi,धर्मदेवी,Urban Municipality,नगरपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 3 005,1,Madi,मादी,Urban Municipality,नगरपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 4 001,1,Makalu,मकालु,Rural Municipality,गाउँपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 4 002,1,Bhotkhola,भोटखोला,Rural Municipality,गाउँपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 4 003,1,Silichong,सिलीचोङ,Rural Municipality,गाउँपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 4 004,1,Chichila,चिचिला,Rural Municipality,गाउँपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 09 4 005,1,Sabhapokhari,सभापोखरी,Rural Municipality,गाउँपालिका,9,Sankhuwasabha,संखुवासभा
+524 1 10 3 001,1,Shadananda,षडानन्द,Urban Municipality,नगरपालिका,10,Bhojpur,भोजपुर
+524 1 10 3 002,1,Bhojpur,भोजपुर,Urban Municipality,नगरपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 001,1,Salpasilichho,साल्पासिलिछो,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 002,1,Tyamkemaiyung,ट्याम्केमैयुम,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 003,1,Arun,अरुण,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 004,1,Ramprasad Rai,रामप्रसाद राई,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 005,1,Pauwadungma,पौवादुङमा,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 006,1,Aamchowk,आमचोक,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 10 4 007,1,Hatuwagadhi,हतुवागढी,Rural Municipality,गाउँपालिका,10,Bhojpur,भोजपुर
+524 1 11 3 001,1,Solududhakunda,सोलु दुधकुण्ड,Urban Municipality,नगरपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 001,1,Khumbupasanglahmu,खुम्वु पासाङल्हमु,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 002,1,Mahakulung,महाकुलुङ,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 003,1,Likhupike,लिखु पिके,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 004,1,Dudhkoshi,दुधकोशी,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 005,1,Nechasalyan,नेचासल्यान,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 006,1,Dudhkaushika,दुधकौशिका,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 11 4 007,1,Sotang,सोताङ,Rural Municipality,गाउँपालिका,11,Solukhumbu,सोलुखुम्बु
+524 1 12 3 001,1,Halesi Tuwachung,हलेसी तुवाचुङ,Urban Municipality,नगरपालिका,13,Khotang,खोटाङ
+524 1 12 3 002,1,Rupakot Majhuwagadhi,रुपाकोट मझुवागढी,Urban Municipality,नगरपालिका,13,Khotang,खोटाङ
+524 1 12 4 001,1,Ainselukhark,ऐसेलुखर्क,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 002,1,Kepilasagadhi,केपिलासगढी,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 003,1,Lamidanda,लामीडाँडा,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 004,1,Diprung,दिप्रुङ,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 005,1,Sakela,साकेला,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 006,1,Khotehang,खोटेहाङ,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 007,1,Barahapokhari,बराहपोखरी,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 12 4 008,1,Jantedhunga,जन्तेढुंगा,Rural Municipality,गाउँपालिका,13,Khotang,खोटाङ
+524 1 13 3 001,1,Siddhicharan,सिद्दिचरण,Urban Municipality,नगरपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 001,1,Khijidemba,खिजिदेम्वा,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 002,1,Likhu,लिखु ,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 003,1,Molung,मोलुङ,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 004,1,Champadevi,चम्पादेवी ,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 005,1,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 006,1,Chisankhugadhi,चिशंखुगढी,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 13 4 007,1,Manebhanjyang,मानेभञ्ज्याङ,Rural Municipality,गाउँपालिका,12,Okhaldhunga,ओखलढुंगा
+524 1 14 3 001,1,Katari,कटारी ,Urban Municipality,नगरपालिका,14,Udayapur,उदयपुर
+524 1 14 3 002,1,Triyuga,त्रियुगा,Urban Municipality,नगरपालिका,14,Udayapur,उदयपुर
+524 1 14 3 003,1,Chaudandigadhi,चौदण्डीगढी,Urban Municipality,नगरपालिका,14,Udayapur,उदयपुर
+524 1 14 3 004,1,Belaka,वेलका ,Urban Municipality,नगरपालिका,14,Udayapur,उदयपुर
+524 1 14 4 001,1,Tapli,ताप्ली,Rural Municipality,गाउँपालिका,14,Udayapur,उदयपुर
+524 1 14 4 002,1,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका,14,Udayapur,उदयपुर
+524 1 14 4 003,1,Udayapurgadhi,उदयपुरगढी,Rural Municipality,गाउँपालिका,14,Udayapur,उदयपुर
+524 1 14 4 004,1,Rautamai,रौतामाई,Rural Municipality,गाउँपालिका,14,Udayapur,उदयपुर
+524 1 14 5 995,1,Koshi Tappu Wildlife Reserve,कोशी टप्पु वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,14,Udayapur,उदयपुर
+524 2 15 3 001,2,Surunga,सुरुङ्गा,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 002,2,Khadak,खडक,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 003,2,Shambhunath,शम्भुनाथ ,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 004,2,Saptakoshi,सप्तकोशी ,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 005,2,Kanchanrup,कञ्चनरुप,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 006,2,Bode Barsain,बोदे बरसाइन,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 007,2,Dakneshwori,डाक्नेश्वरी,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 008,2,Rajbiraj,राजविराज,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 3 009,2,Hanumannagar Kankalini,हनुमाननगर कङ्कालिनी,Urban Municipality,नगरपालिका,15,Saptari,सप्तरी
+524 2 15 4 001,2,Rupani,रुपनी,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 002,2,Agnisair Krishnasavaran,अग्नीसाइर कृष्णासवरन,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 003,2,Tirahut,तिरहुत,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 004,2,Walan Bihul,वलान-विहुल,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 005,2,Mahadeva,महादेवा,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 006,2,Belhi Chapena,बेल्ही चपेना,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 007,2,Bishnupur,विष्णुपुर,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 008,2,Chhinnamasta,छिन्नमस्ता,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 4 009,2,Tilathi Koiladi,तिलाठी कोईलाडी,Rural Municipality,गाउँपालिका,15,Saptari,सप्तरी
+524 2 15 5 995,2,Koshi Tappu Wildlife Reserve,कोशी टप्पु वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,15,Saptari,सप्तरी
+524 2 16 3 001,2,Karjanhya,कर्जन्हा,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 002,2,Mirchaiya,मिर्चैया,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 003,2,Golbazar,गोलबजार,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 004,2,Dhangadhimai,धनगढीमाई,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 005,2,Lahan,लहान,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 006,2,Kalyanpur,कल्याणपुर,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 007,2,Sukhipur,सुखीपुर,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 3 008,2,Siraha,सिराहा,Urban Municipality,नगरपालिका,16,Siraha,सिराहा
+524 2 16 4 001,2,Naraha,नरहा,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 002,2,Bishnupur,विष्णुपुर,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 003,2,Arnama,अर्नमा,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 004,2,Aaurahi,औरही,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 005,2,Bariyarpatti,बरियारपट्टी,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 006,2,Laxmipur Patari,लक्ष्मीपुर पतारी,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 007,2,Nawarajpur,नवराजपुर,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 008,2,Sakhuwanankarkatti,सखुवानान्कारकट्टी,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 16 4 009,2,Bhagawanpur,भगवानपुर,Rural Municipality,गाउँपालिका,16,Siraha,सिराहा
+524 2 17 2 001,2,Janakpur,जनकपुर,Sub-metropolitan City,उपमहानगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 001,2,Mithila,मिथिला,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 002,2,Ganeshman Charnath,गणेशमान चारनाथ,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 003,2,Chhireshwornath,क्षिरेश्वरनाथ,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 004,2,Dhanusadham,धनुषाधाम,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 005,2,Mithila Bihari,मिथिला बिहारी,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 006,2,Sabaila,सबैला,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 007,2,Hansapur,हंसपुर,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 008,2,Sahidnagar,शहीदनगर,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 009,2,Nagarain,नगराइन,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 010,2,Bideha,विदेह,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 3 011,2,Kamala,कमला,Urban Municipality,नगरपालिका,17,Dhanusha,धनुषा
+524 2 17 4 001,2,Bateshwor,बटेश्वर,Rural Municipality,गाउँपालिका,17,Dhanusha,धनुषा
+524 2 17 4 002,2,Lakshminiya,लक्ष्मीनिया,Rural Municipality,गाउँपालिका,17,Dhanusha,धनुषा
+524 2 17 4 003,2,Aaurahi,औरही ,Rural Municipality,गाउँपालिका,17,Dhanusha,धनुषा
+524 2 17 4 004,2,Dhanauji,धनौजी,Rural Municipality,गाउँपालिका,17,Dhanusha,धनुषा
+524 2 17 4 005,2,Mukhiyapatti Musaharmiya,मुखियापट्टी मुसहरमिया,Rural Municipality,गाउँपालिका,17,Dhanusha,धनुषा
+524 2 17 4 006,2,Janaknandini,जनकनन्दिनी,Rural Municipality,गाउँपालिका,17,Dhanusha,धनुषा
+524 2 18 3 001,2,Bardibas,बर्दिबास,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 002,2,Gaushala,गौशाला,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 003,2,Aaurahi,औरही,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 004,2,Bhangaha,भँगाहा,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 005,2,Ramgopalpur,रामगोपालपुर,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 006,2,Manara Siswa,मनरा शिसवा,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 007,2,Balwa,बलवा,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 008,2,Loharpatti,लोहरपट्टी,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 009,2,Jaleswor,जलेश्वर,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 3 010,2,Matihani,मटिहानी,Urban Municipality,नगरपालिका,18,Mahottari,महोत्तरी
+524 2 18 4 001,2,Sonama,सोनमा,Rural Municipality,गाउँपालिका,18,Mahottari,महोत्तरी
+524 2 18 4 002,2,Samsi,साम्सी,Rural Municipality,गाउँपालिका,18,Mahottari,महोत्तरी
+524 2 18 4 003,2,Ekdanra,एकडारा,Rural Municipality,गाउँपालिका,18,Mahottari,महोत्तरी
+524 2 18 4 004,2,Mahottari,महोत्तरी,Rural Municipality,गाउँपालिका,18,Mahottari,महोत्तरी
+524 2 18 4 005,2,Pipra,पिपरा,Rural Municipality,गाउँपालिका,18,Mahottari,महोत्तरी
+524 2 19 3 001,2,Bagmati,बागमती,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 002,2,Hariwan,हरिवन,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 003,2,Lalbandi,लालबन्दी,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 004,2,Barahathawa,बरहथवा,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 005,2,Haripur,हरिपुर,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 006,2,Ishworpur,ईश्वरपुर,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 007,2,Kabilasi,कविलासी,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 008,2,Gaudeta,गोडैटा ,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 009,2,Malangawa,मलंगवा,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 010,2,Haripurwa,हरिपुर्वा,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 3 011,2,Balara,बलरा,Urban Municipality,नगरपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 001,2,Basbariya,बसबरिया,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 002,2,Chandranagar,चन्द्रनगर,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 003,2,Dhankaul,धनकौल,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 004,2,Chakraghatta,चक्रघट्टा ,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 005,2,Ramnagar,रामनगर,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 006,2,Kaudena,कौडेना,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 007,2,Bramhapuri,ब्रह्मपुरी ,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 008,2,Bishnu,विष्णु,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 19 4 009,2,Parsa,पर्सा,Rural Municipality,गाउँपालिका,19,Sarlahi,सर्लाही
+524 2 32 3 001,2,Gujara,गुजरा,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 002,2,Chandrapur,चन्द्रपुर,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 003,2,Phatuwa Bijayapur,फतुवा बिजयपुर,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 004,2,Katahariya,कटहरिया,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 005,2,Brindaban,वृन्दावन,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 006,2,Maulapur,मौलापुर,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 007,2,Dewahi Gonahi,देवाही गोनाही  ,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 008,2,Garuda,गरुडा,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 009,2,Gadhimai,गढीमाई,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 010,2,Baudhimai,बौधीमाई,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 011,2,Madhav Narayan,माधव नारायण,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 012,2,Paroha,परोहा,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 013,2,Ishanath,ईशनाथ,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 014,2,Rajpur,राजपुर,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 015,2,Gaur,गौर,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 3 016,2,Rajdevi,राजदेवी,Urban Municipality,नगरपालिका,32,Rautahat,रौतहट
+524 2 32 4 001,2,Yamunamai,यमुनामाई ,Rural Municipality,गाउँपालिका,32,Rautahat,रौतहट
+524 2 32 4 002,2,Durga Bhagwati,दुर्गा भगवती,Rural Municipality,गाउँपालिका,32,Rautahat,रौतहट
+524 2 33 2 001,2,Jitpur Simara,जीतपुरसिमरा,Sub-metropolitan City,उपमहानगरपालिका,33,Bara,बारा
+524 2 33 2 002,2,Kalaiya,कलैया,Sub-metropolitan City,उपमहानगरपालिका,33,Bara,बारा
+524 2 33 3 001,2,Nijgadh,निजगढ,Urban Municipality,नगरपालिका,33,Bara,बारा
+524 2 33 3 002,2,Kolhabi,कोल्हवी,Urban Municipality,नगरपालिका,33,Bara,बारा
+524 2 33 3 003,2,Mahagadhimai,महागढीमाई,Urban Municipality,नगरपालिका,33,Bara,बारा
+524 2 33 3 004,2,Pacharauta,पचरौता,Urban Municipality,नगरपालिका,33,Bara,बारा
+524 2 33 3 005,2,Simraungadh,सिम्रौनगढ,Urban Municipality,नगरपालिका,33,Bara,बारा
+524 2 33 4 001,2,Parwanipur,परवानीपुर,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 002,2,Prasauni,प्रसौनी,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 003,2,Karaiyamai,करैयामाई,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 004,2,Bishrampur,विश्रामपुर,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 005,2,Pheta,फेटा,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 006,2,Baragadhi,बारागढी,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 007,2,Devtal,देवताल,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 008,2,Suwarna,सुवर्ण,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 4 009,2,Adarshkotwal,आदर्श कोटवाल,Rural Municipality,गाउँपालिका,33,Bara,बारा
+524 2 33 5 995,2,Parsa Wildlife Reserve,पर्सा वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,33,Bara,बारा
+524 2 34 1 001,2,Birgunj,बिरगंज,Metropolitan City,महानगरपालिका,34,Parsa,पर्सा
+524 2 34 3 001,2,Pokhariya,पोखरिया,Urban Municipality,नगरपालिका,34,Parsa,पर्सा
+524 2 34 3 002,2,Bahudaramai,बहुदरमाई,Urban Municipality,नगरपालिका,34,Parsa,पर्सा
+524 2 34 3 003,2,Parsagadhi,पर्सागढी,Urban Municipality,नगरपालिका,34,Parsa,पर्सा
+524 2 34 4 001,2,Thori,ठोरी,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 002,2,Jira Bhawani,जिराभवानी,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 003,2,Paterwasugauli,पटेर्वा सुगौली,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 004,2,Sakhuwa Prasauni,सखुवा प्रसौनी,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 005,2,Jagarnathpur,जगरनाथपुर,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 006,2,Dhobini,धोबीनी,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 007,2,Chhipaharmai,छिपहरमाई,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 008,2,Kalikamai,कालिकामाई,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 009,2,Pakahamainpur,पकाहा मैनपुर,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 4 010,2,Bindabasini,बिन्दबासिनी,Rural Municipality,गाउँपालिका,34,Parsa,पर्सा
+524 2 34 5 995,2,Parsa Wildlife Reserve,पर्सा वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,34,Parsa,पर्सा
+524 2 34 5 997,2,Chitawan National Park,चितवन राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,34,Parsa,पर्सा
+524 3 20 3 001,3,Kamalamai,कमलामाई,Urban Municipality,नगरपालिका,20,Sindhuli,सिन्धुली
+524 3 20 3 002,3,Dudhouli,दुधौली,Urban Municipality,नगरपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 001,3,Hariharpurgadhi,हरिहरपुरगढी,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 002,3,Marin,मरिण,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 003,3,Ghanglekh,घ्याङलेख,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 004,3,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 005,3,Golanjor,गोलन्जोर,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 006,3,Tinpatan,तिनपाटन,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 20 4 007,3,Phikkal,फिक्कल,Rural Municipality,गाउँपालिका,20,Sindhuli,सिन्धुली
+524 3 21 3 001,3,Manthali,मन्थली,Urban Municipality,नगरपालिका,21,Ramechhap,रामेछाप
+524 3 21 3 002,3,Ramechhap,रामेछाप,Urban Municipality,नगरपालिका,21,Ramechhap,रामेछाप
+524 3 21 4 001,3,Sunapati,सुनापती,Rural Municipality,गाउँपालिका,21,Ramechhap,रामेछाप
+524 3 21 4 002,3,Doramba,दोरम्बा,Rural Municipality,गाउँपालिका,21,Ramechhap,रामेछाप
+524 3 21 4 003,3,Gokulganga,गोकुलगङ्गा,Rural Municipality,गाउँपालिका,21,Ramechhap,रामेछाप
+524 3 21 4 004,3,Umakunda,उमाकुण्ड,Rural Municipality,गाउँपालिका,21,Ramechhap,रामेछाप
+524 3 21 4 005,3,Khadadevi,खाँडादेवी,Rural Municipality,गाउँपालिका,21,Ramechhap,रामेछाप
+524 3 21 4 006,3,Likhu,लिखु,Rural Municipality,गाउँपालिका,21,Ramechhap,रामेछाप
+524 3 22 3 001,3,Bhimeshwor,भिमेश्वर ,Urban Municipality,नगरपालिका,22,Dolakha,दोलखा
+524 3 22 3 002,3,Jiri,जिरी ,Urban Municipality,नगरपालिका,22,Dolakha,दोलखा
+524 3 22 4 001,3,Bigu,विगु,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 22 4 002,3,Gaurishankar,गौरिशंकर ,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 22 4 003,3,Kalinchok,कालिन्चोक ,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 22 4 004,3,Baiteshwor,वैतेश्वर ,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 22 4 005,3,Sailung,शैलुङ ,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 22 4 006,3,Melung,मेलुङ ,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 22 4 007,3,Tamakoshi,तामाकोशी ,Rural Municipality,गाउँपालिका,22,Dolakha,दोलखा
+524 3 23 3 001,3,Melamchi,मेलम्ची,Urban Municipality,नगरपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 3 002,3,Chautara Sangachokgadhi,चौतारा साँगाचोकगढी,Urban Municipality,नगरपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 3 003,3,Barhabise,वाह्रविसे,Urban Municipality,नगरपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 001,3,Helambu,हेलम्बु ,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 002,3,Panchpokhari Thangpal,पाँचपोखरी थाङपाल ,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 003,3,Jugal,जुगल,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 004,3,Bhotekoshi,भोटेकोशी,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 005,3,Indrawati,र्इन्द्रावती,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 006,3,Balefi,बलेफी,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 007,3,Sunkoshi,सुनकोशी,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 008,3,Tripura Sundari,त्रिपुरासुन्दरी,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 23 4 009,3,Lisangkhu Pakhar,लिसंखु पाखर,Rural Municipality,गाउँपालिका,23,Sindhupalchok,सिन्धुपाल्चोक
+524 3 24 3 001,3,Mandandeupur,मण्डनदेउपुर,Urban Municipality,नगरपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 3 002,3,Banepa,बनेपा,Urban Municipality,नगरपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 3 003,3,Dhulikhel,धुलिखेल,Urban Municipality,नगरपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 3 004,3,Panchkhal,पाँचखाल,Urban Municipality,नगरपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 3 005,3,Panauti,पनौती,Urban Municipality,नगरपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 3 006,3,Namobuddha,नमोबुद्ध,Urban Municipality,नगरपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 001,3,Bhumlu,भुम्लु,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 002,3,Chaurideurali,चौंरीदेउराली,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 003,3,Bethanchowk,बेथानचोक,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 004,3,Roshi,रोशी,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 005,3,Temal,तेमाल,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 006,3,Khanikhola,खानीखोला,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 24 4 007,3,Mahabharat,महाभारत,Rural Municipality,गाउँपालिका,24,Kabhrepalanchok,काभ्रेपलाञ्चोक
+524 3 25 1 001,3,Lalitpur,ललितपुर,Metropolitan City,महानगरपालिका,25,Lalitpur,ललितपुर
+524 3 25 3 001,3,Godawari,गोदावरी,Urban Municipality,नगरपालिका,25,Lalitpur,ललितपुर
+524 3 25 3 002,3,Mahalaxmi,महालक्ष्मी,Urban Municipality,नगरपालिका,25,Lalitpur,ललितपुर
+524 3 25 4 001,3,Bagmati,बाग्मती,Rural Municipality,गाउँपालिका,25,Lalitpur,ललितपुर
+524 3 25 4 002,3,Konjyosom,कोन्ज्योसोम,Rural Municipality,गाउँपालिका,25,Lalitpur,ललितपुर
+524 3 25 4 003,3,Mahankal,महाङ्काल,Rural Municipality,गाउँपालिका,25,Lalitpur,ललितपुर
+524 3 26 3 001,3,Madhyapur Thimi,मध्यपुर थिमी,Urban Municipality,नगरपालिका,26,Bhaktapur,भक्तपुर
+524 3 26 3 002,3,Changunarayan,चाँगुनारायण,Urban Municipality,नगरपालिका,26,Bhaktapur,भक्तपुर
+524 3 26 3 003,3,Bhaktapur,भक्तपुर,Urban Municipality,नगरपालिका,26,Bhaktapur,भक्तपुर
+524 3 26 3 004,3,Suryabinayak,सूर्यविनायक,Urban Municipality,नगरपालिका,26,Bhaktapur,भक्तपुर
+524 3 27 1 001,3,Kathmandu,काठमाण्डौ,Metropolitan City,महानगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 001,3,Tarakeshwar,तारकेश्वर,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 002,3,Tokha,टोखा,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 003,3,Budhanilakantha,बुढानिलकण्ठ,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 004,3,Gokarneshwor,गोकर्णेश्वर,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 005,3,Nagarjun,नागार्जुन,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 006,3,Kageshwori Manohara,कागेश्वरी मनोहरा,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 007,3,Shankharapur,शङ्खरापुर,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 008,3,Chandragiri,चन्द्रागिरी,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 009,3,Kirtipur,किर्तिपुर,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 27 3 010,3,Dakshinkali,दक्षिणकाली,Urban Municipality,नगरपालिका,27,Kathmandu,काठमाडौं
+524 3 28 3 001,3,Bidur,विदुर,Urban Municipality,नगरपालिका,28,Nuwakot,नुवाकोट
+524 3 28 3 002,3,Belkotgadhi,बेलकोटगढी,Urban Municipality,नगरपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 001,3,Meghang,मेघाङ,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 002,3,Kispang,किस्पाङ,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 003,3,Tarakeshwar,तारकेश्वर,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 004,3,Suryagadhi,सुर्यगढी,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 005,3,Tadi,तादी,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 006,3,Likhu,लिखु,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 007,3,Panchakanya,पञ्चकन्या,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 008,3,Dupcheshwar,दुप्चेश्वर,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 009,3,Kakani,ककनी,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 4 010,3,Shivapuri,शिवपुरी,Rural Municipality,गाउँपालिका,28,Nuwakot,नुवाकोट
+524 3 28 5 996,3,Shivapuri Watershed and Wildlife Reserve,शिवपुरी नागार्जुन राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,28,Nuwakot,नुवाकोट
+524 3 28 5 997,3,Langtang National Park,लाङ्टाङ राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,28,Nuwakot,नुवाकोट
+524 3 29 4 001,3,Parbati Kunda,पार्वतीकुण्ड,Rural Municipality,गाउँपालिका,29,Rasuwa,रसुवा
+524 3 29 4 002,3,Gosaikunda,गोसाईकुण्ड,Rural Municipality,गाउँपालिका,29,Rasuwa,रसुवा
+524 3 29 4 003,3,Uttargaya,उत्तरगया,Rural Municipality,गाउँपालिका,29,Rasuwa,रसुवा
+524 3 29 4 004,3,Kalika,कालिका,Rural Municipality,गाउँपालिका,29,Rasuwa,रसुवा
+524 3 29 4 005,3,Naukunda,नौकुण्ड,Rural Municipality,गाउँपालिका,29,Rasuwa,रसुवा
+524 3 30 3 001,3,Nilakantha,निलकण्ठ,Urban Municipality,नगरपालिका,30,Dhading,धादिङ्ग
+524 3 30 3 002,3,Dhunibesi,धुनीबेंशी,Urban Municipality,नगरपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 001,3,Rubi Valley,रुवी भ्याली,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 002,3,Gangajamuna,गङ्गाजमुना,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 003,3,Khaniyabash,खनियाबास,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 004,3,Tripura Sundari,त्रिपुरासुन्दरी,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 005,3,Netrawati,नेत्रावती,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 006,3,Jwalamukhi,ज्वालामूखी,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 007,3,Siddhalek,सिद्धलेक,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 008,3,Benighat Rorang,बेनीघाट रोराङ्ग,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 009,3,Gajuri,गजुरी,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 010,3,Galchhi,गल्छी,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 30 4 011,3,Thakre,थाक्रे,Rural Municipality,गाउँपालिका,30,Dhading,धादिङ्ग
+524 3 31 2 001,3,Hetauda,हेटौडा,Sub-metropolitan City,उपमहानगरपालिका,31,Makawanpur,मकवानपुर
+524 3 31 3 001,3,Thaha,थाहा,Urban Municipality,नगरपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 001,3,Manahari,मनहरी,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 002,3,Raksirang,राक्सिराङ्ग,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 003,3,Kailash,कैलाश,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 004,3,Bhimphedi,भीमफेदी,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 005,3,Indrasarowar,ईन्द्र सरोवर,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 006,3,Makawanpurgadhi,मकवानपुरगढी,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 007,3,Bakaiya,बकैया,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 4 008,3,Bagmati,बाग्मती,Rural Municipality,गाउँपालिका,31,Makawanpur,मकवानपुर
+524 3 31 5 995,3,Parsa Wildlife Reserve,पर्सा वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,31,Makawanpur,मकवानपुर
+524 3 31 5 997,3,Chitawan National Park,चितवन राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,31,Makawanpur,मकवानपुर
+524 3 35 1 001,3,Bharatpur,भरतपुर,Metropolitan City,महानगरपालिका,35,Chitawan,चितवन
+524 3 35 3 001,3,Kalika,कालिका,Urban Municipality,नगरपालिका,35,Chitawan,चितवन
+524 3 35 3 002,3,Ratnanagar,रत्ननगर,Urban Municipality,नगरपालिका,35,Chitawan,चितवन
+524 3 35 3 003,3,Khairahani,खैरहनी,Urban Municipality,नगरपालिका,35,Chitawan,चितवन
+524 3 35 3 004,3,Rapti,राप्ती,Urban Municipality,नगरपालिका,35,Chitawan,चितवन
+524 3 35 3 005,3,Madi,माडी,Urban Municipality,नगरपालिका,35,Chitawan,चितवन
+524 3 35 4 001,3,Ichchhyakamana,इच्छाकामना,Rural Municipality,गाउँपालिका,35,Chitawan,चितवन
+524 3 35 5 997,3,Chitawan National Park,चितवन राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,35,Chitawan,चितवन
+524 4 36 3 001,4,Palungtar,पालुङटार,Urban Municipality,नगरपालिका,36,Gorkha,गोरखा
+524 4 36 3 002,4,Gorkha,गोरखा,Urban Municipality,नगरपालिका,36,Gorkha,गोरखा
+524 4 36 4 001,4,Chum Nubri,चुम नुव्री,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 002,4,Ajirkot,अजिरकोट,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 003,4,Sulikot,सुलीकोट,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 004,4,Dharche,धार्चे,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 005,4,Siranchok,सिरानचोक,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 006,4,Aarughat,आरूघाट,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 007,4,Bhimsen,भिमसेन,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 008,4,Sahid Lakhan,शहिद लखन,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 36 4 009,4,Gandaki,गण्डकी,Rural Municipality,गाउँपालिका,36,Gorkha,गोरखा
+524 4 37 3 001,4,Madhyanepal,मध्यनेपाल,Urban Municipality,नगरपालिका,37,Lamjung,लमजुङ
+524 4 37 3 002,4,Besisahar,बेसीशहर,Urban Municipality,नगरपालिका,37,Lamjung,लमजुङ
+524 4 37 3 003,4,Sundarbazar,सुन्दरबजार,Urban Municipality,नगरपालिका,37,Lamjung,लमजुङ
+524 4 37 3 004,4,Rainas,रार्इनास,Urban Municipality,नगरपालिका,37,Lamjung,लमजुङ
+524 4 37 4 001,4,Kwholasothar,क्व्होलासोथार,Rural Municipality,गाउँपालिका,37,Lamjung,लमजुङ
+524 4 37 4 002,4,Marsyangdi,मर्स्याङदी,Rural Municipality,गाउँपालिका,37,Lamjung,लमजुङ
+524 4 37 4 003,4,Dordi,दोर्दी,Rural Municipality,गाउँपालिका,37,Lamjung,लमजुङ
+524 4 37 4 004,4,Dudhpokhari,दूधपोखरी,Rural Municipality,गाउँपालिका,37,Lamjung,लमजुङ
+524 4 38 4 001,4,Neshyang,नेस्याङ,Rural Municipality,गाउँपालिका,41,Manang,मनाङ
+524 4 38 4 002,4,Narphu,नारफू,Rural Municipality,गाउँपालिका,41,Manang,मनाङ
+524 4 38 4 003,4,Chame,चामे,Rural Municipality,गाउँपालिका,41,Manang,मनाङ
+524 4 38 4 004,4,Nashong,नाशोङ,Rural Municipality,गाउँपालिका,41,Manang,मनाङ
+524 4 39 1 001,4,Pokhara Lekhnath,पोखरा लेखनाथ,Metropolitan City,महानगरपालिका,40,Kaski,कास्की
+524 4 39 4 001,4,Annapurna,अन्नपुर्ण,Rural Municipality,गाउँपालिका,40,Kaski,कास्की
+524 4 39 4 002,4,Machhapuchchhre,माछापुछ्रे,Rural Municipality,गाउँपालिका,40,Kaski,कास्की
+524 4 39 4 003,4,Madi,मादी,Rural Municipality,गाउँपालिका,40,Kaski,कास्की
+524 4 39 4 004,4,Rupa,रूपा,Rural Municipality,गाउँपालिका,40,Kaski,कास्की
+524 4 40 3 001,4,Shuklagandaki,शुक्लागण्डकी,Urban Municipality,नगरपालिका,38,Tanahu,तनहुँ
+524 4 40 3 002,4,Byas,व्यास,Urban Municipality,नगरपालिका,38,Tanahu,तनहुँ
+524 4 40 3 003,4,Bhanu,भानु,Urban Municipality,नगरपालिका,38,Tanahu,तनहुँ
+524 4 40 3 004,4,Bhimad,भिमाद,Urban Municipality,नगरपालिका,38,Tanahu,तनहुँ
+524 4 40 4 001,4,Myagde,म्याग्दे,Rural Municipality,गाउँपालिका,38,Tanahu,तनहुँ
+524 4 40 4 002,4,Ghiring,घिरिङ,Rural Municipality,गाउँपालिका,38,Tanahu,तनहुँ
+524 4 40 4 003,4,Rhishing,ऋषिङ्ग,Rural Municipality,गाउँपालिका,38,Tanahu,तनहुँ
+524 4 40 4 004,4,Bandipur,बन्दिपुर,Rural Municipality,गाउँपालिका,38,Tanahu,तनहुँ
+524 4 40 4 005,4,Anbukhaireni,आँबुखैरेनी,Rural Municipality,गाउँपालिका,38,Tanahu,तनहुँ
+524 4 40 4 006,4,Devghat,देवघाट,Rural Municipality,गाउँपालिका,38,Tanahu,तनहुँ
+524 4 41 3 001,4,Putalibazar,पुतलीबजार,Urban Municipality,नगरपालिका,39,Syangja,स्याङ्जा
+524 4 41 3 002,4,Bhirkot,भिरकोट,Urban Municipality,नगरपालिका,39,Syangja,स्याङ्जा
+524 4 41 3 003,4,Galyang,गल्याङ,Urban Municipality,नगरपालिका,39,Syangja,स्याङ्जा
+524 4 41 3 004,4,Waling,वालिङ,Urban Municipality,नगरपालिका,39,Syangja,स्याङ्जा
+524 4 41 3 005,4,Chapakot,चापाकोट,Urban Municipality,नगरपालिका,39,Syangja,स्याङ्जा
+524 4 41 4 001,4,Aandhikhola,आँधीखोला,Rural Municipality,गाउँपालिका,39,Syangja,स्याङ्जा
+524 4 41 4 002,4,Phedikhola,फेदीखोला,Rural Municipality,गाउँपालिका,39,Syangja,स्याङ्जा
+524 4 41 4 003,4,Arjunchaupari,अर्जुन चौपारी,Rural Municipality,गाउँपालिका,39,Syangja,स्याङ्जा
+524 4 41 4 004,4,Biruwa,विरुवा,Rural Municipality,गाउँपालिका,39,Syangja,स्याङ्जा
+524 4 41 4 005,4,Harinas,हरीनास,Rural Municipality,गाउँपालिका,39,Syangja,स्याङ्जा
+524 4 41 4 006,4,Kaligandaki,कालीगण्डकी,Rural Municipality,गाउँपालिका,39,Syangja,स्याङ्जा
+524 4 42 3 001,4,Kushma,कुश्मा,Urban Municipality,नगरपालिका,44,Parbat,पर्वत
+524 4 42 3 002,4,Phalebas,फलेवास,Urban Municipality,नगरपालिका,44,Parbat,पर्वत
+524 4 42 4 001,4,Jaljala,जलजला,Rural Municipality,गाउँपालिका,44,Parbat,पर्वत
+524 4 42 4 002,4,Modi,मोदी,Rural Municipality,गाउँपालिका,44,Parbat,पर्वत
+524 4 42 4 003,4,Bihadi,विहादी,Rural Municipality,गाउँपालिका,44,Parbat,पर्वत
+524 4 42 4 004,4,Mahashila,महाशिला,Rural Municipality,गाउँपालिका,44,Parbat,पर्वत
+524 4 42 4 005,4,Painyu,पैयूं,Rural Municipality,गाउँपालिका,44,Parbat,पर्वत
+524 4 43 3 001,5,Dhorpatan,ढोरपाटन,Urban Municipality,नगरपालिका,45,Baglung,बागलुङ
+524 4 43 3 002,5,Galkot,गल्कोट,Urban Municipality,नगरपालिका,45,Baglung,बागलुङ
+524 4 43 3 003,5,Baglung,बागलुङ,Urban Municipality,नगरपालिका,45,Baglung,बागलुङ
+524 4 43 3 004,5,Jaimuni,जैमुनी,Urban Municipality,नगरपालिका,45,Baglung,बागलुङ
+524 4 43 4 001,5,Nisikhola,निसीखोला,Rural Municipality,गाउँपालिका,45,Baglung,बागलुङ
+524 4 43 4 002,5,Taman Khola,तमानखोला,Rural Municipality,गाउँपालिका,45,Baglung,बागलुङ
+524 4 43 4 003,5,Badigad,वडिगाड,Rural Municipality,गाउँपालिका,45,Baglung,बागलुङ
+524 4 43 4 004,5,Tara Khola,ताराखोला,Rural Municipality,गाउँपालिका,45,Baglung,बागलुङ
+524 4 43 4 005,5,Kanthekhola,काठेखोला,Rural Municipality,गाउँपालिका,45,Baglung,बागलुङ
+524 4 43 4 006,5,Bareng,वरेङ,Rural Municipality,गाउँपालिका,45,Baglung,बागलुङ
+524 4 43 5 998,4,Dhorpatan Hunting Reserve,ढोरपाटन शिकार आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,45,Baglung,बागलुङ
+524 4 44 3 001,4,Beni,बेनी ,Urban Municipality,नगरपालिका,43,Myagdi,म्याग्दी
+524 4 44 4 001,4,Dhaulagiri,धवलागिरी,Rural Municipality,गाउँपालिका,43,Myagdi,म्याग्दी
+524 4 44 4 002,4,Raghuganga,रघुगंगा,Rural Municipality,गाउँपालिका,43,Myagdi,म्याग्दी
+524 4 44 4 003,4,Annapurna,अन्नपूर्ण,Rural Municipality,गाउँपालिका,43,Myagdi,म्याग्दी
+524 4 44 4 004,4,Malika,मालिका,Rural Municipality,गाउँपालिका,43,Myagdi,म्याग्दी
+524 4 44 4 005,4,Mangala,मंगला,Rural Municipality,गाउँपालिका,43,Myagdi,म्याग्दी
+524 4 44 5 998,4,Dhorpatan Hunting Reserve,ढोरपाटन शिकार आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,43,Myagdi,म्याग्दी
+524 4 45 4 001,4,Lomanthang,लोमन्थाङ,Rural Municipality,गाउँपालिका,42,Mustang,मुस्ताङ
+524 4 45 4 002,4,Dalome,दालोमे,Rural Municipality,गाउँपालिका,42,Mustang,मुस्ताङ
+524 4 45 4 003,4,Barhagaun Muktikshetra,बाह्गाउँ मुक्तिक्षेत्र,Rural Municipality,गाउँपालिका,42,Mustang,मुस्ताङ
+524 4 45 4 004,4,Gharapjhong,घरपझोङ,Rural Municipality,गाउँपालिका,42,Mustang,मुस्ताङ
+524 4 45 4 005,4,Thasang,थासाङ,Rural Municipality,गाउँपालिका,42,Mustang,मुस्ताङ
+524 4 47 3 001,4,Madhyabindu,मध्यविन्दु,Urban Municipality,नगरपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 3 002,4,Kawasoti,कावासोती,Urban Municipality,नगरपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 3 003,4,Devchuli,देवचुली,Urban Municipality,नगरपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 3 004,4,Gaidakot,गैडाकोट,Urban Municipality,नगरपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 4 001,4,Bungdikali,बुङदीकाली,Rural Municipality,गाउँपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 4 002,4,Bulingtar,बुलिङटार,Rural Municipality,गाउँपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 4 003,4,Hupsekot,हुप्सेकोट,Rural Municipality,गाउँपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 4 004,4,Binayee Triveni,विनयी त्रिवेणी,Rural Municipality,गाउँपालिका,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 4 47 5 997,4,Chitawan National Park,चितवन राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,48,Nawalparasi East,नवलपरासी (बर्दघाट सुस्ता पूर्व)
+524 5 46 3 001,5,Tansen,तानसेन,Urban Municipality,नगरपालिका,47,Palpa,पाल्पा
+524 5 46 3 002,5,Rampur,रामपुर,Urban Municipality,नगरपालिका,47,Palpa,पाल्पा
+524 5 46 4 001,5,Rainadevi Chhahara,रैनादेवी छहरा,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 002,5,Tinau,तिनाउ,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 003,5,Ribdikot,रिब्दिकोट,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 004,5,Mathagadhi,माथागढी,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 005,5,Bagnaskali,बगनासकाली,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 006,5,Purbakhola,पूर्वखोला,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 007,5,Rambha,रम्भा,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 46 4 008,5,Nisdi,निस्दी,Rural Municipality,गाउँपालिका,47,Palpa,पाल्पा
+524 5 47 3 001,5,Sunwal,सुनवल,Urban Municipality,नगरपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 47 3 002,5,Bardaghat,बर्दघाट,Urban Municipality,नगरपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 47 3 003,5,Ramgram,रामग्राम,Urban Municipality,नगरपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 47 4 001,5,Palhi Nandan,पाल्हीनन्दन,Rural Municipality,गाउँपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 47 4 002,5,Sarawal,सरावल,Rural Municipality,गाउँपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 47 4 003,5,Pratappur,प्रतापपुर,Rural Municipality,गाउँपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 47 4 004,5,Susta,सुस्ता,Rural Municipality,गाउँपालिका,48,Nawalparasi West,नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+524 5 48 2 001,5,Butwal,बुटवल,Sub-metropolitan City,उपमहानगरपालिका,49,Rupandehi,रुपन्देही
+524 5 48 3 001,5,Sainamaina,सैनामैना,Urban Municipality,नगरपालिका,49,Rupandehi,रुपन्देही
+524 5 48 3 002,5,Devdaha,देवदह,Urban Municipality,नगरपालिका,49,Rupandehi,रुपन्देही
+524 5 48 3 003,5,Tilottama,तिलोत्तमा,Urban Municipality,नगरपालिका,49,Rupandehi,रुपन्देही
+524 5 48 3 004,5,Lumbini Sanskritik,लुम्बिनी सांस्कृतिक,Urban Municipality,नगरपालिका,49,Rupandehi,रुपन्देही
+524 5 48 3 005,5,Siddharthanagar,सिद्धार्थनगर,Urban Municipality,नगरपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 001,5,Kanchan,कंचन,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 002,5,Sudhdhodhan,शुद्धोधन,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 003,5,Gaidahawa,गैडहवा,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 004,5,Siyari,सियारी,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 005,5,Mayadevi,मायादेवी,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 006,5,Omsatiya,ओमसतिया,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 007,5,Rohini,रोहिणी,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 008,5,Kotahimai,कोटहीमाई,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 009,5,Sammarimai,सम्मरीमाई,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 4 010,5,Marchawari,मर्चवारी,Rural Municipality,गाउँपालिका,49,Rupandehi,रुपन्देही
+524 5 48 5 999,5,Lumbini Sanskritik Development Area,लुम्बिनी सांस्कृतिक विकास क्षेत्र,Designated Area,निर्दिष्ट क्षेत्र,49,Rupandehi,रुपन्देही
+524 5 49 3 001,5,Shivaraj,शिवराज,Urban Municipality,नगरपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 3 002,5,Buddhabhumi,बुद्धभूमी,Urban Municipality,नगरपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 3 003,5,Banganga,बाणगंगा,Urban Municipality,नगरपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 3 004,5,Krishnanagar,कृष्णनगर,Urban Municipality,नगरपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 3 005,5,Maharajgunj,महाराजगंज,Urban Municipality,नगरपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 3 006,5,Kapilbastu,कपिलवस्तु,Urban Municipality,नगरपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 4 001,5,Bijayanagar,विजयनगर,Rural Municipality,गाउँपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 4 002,5,Yashodhara,यसोधरा,Rural Municipality,गाउँपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 4 003,5,Mayadevi,मायादेवी,Rural Municipality,गाउँपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 49 4 004,5,Sudhdhodhan,शुद्धोधन,Rural Municipality,गाउँपालिका,50,Kapilbastu,कपिलवस्तु
+524 5 50 3 001,5,Bhumekasthan,भूमिकास्थान,Urban Municipality,नगरपालिका,51,Arghakhanchi,अर्घाखाँची
+524 5 50 3 002,5,Sandhikharka,सन्धिखर्क,Urban Municipality,नगरपालिका,51,Arghakhanchi,अर्घाखाँची
+524 5 50 3 003,5,Sitganga,सितगंगा,Urban Municipality,नगरपालिका,51,Arghakhanchi,अर्घाखाँची
+524 5 50 4 001,5,Malarani,मालारानी,Rural Municipality,गाउँपालिका,51,Arghakhanchi,अर्घाखाँची
+524 5 50 4 002,5,Chhatradev,छत्रदेव,Rural Municipality,गाउँपालिका,51,Arghakhanchi,अर्घाखाँची
+524 5 50 4 003,5,Panini,पाणिनी,Rural Municipality,गाउँपालिका,51,Arghakhanchi,अर्घाखाँची
+524 5 51 3 001,5,Musikot,मुसिकोट,Urban Municipality,नगरपालिका,46,Gulmi,गुल्मी
+524 5 51 3 002,5,Resunga,रेसुङ्गा,Urban Municipality,नगरपालिका,46,Gulmi,गुल्मी
+524 5 51 4 001,5,Madane,मदाने,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 002,5,Malika,मालिका,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 003,5,Dhurkot,धुर्कोट,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 004,5,Isma,ईस्मा,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 005,5,Gulmidarbar,गुल्मीदरवार,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 006,5,Chandrakot,चन्द्रकोट,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 007,5,Chhatrakot,छत्रकोट,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 008,5,Ruru,रुरु,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 009,5,Satyawati,सत्यवती,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 51 4 010,5,Kaligandaki,कालीगण्डकी,Rural Municipality,गाउँपालिका,46,Gulmi,गुल्मी
+524 5 52 4 001,5,Sisne,सिस्ने,Rural Municipality,गाउँपालिका,54,Rukum East,रुकुम पूर्व
+524 5 52 4 002,5,Putha Uttarganga,पुथा उत्तरगंगा,Rural Municipality,गाउँपालिका,54,Rukum East,रुकुम पूर्व
+524 5 52 4 003,5,Bhume,भूमे,Rural Municipality,गाउँपालिका,54,Rukum East,रुकुम पूर्व
+524 5 52 5 998,5,Dhorpatan Hunting Reserve,ढोरपाटन शिकार आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,54,Rukum East,रुकुम पूर्व
+524 5 54 3 001,5,Rolpa,रोल्पा,Urban Municipality,नगरपालिका,53,Rolpa,रोल्पा
+524 5 54 4 001,5,Sukidaha,सुकिदह,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 002,5,Duikholi,दुईखोली,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 003,5,Thawang,थवाङ,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 004,5,Madi,माडी,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 005,5,Sunchhahari,सुनछहरी,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 006,5,Tribeni,त्रिवेणी,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 007,5,Suwarnabati,सुवर्णावती,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 008,5,Lungri,लुङग्री,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 54 4 009,5,Runtigadi,रुन्टीगढी,Rural Municipality,गाउँपालिका,53,Rolpa,रोल्पा
+524 5 55 3 001,5,Sworgadwary,स्वर्गद्वारी,Urban Municipality,नगरपालिका,52,Pyuthan,प्यूठान
+524 5 55 3 002,5,Pyuthan,प्यूठान,Urban Municipality,नगरपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 001,5,Naubahini,नौवहिनी,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 002,5,Gaumukhi,गौमुखी,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 003,5,Jhimruk,झिमरुक,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 004,5,Mandavi,माण्डवी,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 005,5,Mallarani,मल्लरानी,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 006,5,Sarumarani,सरुमारानी,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 55 4 007,5,Aerawati,ऐरावती,Rural Municipality,गाउँपालिका,52,Pyuthan,प्यूठान
+524 5 56 2 001,5,Tulsipur,तुल्सिपुर,Sub-metropolitan City,उपमहानगरपालिका,56,Dang,दाङ
+524 5 56 2 002,5,Ghorahi,घोराही,Sub-metropolitan City,उपमहानगरपालिका,56,Dang,दाङ
+524 5 56 3 001,5,Lamahi,लमही,Urban Municipality,नगरपालिका,56,Dang,दाङ
+524 5 56 4 001,5,Babai,बबई,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 56 4 002,5,Dangisharan,दंगीशरण,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 56 4 003,5,Shantinagar,शान्तिनगर,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 56 4 004,5,Rajpur,राजपुर,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 56 4 005,5,Banglachuli,बंगलाचुली,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 56 4 006,5,Gadhawa,गढवा,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 56 4 007,5,Rapti,राप्ती,Rural Municipality,गाउँपालिका,56,Dang,दाङ
+524 5 57 2 001,5,Nepalgunj,नेपालगंज,Sub-metropolitan City,उपमहानगरपालिका,57,Banke,बाँके
+524 5 57 3 001,5,Kohalpur,कोहलपुर,Urban Municipality,नगरपालिका,57,Banke,बाँके
+524 5 57 4 001,5,Khajura,खजुरा,Rural Municipality,गाउँपालिका,57,Banke,बाँके
+524 5 57 4 002,5,Baijanath,बैजनाथ,Rural Municipality,गाउँपालिका,57,Banke,बाँके
+524 5 57 4 003,5,Janaki,जानकी,Rural Municipality,गाउँपालिका,57,Banke,बाँके
+524 5 57 4 004,5,Duduwa,डुडुवा,Rural Municipality,गाउँपालिका,57,Banke,बाँके
+524 5 57 4 005,5,Rapti Sonari,राप्ती सोनारी,Rural Municipality,गाउँपालिका,57,Banke,बाँके
+524 5 57 4 006,5,Narainapur,नरैनापुर,Rural Municipality,गाउँपालिका,57,Banke,बाँके
+524 5 58 3 001,5,Rajapur,राजापुर,Urban Municipality,नगरपालिका,58,Bardiya,बर्दिया
+524 5 58 3 002,5,Madhuwan,मधुवन,Urban Municipality,नगरपालिका,58,Bardiya,बर्दिया
+524 5 58 3 003,5,Thakurbaba,ठाकुरबाबा,Urban Municipality,नगरपालिका,58,Bardiya,बर्दिया
+524 5 58 3 004,5,Gulariya,गुलरिया,Urban Municipality,नगरपालिका,58,Bardiya,बर्दिया
+524 5 58 3 005,5,Barbardiya,बारबर्दिया,Urban Municipality,नगरपालिका,58,Bardiya,बर्दिया
+524 5 58 3 006,5,Bansgadhi,बाँसगढी,Urban Municipality,नगरपालिका,58,Bardiya,बर्दिया
+524 5 58 4 001,5,Geruwa,गेरुवा,Rural Municipality,गाउँपालिका,58,Bardiya,बर्दिया
+524 5 58 4 002,5,Badhaiyatal,बढैयाताल,Rural Municipality,गाउँपालिका,58,Bardiya,बर्दिया
+524 5 58 5 997,5,Bardiya National Park,बर्दिया राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,58,Bardiya,बर्दिया
+524 6 52 3 001,6,Aathbiskot,आठबिसकोट,Urban Municipality,नगरपालिका,54,Rukum West,रुकुम पश्चिम
+524 6 52 3 002,6,Chaurjahari,चौरजहारी,Urban Municipality,नगरपालिका,54,Rukum West,रुकुम पश्चिम
+524 6 52 3 003,6,Musikot,मुसिकोट,Urban Municipality,नगरपालिका,54,Rukum West,रुकुम पश्चिम
+524 6 52 4 001,6,Sani Bheri,सानीभेरी,Rural Municipality,गाउँपालिका,54,Rukum West,रुकुम पश्चिम
+524 6 52 4 002,6,Banfikot,बाँफिकोट,Rural Municipality,गाउँपालिका,54,Rukum West,रुकुम पश्चिम
+524 6 52 4 003,6,Tribeni,त्रिवेणी,Rural Municipality,गाउँपालिका,54,Rukum West,रुकुम पश्चिम
+524 6 53 3 001,5,Bangad Kupinde,बनगाड कुपिण्डे,Urban Municipality,नगरपालिका,55,Salyan,सल्यान
+524 6 53 3 002,5,Bagchaur,बागचौर,Urban Municipality,नगरपालिका,55,Salyan,सल्यान
+524 6 53 3 003,5,Sharada,शारदा,Urban Municipality,नगरपालिका,55,Salyan,सल्यान
+524 6 53 4 001,5,Kumakhmalika,कुमाखमालिका,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 53 4 002,5,Darma,दार्मा,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 53 4 003,5,Dhorchaur,ढोरचौर,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 53 4 004,5,Kalimati,कालीमाटी,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 53 4 005,5,Chhatreshwori,छत्रेश्वरी,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 53 4 006,5,Tribeni,त्रिवेणी,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 53 4 007,5,Kapurkot,कपुरकोट,Rural Municipality,गाउँपालिका,55,Salyan,सल्यान
+524 6 59 3 001,6,Panchpuri,पञ्चपुरी,Urban Municipality,नगरपालिका,59,Surkhet,सुर्खेत
+524 6 59 3 002,6,Bheriganga,भेरीगंगा,Urban Municipality,नगरपालिका,59,Surkhet,सुर्खेत
+524 6 59 3 003,6,Birendranagar,बीरेन्द्रनगर,Urban Municipality,नगरपालिका,59,Surkhet,सुर्खेत
+524 6 59 3 004,6,Lekbeshi,लेकबेशी,Urban Municipality,नगरपालिका,59,Surkhet,सुर्खेत
+524 6 59 3 005,6,Gurbhakot,गुर्भाकोट,Urban Municipality,नगरपालिका,59,Surkhet,सुर्खेत
+524 6 59 4 001,6,Chaukune,चौकुने,Rural Municipality,गाउँपालिका,59,Surkhet,सुर्खेत
+524 6 59 4 002,6,Barahatal,बराहताल,Rural Municipality,गाउँपालिका,59,Surkhet,सुर्खेत
+524 6 59 4 003,6,Chingad,चिङ्गाड,Rural Municipality,गाउँपालिका,59,Surkhet,सुर्खेत
+524 6 59 4 004,6,Simta,सिम्ता,Rural Municipality,गाउँपालिका,59,Surkhet,सुर्खेत
+524 6 60 3 001,6,Chhedagad,छेडागाड,Urban Municipality,नगरपालिका,61,Jajarkot,जाजरकोट
+524 6 60 3 002,6,Bheri,भेरी,Urban Municipality,नगरपालिका,61,Jajarkot,जाजरकोट
+524 6 60 3 003,6,Tribeni Nalagad,त्रिवेणी नलगाड,Urban Municipality,नगरपालिका,61,Jajarkot,जाजरकोट
+524 6 60 4 001,6,Junichande,जुनीचाँदे,Rural Municipality,गाउँपालिका,61,Jajarkot,जाजरकोट
+524 6 60 4 002,6,Kuse,कुसे,Rural Municipality,गाउँपालिका,61,Jajarkot,जाजरकोट
+524 6 60 4 003,6,Barekot,बारेकोट,Rural Municipality,गाउँपालिका,61,Jajarkot,जाजरकोट
+524 6 60 4 004,6,Shiwalaya,शिवालय,Rural Municipality,गाउँपालिका,61,Jajarkot,जाजरकोट
+524 6 61 3 001,6,Aathabis,आठबीस,Urban Municipality,नगरपालिका,60,Dailekh,दैलेख
+524 6 61 3 002,6,Chamunda Bindrasaini,चामुण्डा विन्द्रासैनी,Urban Municipality,नगरपालिका,60,Dailekh,दैलेख
+524 6 61 3 003,6,Dullu,दुल्लु,Urban Municipality,नगरपालिका,60,Dailekh,दैलेख
+524 6 61 3 004,6,Narayan,नारायण,Urban Municipality,नगरपालिका,60,Dailekh,दैलेख
+524 6 61 4 001,6,Thantikandh,ठाँटीकाँध,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 61 4 002,6,Bhairabi,भैरवी,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 61 4 003,6,Mahabu,महावु,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 61 4 004,6,Naumule,नौमुले,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 61 4 005,6,Gurans,गुराँस,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 61 4 006,6,Dungeshwor,डुंगेश्वर,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 61 4 007,6,Bhagawatimai,भगवतीमाई,Rural Municipality,गाउँपालिका,60,Dailekh,दैलेख
+524 6 62 3 001,6,Tripura Sundari,त्रिपुरासुन्दरी,Urban Municipality,नगरपालिका,62,Dolpa,डोल्पा
+524 6 62 3 002,6,Thuli Bheri,ठूली भेरी,Urban Municipality,नगरपालिका,62,Dolpa,डोल्पा
+524 6 62 4 001,6,Shey Phoksundo,शे फोक्सुन्डो,Rural Municipality,गाउँपालिका,62,Dolpa,डोल्पा
+524 6 62 4 002,6,Jagadulla,जगदुल्ला,Rural Municipality,गाउँपालिका,62,Dolpa,डोल्पा
+524 6 62 4 003,6,Dolpo Buddha,डोल्पो बुद्ध,Rural Municipality,गाउँपालिका,62,Dolpa,डोल्पा
+524 6 62 4 004,6,Mudkechula,मुड्केचुला,Rural Municipality,गाउँपालिका,62,Dolpa,डोल्पा
+524 6 62 4 005,6,Kaike,काईके,Rural Municipality,गाउँपालिका,62,Dolpa,डोल्पा
+524 6 62 4 006,6,Chharka Tangsong,छार्का ताङसोङ,Rural Municipality,गाउँपालिका,62,Dolpa,डोल्पा
+524 6 63 3 001,6,Chandannath,चन्दननाथ,Urban Municipality,नगरपालिका,63,Jumla,जुम्ला
+524 6 63 4 001,6,Kanakasundari,कनकासुन्दरी,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 63 4 002,6,Sinja,सिंजा,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 63 4 003,6,Patrasi,पातारासी,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 63 4 004,6,Hima,हिमा,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 63 4 005,6,Tila,तिला,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 63 4 006,6,Tatopani,तातोपानी,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 63 4 007,6,Guthichaur,गुठिचौर,Rural Municipality,गाउँपालिका,63,Jumla,जुम्ला
+524 6 64 3 001,6,Raskot,रास्कोट,Urban Municipality,नगरपालिका,64,Kalikot,कालिकोट
+524 6 64 3 002,6,Khandachakra,खाँडाचक्र,Urban Municipality,नगरपालिका,64,Kalikot,कालिकोट
+524 6 64 3 003,6,Tilagufa,तिलागुफा,Urban Municipality,नगरपालिका,64,Kalikot,कालिकोट
+524 6 64 4 001,6,Naraharinath,नरहरिनाथ,Rural Municipality,गाउँपालिका,64,Kalikot,कालिकोट
+524 6 64 4 002,6,Sanni Tribeni,सान्नी त्रिवेणी,Rural Municipality,गाउँपालिका,64,Kalikot,कालिकोट
+524 6 64 4 003,6,Pachaljharana,पचालझरना,Rural Municipality,गाउँपालिका,64,Kalikot,कालिकोट
+524 6 64 4 004,6,Palata,पलाता,Rural Municipality,गाउँपालिका,64,Kalikot,कालिकोट
+524 6 64 4 005,6,Kalika,कालिका,Rural Municipality,गाउँपालिका,64,Kalikot,कालिकोट
+524 6 64 4 006,6,Mahawai,महावै,Rural Municipality,गाउँपालिका,64,Kalikot,कालिकोट
+524 6 65 3 001,6,Chhayanath Rara,छायाँनाथ रारा,Urban Municipality,नगरपालिका,65,Mugu,मुगु
+524 6 65 4 001,6,Khatyad,खत्याड,Rural Municipality,गाउँपालिका,65,Mugu,मुगु
+524 6 65 4 002,6,Soru,सोरु,Rural Municipality,गाउँपालिका,65,Mugu,मुगु
+524 6 65 4 003,6,Mugum Karmarong,मुगुम कार्मारोंग,Rural Municipality,गाउँपालिका,65,Mugu,मुगु
+524 6 66 4 001,6,Namkha,नाम्खा,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 6 66 4 002,6,Simkot,सिमकोट,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 6 66 4 003,6,Kharpunath,खार्पुनाथ,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 6 66 4 004,6,Sarkegad,सर्केगाड,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 6 66 4 005,6,Chankheli,चंखेली,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 6 66 4 006,6,Tanjakot,ताँजाकोट,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 6 66 4 007,6,Adanchuli,अदानचुली,Rural Municipality,गाउँपालिका,66,Humla,हुम्ला
+524 7 67 3 001,7,Bungal,बुंगल,Urban Municipality,नगरपालिका,68,Bajhang,बझाङ्ग
+524 7 67 3 002,7,Jayaprithivi,जयपृथ्वी,Urban Municipality,नगरपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 001,7,Kanda,काँडा,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 002,7,Surma,सूर्मा,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 003,7,Talkot,तलकोट,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 004,7,Bithadchir,वित्थडचिर,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 005,7,Kedarseu,केदारस्युँ,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 006,7,Durgathali,दुर्गाथली,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 007,7,Chabispathivera,छबिसपाथिभेरा,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 008,7,Masta,मष्टा,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 009,7,Thalara,थलारा,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 4 010,7,Khaptadchhanna,खप्तडछान्ना,Rural Municipality,गाउँपालिका,68,Bajhang,बझाङ्ग
+524 7 67 5 997,7,Khaptad National Park,खप्तड राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,68,Bajhang,बझाङ्ग
+524 7 68 3 001,7,Budhinanda,बुढीनन्दा,Urban Municipality,नगरपालिका,67,Bajura,बाजुरा
+524 7 68 3 002,7,Badimalika,बडीमालिका,Urban Municipality,नगरपालिका,67,Bajura,बाजुरा
+524 7 68 3 003,7,Budhiganga,बुढीगंगा,Urban Municipality,नगरपालिका,67,Bajura,बाजुरा
+524 7 68 3 004,7,Tribeni,त्रिवेणी,Urban Municipality,नगरपालिका,67,Bajura,बाजुरा
+524 7 68 4 001,7,Himali,हिमाली,Rural Municipality,गाउँपालिका,67,Bajura,बाजुरा
+524 7 68 4 002,7,Gaumul,गौमुल,Rural Municipality,गाउँपालिका,67,Bajura,बाजुरा
+524 7 68 4 003,7,Chhededaha,छेडेदह,Rural Municipality,गाउँपालिका,67,Bajura,बाजुरा
+524 7 68 4 004,7,Pandav Gupha,पाण्डवगुफा,Rural Municipality,गाउँपालिका,67,Bajura,बाजुरा
+524 7 68 4 005,7,Swami Kartik,स्वामीकार्तिक,Rural Municipality,गाउँपालिका,67,Bajura,बाजुरा
+524 7 68 5 997,7,Khaptad National Park,खप्तड राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,67,Bajura,बाजुरा
+524 7 69 3 001,7,Sanphebagar,साफेबगर,Urban Municipality,नगरपालिका,69,Achham,अछाम
+524 7 69 3 002,7,Mangalsen,मंगलसेन,Urban Municipality,नगरपालिका,69,Achham,अछाम
+524 7 69 3 003,7,Kamalbazar,कमलबजार,Urban Municipality,नगरपालिका,69,Achham,अछाम
+524 7 69 3 004,7,Panchadewal Binayak,पञ्चदेवल विनायक,Urban Municipality,नगरपालिका,69,Achham,अछाम
+524 7 69 4 001,7,Chaurpati,चौरपाटी,Rural Municipality,गाउँपालिका,69,Achham,अछाम
+524 7 69 4 002,7,Mellekh,मेल्लेख,Rural Municipality,गाउँपालिका,69,Achham,अछाम
+524 7 69 4 003,7,Bannigadhi Jayagadh,बान्नीगढी जयगढ,Rural Municipality,गाउँपालिका,69,Achham,अछाम
+524 7 69 4 004,7,Ramaroshan,रामारोशन,Rural Municipality,गाउँपालिका,69,Achham,अछाम
+524 7 69 4 005,7,Dhakari,ढकारी,Rural Municipality,गाउँपालिका,69,Achham,अछाम
+524 7 69 4 006,7,Turmakhad,तुर्माखाँद,Rural Municipality,गाउँपालिका,69,Achham,अछाम
+524 7 69 5 997,7,Khaptad National Park,खप्तड राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,69,Achham,अछाम
+524 7 70 3 001,7,Shikhar,शिखर,Urban Municipality,नगरपालिका,70,Doti,डोटी
+524 7 70 3 002,7,Dipayal Silgadhi,दिपायल सिलगढी,Urban Municipality,नगरपालिका,70,Doti,डोटी
+524 7 70 4 001,7,Adharsha,आदर्श,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 4 002,7,Sayal,सायल,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 4 003,7,Purbichauki,पूर्वीचौकी,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 4 004,7,Jorayal,जोरायल,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 4 005,7,K I Singh,के.आई.सिं.,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 4 006,7,Badikedar,बडीकेदार,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 4 007,7,Bogtan,बोगटान,Rural Municipality,गाउँपालिका,70,Doti,डोटी
+524 7 70 5 997,7,Khaptad National Park,खप्तड राष्ट्रिय निकुञ्ज,Designated Area,निर्दिष्ट क्षेत्र,70,Doti,डोटी
+524 7 71 2 001,7,Dhangadhi,धनगढी,Sub-metropolitan City,उपमहानगरपालिका,71,Kailali,कैलाली
+524 7 71 3 001,7,Godawari,गोदावरी,Urban Municipality,नगरपालिका,71,Kailali,कैलाली
+524 7 71 3 002,7,Gauriganga,गौरीगंगा,Urban Municipality,नगरपालिका,71,Kailali,कैलाली
+524 7 71 3 003,7,Ghodaghodi,घोडाघोडी,Urban Municipality,नगरपालिका,71,Kailali,कैलाली
+524 7 71 3 004,7,Bhajani,भजनी,Urban Municipality,नगरपालिका,71,Kailali,कैलाली
+524 7 71 3 005,7,Tikapur,टिकापुर,Urban Municipality,नगरपालिका,71,Kailali,कैलाली
+524 7 71 3 006,7,Lamkichuha,लम्की चुहा,Urban Municipality,नगरपालिका,71,Kailali,कैलाली
+524 7 71 4 001,7,Chure,चुरे,Rural Municipality,गाउँपालिका,71,Kailali,कैलाली
+524 7 71 4 002,7,Kailari,कैलारी,Rural Municipality,गाउँपालिका,71,Kailali,कैलाली
+524 7 71 4 003,7,Mohanyal,मोहन्याल,Rural Municipality,गाउँपालिका,71,Kailali,कैलाली
+524 7 71 4 004,7,Joshipur,जोशीपुर,Rural Municipality,गाउँपालिका,71,Kailali,कैलाली
+524 7 71 4 005,7,Bardagoriya,बर्दगोरीया,Rural Municipality,गाउँपालिका,71,Kailali,कैलाली
+524 7 71 4 006,7,Janaki,जानकी,Rural Municipality,गाउँपालिका,71,Kailali,कैलाली
+524 7 72 3 001,7,Mahakali,माहाकाली,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 3 002,7,Bhimdatta,भीमदत्त,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 3 003,7,Bedkot,वेदकोट,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 3 004,7,Shuklaphanta,सुक्लाफाँटा,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 3 005,7,Krishnapur,कृष्णपुर,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 3 006,7,Belauri,बेलौरी,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 3 007,7,Punarbas,पुनर्वास,Urban Municipality,नगरपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 4 001,7,Beldandi,बेलडाडी,Rural Municipality,गाउँपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 4 002,7,Laljhadi,लालझाँडी,Rural Municipality,गाउँपालिका,72,Kanchanpur,कञ्चनपुर
+524 7 72 5 997,7,Shuklaphanta National Park,शुक्लाफाँट वन्यजन्तु आरक्षण,Designated Area,निर्दिष्ट क्षेत्र,72,Kanchanpur,कञ्चनपुर
+524 7 73 3 001,7,Parashuram,परशुराम,Urban Municipality,नगरपालिका,73,Dadeldhura,डडेलधुरा
+524 7 73 3 002,7,Amargadhi,अमरगढी,Urban Municipality,नगरपालिका,73,Dadeldhura,डडेलधुरा
+524 7 73 4 001,7,Bhageshwar,भागेश्वर,Rural Municipality,गाउँपालिका,73,Dadeldhura,डडेलधुरा
+524 7 73 4 002,7,Ajaymeru,अजयमेरु,Rural Municipality,गाउँपालिका,73,Dadeldhura,डडेलधुरा
+524 7 73 4 003,7,Nawadurga,नवदुर्गा,Rural Municipality,गाउँपालिका,73,Dadeldhura,डडेलधुरा
+524 7 73 4 004,7,Alital,आलिताल,Rural Municipality,गाउँपालिका,73,Dadeldhura,डडेलधुरा
+524 7 73 4 005,7,Ganayapdhura,गन्यापधुरा,Rural Municipality,गाउँपालिका,73,Dadeldhura,डडेलधुरा
+524 7 74 3 001,7,Dasharathchanda,दशरथचन्द,Urban Municipality,नगरपालिका,74,Baitadi,बैतडी
+524 7 74 3 002,7,Purchaudi,पुर्चौडी,Urban Municipality,नगरपालिका,74,Baitadi,बैतडी
+524 7 74 3 003,7,Melauli,मेलौली,Urban Municipality,नगरपालिका,74,Baitadi,बैतडी
+524 7 74 3 004,7,Patan,पाटन,Urban Municipality,नगरपालिका,74,Baitadi,बैतडी
+524 7 74 4 001,7,Dilasaini,डीलासैनी,Rural Municipality,गाउँपालिका,74,Baitadi,बैतडी
+524 7 74 4 002,7,Dogadakedar,दोगडाकेदार,Rural Municipality,गाउँपालिका,74,Baitadi,बैतडी
+524 7 74 4 003,7,Surnaya,सुर्नया,Rural Municipality,गाउँपालिका,74,Baitadi,बैतडी
+524 7 74 4 004,7,Pancheshwar,पन्चेश्वर,Rural Municipality,गाउँपालिका,74,Baitadi,बैतडी
+524 7 74 4 005,7,Shivanath,शिवनाथ,Rural Municipality,गाउँपालिका,74,Baitadi,बैतडी
+524 7 74 4 006,7,Sigas,सिगास,Rural Municipality,गाउँपालिका,74,Baitadi,बैतडी
+524 7 75 3 001,7,Mahakali,महाकाली,Urban Municipality,नगरपालिका,75,Darchula,दार्चुला
+524 7 75 3 002,7,Shailyashikhar,शैल्यशिखर,Urban Municipality,नगरपालिका,75,Darchula,दार्चुला
+524 7 75 4 001,7,Byas,ब्यास,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
+524 7 75 4 002,7,Duhun,दुहुँ,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
+524 7 75 4 003,7,Apihimal,अपिहिमाल,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
+524 7 75 4 004,7,Malikarjun,मालिकार्जुन,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
+524 7 75 4 005,7,Naugad,नौगाड,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
+524 7 75 4 006,7,Lekam,लेकम,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
+524 7 75 4 007,7,Marma,मार्मा,Rural Municipality,गाउँपालिका,75,Darchula,दार्चुला
