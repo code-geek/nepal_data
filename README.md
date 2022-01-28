@@ -8,7 +8,7 @@ Various useful datasets for Nepal
   - List of Nagarpalikas (Urban Municipalities)
   - List of Upamahanagarpalikas (Sub-metropolitan cities)
   - List of Mahanagarpalika (Metropolitan cities)
-4. Ward-wise mapping table from the VDCs to the Gaupalikas/Nagarpalikas(`vdc_to_gapa_napa_mapping_table.csv`)
+4. Ward-wise mapping table from the VDCs to Gaupalikas/Nagarpalikas(`vdc_to_gapa_napa_mapping_table.csv`)
 
 ## old_wards_to_new_wards_mapping
 - Ward-wise mapping table from 2011 wards to 2018 wards: `old_wards_2011_to_new_wards_2018.csv`
